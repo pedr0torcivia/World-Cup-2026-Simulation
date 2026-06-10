@@ -1,0 +1,49 @@
+team,team_id,real_fields,estimated_fields,player_data_quality,team_data_quality_score,warning
+Mexico,MEX,6,12,missing,0.63,player-level data missing; using team-level fallback
+South Africa,RSA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Korea Republic,KOR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Czechia,CZE,6,12,missing,0.63,player-level data missing; using team-level fallback
+Canada,CAN,6,12,missing,0.63,player-level data missing; using team-level fallback
+Bosnia and Herzegovina,BIH,6,12,missing,0.63,player-level data missing; using team-level fallback
+Qatar,QAT,6,12,missing,0.63,player-level data missing; using team-level fallback
+Switzerland,SUI,6,12,missing,0.63,player-level data missing; using team-level fallback
+Brazil,BRA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Haiti,HAI,6,12,missing,0.63,player-level data missing; using team-level fallback
+Morocco,MAR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Scotland,SCO,6,12,missing,0.63,player-level data missing; using team-level fallback
+United States,USA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Australia,AUS,6,12,missing,0.63,player-level data missing; using team-level fallback
+Paraguay,PAR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Turkiye,TUR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Germany,GER,6,12,missing,0.63,player-level data missing; using team-level fallback
+Ecuador,ECU,6,12,missing,0.63,player-level data missing; using team-level fallback
+Ivory Coast,CIV,6,12,missing,0.63,player-level data missing; using team-level fallback
+Curacao,CUW,6,12,missing,0.63,player-level data missing; using team-level fallback
+Netherlands,NED,6,12,missing,0.63,player-level data missing; using team-level fallback
+Japan,JPN,6,12,missing,0.63,player-level data missing; using team-level fallback
+Sweden,SWE,6,12,missing,0.63,player-level data missing; using team-level fallback
+Tunisia,TUN,6,12,missing,0.63,player-level data missing; using team-level fallback
+Belgium,BEL,6,12,missing,0.63,player-level data missing; using team-level fallback
+Egypt,EGY,6,12,missing,0.63,player-level data missing; using team-level fallback
+IR Iran,IRN,6,12,missing,0.63,player-level data missing; using team-level fallback
+New Zealand,NZL,6,12,missing,0.63,player-level data missing; using team-level fallback
+Spain,ESP,6,12,missing,0.63,player-level data missing; using team-level fallback
+Uruguay,URU,6,12,missing,0.63,player-level data missing; using team-level fallback
+Saudi Arabia,KSA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Cape Verde,CPV,6,12,missing,0.63,player-level data missing; using team-level fallback
+France,FRA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Senegal,SEN,6,12,missing,0.63,player-level data missing; using team-level fallback
+Norway,NOR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Iraq,IRQ,6,12,missing,0.63,player-level data missing; using team-level fallback
+Argentina,ARG,6,12,missing,0.63,player-level data missing; using team-level fallback
+Austria,AUT,6,12,missing,0.63,player-level data missing; using team-level fallback
+Algeria,ALG,6,12,missing,0.63,player-level data missing; using team-level fallback
+Jordan,JOR,6,12,missing,0.63,player-level data missing; using team-level fallback
+Portugal,POR,6,12,missing,0.63,player-level data missing; using team-level fallback
+DR Congo,COD,6,12,missing,0.63,player-level data missing; using team-level fallback
+Uzbekistan,UZB,6,12,missing,0.63,player-level data missing; using team-level fallback
+Colombia,COL,6,12,missing,0.63,player-level data missing; using team-level fallback
+England,ENG,6,12,missing,0.63,player-level data missing; using team-level fallback
+Croatia,CRO,6,12,missing,0.63,player-level data missing; using team-level fallback
+Ghana,GHA,6,12,missing,0.63,player-level data missing; using team-level fallback
+Panama,PAN,6,12,missing,0.63,player-level data missing; using team-level fallback

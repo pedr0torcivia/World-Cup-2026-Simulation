@@ -20,3 +20,7 @@ def test_monte_carlo_writes_outputs(tournament_data, tmp_path):
     assert (tmp_path / "match_results_sample.csv").exists()
     assert (tmp_path / "full_report.md").exists()
 
+
+def test_complete_tournament_has_104_matches(tournament_data, tmp_path):
+    result = run_monte_carlo(tournament_data, simulations=1, seed=11, output_dir=tmp_path)
+    assert len(result["match_sample"]) == 104

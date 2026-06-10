@@ -5,8 +5,10 @@ from pathlib import Path
 
 import pandas as pd
 
+from src.analytics.data_quality import build_data_quality_report
 from src.analytics.probabilities import build_probability_tables
 from src.analytics.reports import write_outputs
+from src.analytics.team_dashboard import build_team_dashboard_stats
 from src.simulation.fatigue import initialize_team_fatigue
 from src.simulation.group_stage import simulate_group_stage
 from src.simulation.knockout_stage import simulate_knockout_stage
@@ -28,6 +30,14 @@ def _match_results_to_rows(simulation_id: int, results: list) -> list[dict]:
                 "winner": result.winner or "",
                 "went_to_extra_time": result.went_to_extra_time,
                 "went_to_penalties": result.went_to_penalties,
+                "expected_goals_a": result.expected_goals_a,
+                "expected_goals_b": result.expected_goals_b,
+                "probability_team_a_win": result.probability_summary.get("probability_team_a_win", 0.0),
+                "probability_draw_90": result.probability_summary.get("probability_draw_90", 0.0),
+                "probability_team_b_win": result.probability_summary.get("probability_team_b_win", 0.0),
+                "probability_over_2_5": result.probability_summary.get("probability_over_2_5", 0.0),
+                "probability_both_teams_score": result.probability_summary.get("probability_both_teams_score", 0.0),
+                "most_likely_score": result.probability_summary.get("most_likely_score", ""),
             }
         )
     return rows
@@ -97,6 +107,7 @@ def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int |
         simulation_records.append(record)
 
     probability_tables = build_probability_tables(teams, simulation_records, group_position_records)
+    data_quality_report = build_data_quality_report(teams, tournament_data.players, tournament_data.venues)
     team_names = dict(zip(teams["team_id"], teams["team_name"]))
     injuries_summary = pd.DataFrame(
         [
@@ -117,5 +128,15 @@ def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int |
         "average_injuries": total_injuries / max(1, simulation_count),
         "penalty_rate": total_penalty_matches / max(1, total_matches),
     }
-    write_outputs(output_path, probability_tables, injuries_summary, match_sample, metadata)
-    return {"tables": probability_tables, "injuries": injuries_summary, "match_sample": match_sample, "metadata": metadata}
+    write_outputs(output_path, probability_tables, injuries_summary, match_sample, data_quality_report, metadata)
+    dashboard_stats = build_team_dashboard_stats(output_path)
+    if not dashboard_stats.empty:
+        dashboard_stats.to_csv(output_path / "team_dashboard_stats.csv", index=False)
+    return {
+        "tables": probability_tables,
+        "injuries": injuries_summary,
+        "match_sample": match_sample,
+        "data_quality": data_quality_report,
+        "dashboard": dashboard_stats,
+        "metadata": metadata,
+    }

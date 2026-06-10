@@ -2,49 +2,65 @@
 
 - Simulations: 5
 - Random seed: 123
-- Most likely champion: Brazil (20.00%)
-- Average goals per match: 3.77
-- Average injuries per simulation: 44.00
-- Penalty shootout rate: 3.11%
+- Most likely champion: Paraguay (20.00%)
+- Average goals per match: 2.58
+- Average injuries per simulation: 52.60
+- Penalty shootout rate: 5.00%
+- Average team data quality score: 0.63
 
 ## Top 10 Candidates
 
-- Brazil: 20.00%
-- Portugal: 20.00%
-- Belgium: 20.00%
+- Paraguay: 20.00%
+- Senegal: 20.00%
 - Spain: 20.00%
-- England: 20.00%
+- Curacao: 20.00%
+- France: 20.00%
 - Mexico: 0.00%
 - Korea Republic: 0.00%
 - South Africa: 0.00%
 - Switzerland: 0.00%
-- Haiti: 0.00%
+- Brazil: 0.00%
 
 ## Early Exit Risk
 
-- New Zealand: 100.00%
-- South Africa: 80.00%
-- Tunisia: 80.00%
-- Scotland: 80.00%
-- Iraq: 80.00%
-- Paraguay: 60.00%
-- Haiti: 60.00%
+- Uruguay: 80.00%
+- Ecuador: 80.00%
+- South Africa: 60.00%
 - Bosnia and Herzegovina: 60.00%
-- Curacao: 60.00%
-- Senegal: 60.00%
+- Tunisia: 60.00%
+- Ghana: 60.00%
+- Paraguay: 60.00%
+- IR Iran: 60.00%
+- France: 60.00%
+- Norway: 60.00%
 
 ## Injuries
 
-- Sweden: 1.80 average injuries
-- United States: 1.60 average injuries
-- Curacao: 1.60 average injuries
-- Switzerland: 1.40 average injuries
-- Belgium: 1.40 average injuries
-- Ecuador: 1.40 average injuries
-- Brazil: 1.40 average injuries
-- Uruguay: 1.40 average injuries
-- Argentina: 1.40 average injuries
-- Ghana: 1.40 average injuries
+- Czechia: 2.20 average injuries
+- England: 2.20 average injuries
+- Senegal: 2.00 average injuries
+- Algeria: 2.00 average injuries
+- Ivory Coast: 1.80 average injuries
+- United States: 1.80 average injuries
+- Iraq: 1.80 average injuries
+- Canada: 1.60 average injuries
+- DR Congo: 1.60 average injuries
+- South Africa: 1.60 average injuries
+
+## Data Quality
+
+- Mexico: player-level data missing; using team-level fallback (score 0.63)
+- South Africa: player-level data missing; using team-level fallback (score 0.63)
+- Korea Republic: player-level data missing; using team-level fallback (score 0.63)
+- Czechia: player-level data missing; using team-level fallback (score 0.63)
+- Canada: player-level data missing; using team-level fallback (score 0.63)
+- Bosnia and Herzegovina: player-level data missing; using team-level fallback (score 0.63)
+- Qatar: player-level data missing; using team-level fallback (score 0.63)
+- Switzerland: player-level data missing; using team-level fallback (score 0.63)
+
+## Sensitivity
+
+Sensitivity CSVs can be generated with `run_sensitivity_analysis`; they report champion probability deltas when core assumptions move by +/-10%.
 
 ## Model Notes
 

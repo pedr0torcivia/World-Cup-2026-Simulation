@@ -22,4 +22,4 @@ class MatchResult:
     injuries: list[dict] = field(default_factory=list)
     fatigue_added: dict[str, float] = field(default_factory=dict)
     events: list[str] = field(default_factory=list)
-
+    probability_summary: dict[str, float | str] = field(default_factory=dict)

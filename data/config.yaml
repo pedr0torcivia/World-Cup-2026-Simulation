@@ -1,6 +1,31 @@
 number_of_simulations: 100
 random_seed: 123
 base_goal_rate: 1.35
+expected_goals_model: poisson
+max_expected_goals: 4.5
+min_expected_goals: 0.05
+score_matrix_max_goals: 8
+team_strength_weights:
+  normalized_elo: 0.25
+  normalized_fifa_rating: 0.15
+  player_quality_index: 0.20
+  recent_form_index: 0.10
+  squad_depth_index: 0.10
+  experience_index: 0.08
+  tactical_coherence_index: 0.07
+  coach_index: 0.05
+expected_goals_weights:
+  attack: 1.0
+  defense_weakness: 1.0
+  goalkeeper: 0.06
+  form: 0.18
+  fatigue: 0.28
+  injuries: 1.0
+  tactical: 1.0
+  home: 1.0
+  venue: 1.0
+finishing_shrinkage_k: 25
+home_advantage_cap: 1.1
 injury_base_probability: 0.012
 yellow_card_base_probability: 0.18
 red_card_base_probability: 0.015
@@ -8,6 +33,12 @@ penalty_conversion_base: 0.76
 extra_time_goal_multiplier: 0.22
 fatigue_recovery_per_day: 0.08
 sample_simulations_to_store: 5
+sensitivity_simulations: 20
+sensitivity_parameters:
+  - team_strength_weights.normalized_elo
+  - team_strength_weights.recent_form_index
+  - expected_goals_weights.fatigue
+  - home_advantage_cap
 enable_injuries: true
 enable_cards: true
 enable_fatigue: true

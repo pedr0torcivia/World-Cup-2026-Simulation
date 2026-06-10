@@ -60,9 +60,11 @@ def simulate_knockout_stage(
     reached: dict[str, list[str]] = {"round_of_32": seeded_ids.copy()}
     results: list[MatchResult] = []
     venue_cycle = venues.reset_index(drop=True)
+    semifinal_losers: list[str] = []
 
     for round_index, (round_name, _) in enumerate(ROUND_SEQUENCE):
         winners: list[str] = []
+        losers: list[str] = []
         for match_index, (team_a_id, team_b_id) in enumerate(current_pairs, start=1):
             team_a = teams.loc[teams["team_id"] == team_a_id].iloc[0]
             team_b = teams.loc[teams["team_id"] == team_b_id].iloc[0]
@@ -81,13 +83,33 @@ def simulate_knockout_stage(
             )
             results.append(result)
             winners.append(str(result.winner))
+            losers.append(team_b_id if result.winner == team_a_id else team_a_id)
+        if round_name == "semi_final":
+            semifinal_losers = losers.copy()
         if round_name != "final":
             next_round = ROUND_SEQUENCE[round_index + 1][0]
             reached[next_round] = winners.copy()
             current_pairs = [(winners[index], winners[index + 1]) for index in range(0, len(winners), 2)]
         else:
+            if len(semifinal_losers) == 2:
+                team_a = teams.loc[teams["team_id"] == semifinal_losers[0]].iloc[0]
+                team_b = teams.loc[teams["team_id"] == semifinal_losers[1]].iloc[0]
+                venue = venue_cycle.iloc[(round_index + len(results) + 1) % len(venue_cycle)]
+                results.append(
+                    simulate_match(
+                        "third_place_1",
+                        "third_place",
+                        team_a,
+                        team_b,
+                        venue,
+                        players,
+                        rng,
+                        config,
+                        team_fatigue,
+                        knockout=True,
+                    )
+                )
             reached["champion"] = winners.copy()
             return winners[0], reached, results
 
     raise RuntimeError("Knockout stage ended without a champion")
-

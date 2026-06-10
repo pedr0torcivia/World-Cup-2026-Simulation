@@ -4,6 +4,8 @@ from collections import Counter, defaultdict
 
 import pandas as pd
 
+from src.analytics.uncertainty import add_probability_uncertainty
+
 
 ROUND_COLUMNS = [
     "round_of_32",
@@ -70,8 +72,27 @@ def build_probability_tables(teams: pd.DataFrame, simulation_records: list[dict]
         )
 
     return {
-        "champion_probabilities": pd.DataFrame(champion_rows).sort_values("probability", ascending=False),
-        "qualification_probabilities": pd.DataFrame(qualification_rows).sort_values("champion_probability", ascending=False),
-        "group_probabilities": pd.DataFrame(group_rows).sort_values("probability_qualify", ascending=False),
+        "champion_probabilities": add_probability_uncertainty(
+            pd.DataFrame(champion_rows).sort_values("probability", ascending=False),
+            ["probability"],
+            total,
+        ),
+        "qualification_probabilities": add_probability_uncertainty(
+            pd.DataFrame(qualification_rows).sort_values("champion_probability", ascending=False),
+            [
+                "group_stage_exit_probability",
+                "round_of_32_probability",
+                "round_of_16_probability",
+                "quarter_final_probability",
+                "semi_final_probability",
+                "final_probability",
+                "champion_probability",
+            ],
+            total,
+        ),
+        "group_probabilities": add_probability_uncertainty(
+            pd.DataFrame(group_rows).sort_values("probability_qualify", ascending=False),
+            ["probability_1st", "probability_2nd", "probability_3rd", "probability_4th", "probability_qualify"],
+            total,
+        ),
     }
-
