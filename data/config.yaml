@@ -1,0 +1,16 @@
+number_of_simulations: 100
+random_seed: 123
+base_goal_rate: 1.35
+injury_base_probability: 0.012
+yellow_card_base_probability: 0.18
+red_card_base_probability: 0.015
+penalty_conversion_base: 0.76
+extra_time_goal_multiplier: 0.22
+fatigue_recovery_per_day: 0.08
+sample_simulations_to_store: 5
+enable_injuries: true
+enable_cards: true
+enable_fatigue: true
+enable_home_advantage: true
+enable_venues: true
+enable_player_level_simulation: false

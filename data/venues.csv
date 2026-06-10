@@ -1,0 +1,17 @@
+venue_id,venue_name,city,country,altitude,expected_temperature,expected_humidity,travel_difficulty,home_team_bonus
+AZT,Estadio Azteca,Mexico City,Mexico,2240,24,48,0.75,0.03
+AKR,Estadio Akron,Zapopan,Mexico,1560,27,45,0.62,0.02
+BBVA,Estadio BBVA,Guadalupe,Mexico,540,30,58,0.6,0.02
+BMO,BMO Field,Toronto,Canada,76,23,64,0.42,0.02
+BCP,BC Place,Vancouver,Canada,70,20,66,0.4,0.02
+SOFI,SoFi Stadium,Inglewood,United States,38,24,62,0.36,0.02
+LEVI,Levi's Stadium,Santa Clara,United States,5,24,61,0.38,0.02
+LUM,Lumen Field,Seattle,United States,52,21,68,0.34,0.02
+ATT,AT&T Stadium,Arlington,United States,184,31,55,0.46,0.02
+NRG,NRG Stadium,Houston,United States,13,32,74,0.54,0.02
+ARW,Arrowhead Stadium,Kansas City,United States,265,29,60,0.47,0.02
+MBZ,Mercedes-Benz Stadium,Atlanta,United States,320,29,67,0.5,0.02
+HRD,Hard Rock Stadium,Miami Gardens,United States,2,31,76,0.56,0.02
+MET,MetLife Stadium,East Rutherford,United States,2,27,68,0.5,0.02
+GIL,Gillette Stadium,Foxborough,United States,88,25,66,0.48,0.02
+LIN,Lincoln Financial Field,Philadelphia,United States,12,28,67,0.49,0.02
