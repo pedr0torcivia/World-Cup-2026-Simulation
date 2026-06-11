@@ -1,5 +1,5 @@
 number_of_simulations: 100
-random_seed: 123
+random_seed:
 base_goal_rate: 1.35
 expected_goals_model: poisson
 max_expected_goals: 4.5

@@ -15,6 +15,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--sensitivity", action="store_true", help="Run a lightweight sensitivity analysis after the base simulation.")
     parser.add_argument("--interactive", action="store_true", help="Open the interactive console dashboard after running the simulation.")
     parser.add_argument("--interactive-only", action="store_true", help="Open the interactive dashboard from existing outputs without running a simulation.")
+    parser.add_argument("--matches-only", action="store_true", help="Show the simple match-results interface from existing outputs without running a simulation.")
+    parser.add_argument("--web-report", action="store_true", help="Build the external HTML report from existing outputs without running a simulation.")
+    parser.add_argument("--team", type=str, default=None, help="Team filter for --matches-only.")
     return parser.parse_args()
 
 
@@ -26,6 +29,17 @@ def main() -> None:
 
         interactive_loop(load_dashboard_data(args.project_root / "outputs"))
         return
+    if args.matches_only:
+        from src.match_results_interface import load_match_predictions, print_match_results_interface
+
+        print_match_results_interface(load_match_predictions(args.project_root / "outputs"), args.team)
+        return
+    if args.web_report:
+        from src.web_report import build_worldcup_html_report
+
+        output_path = build_worldcup_html_report(args.project_root / "outputs")
+        print(f"Reporte generado: {output_path}")
+        return
 
     data = load_tournament_data(args.project_root)
     result = run_monte_carlo(data, simulations=args.simulations, seed=args.seed)
@@ -35,7 +49,7 @@ def main() -> None:
         run_sensitivity_analysis(
             data,
             args.project_root / "outputs",
-            seed=args.seed if args.seed is not None else int(data.config.get("random_seed", 123)),
+            seed=args.seed if args.seed is not None else None,
         )
     champion_table = result["tables"]["champion_probabilities"].head(5)
     print("Top champion probabilities")

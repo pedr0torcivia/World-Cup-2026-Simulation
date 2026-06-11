@@ -6,6 +6,7 @@ from pathlib import Path
 import pandas as pd
 
 from src.analytics.data_quality import build_data_quality_report
+from src.analytics.match_predictions import build_match_predictions, record_match_prediction
 from src.analytics.probabilities import build_probability_tables
 from src.analytics.reports import write_outputs
 from src.analytics.team_dashboard import build_team_dashboard_stats
@@ -13,6 +14,7 @@ from src.simulation.fatigue import initialize_team_fatigue
 from src.simulation.group_stage import simulate_group_stage
 from src.simulation.knockout_stage import simulate_knockout_stage
 from src.utils.random_utils import create_rng
+from src.web_report import build_worldcup_html_report
 
 
 def _match_results_to_rows(simulation_id: int, results: list) -> list[dict]:
@@ -46,7 +48,10 @@ def _match_results_to_rows(simulation_id: int, results: list) -> list[dict]:
 def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int | None = None, output_dir: Path | None = None) -> dict:
     config = dict(tournament_data.config)
     simulation_count = int(simulations or config.get("number_of_simulations", 1000))
-    base_seed = int(seed if seed is not None else config.get("random_seed", 123))
+    configured_seed = config.get("random_seed")
+    base_seed = int(seed) if seed is not None else (int(configured_seed) if configured_seed not in {None, "", "random"} else None)
+    seed_label = base_seed if base_seed is not None else "system_entropy"
+    seed_rng = create_rng(base_seed)
     teams = tournament_data.teams.copy()
     output_path = output_dir or tournament_data.project_root / "outputs"
 
@@ -56,13 +61,15 @@ def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int |
     injury_counter = Counter()
     serious_injury_counter = Counter()
     position_counter: dict[str, Counter] = defaultdict(Counter)
+    match_prediction_accumulator: dict = {}
     total_goals = 0
     total_matches = 0
     total_penalty_matches = 0
     total_injuries = 0
 
     for simulation_id in range(1, simulation_count + 1):
-        rng = create_rng(base_seed + simulation_id - 1)
+        simulation_seed = int(seed_rng.integers(0, 2**32 - 1))
+        rng = create_rng(simulation_seed)
         players = tournament_data.players.copy()
         team_fatigue = initialize_team_fatigue(teams)
         group_table, qualifiers, group_results = simulate_group_stage(
@@ -89,6 +96,8 @@ def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int |
             group_position_records.append({"team_id": row["team_id"], "rank": row["rank"], "qualified": row["team_id"] in qualified_ids})
 
         all_results = group_results + knockout_results
+        for result in all_results:
+            record_match_prediction(match_prediction_accumulator, simulation_id, result)
         if simulation_id <= int(config.get("sample_simulations_to_store", 5)):
             match_sample_rows.extend(_match_results_to_rows(simulation_id, all_results))
 
@@ -121,21 +130,26 @@ def run_monte_carlo(tournament_data, simulations: int | None = None, seed: int |
         ]
     ).sort_values("average_injuries", ascending=False)
     match_sample = pd.DataFrame(match_sample_rows)
+    match_predictions = build_match_predictions(match_prediction_accumulator, teams)
     metadata = {
         "simulations": simulation_count,
-        "seed": base_seed,
+        "seed": seed_label,
         "average_goals_per_match": total_goals / max(1, total_matches),
         "average_injuries": total_injuries / max(1, simulation_count),
         "penalty_rate": total_penalty_matches / max(1, total_matches),
     }
     write_outputs(output_path, probability_tables, injuries_summary, match_sample, data_quality_report, metadata)
+    if not match_predictions.empty:
+        match_predictions.to_csv(output_path / "match_predictions.csv", index=False)
     dashboard_stats = build_team_dashboard_stats(output_path)
     if not dashboard_stats.empty:
         dashboard_stats.to_csv(output_path / "team_dashboard_stats.csv", index=False)
+    build_worldcup_html_report(output_path)
     return {
         "tables": probability_tables,
         "injuries": injuries_summary,
         "match_sample": match_sample,
+        "match_predictions": match_predictions,
         "data_quality": data_quality_report,
         "dashboard": dashboard_stats,
         "metadata": metadata,

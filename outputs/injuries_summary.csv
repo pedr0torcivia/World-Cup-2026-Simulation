@@ -1,49 +1,49 @@
 team,average_injuries,serious_injury_probability,most_affected_position
-Czechia,2.2,0.6,TEAM
-England,2.2,0.8,TEAM
-Senegal,2.0,0.2,TEAM
-Algeria,2.0,0.8,TEAM
-Ivory Coast,1.8,0.8,TEAM
-United States,1.8,0.6,TEAM
-Iraq,1.8,0.8,TEAM
-Canada,1.6,0.2,TEAM
-DR Congo,1.6,0.0,TEAM
-South Africa,1.6,0.0,TEAM
-Switzerland,1.4,0.4,TEAM
-Croatia,1.4,0.2,TEAM
-Korea Republic,1.4,0.0,TEAM
-Qatar,1.4,0.2,TEAM
-Germany,1.2,0.4,TEAM
-Haiti,1.2,0.6,TEAM
-France,1.2,0.2,TEAM
-Portugal,1.2,0.4,TEAM
-Japan,1.2,0.4,TEAM
-Belgium,1.2,0.2,TEAM
-Morocco,1.0,0.4,TEAM
-Paraguay,1.0,0.0,TEAM
-Bosnia and Herzegovina,1.0,0.4,TEAM
-Turkiye,1.0,0.2,TEAM
-Jordan,1.0,0.2,TEAM
-Norway,1.0,0.0,TEAM
-Netherlands,1.0,0.0,TEAM
-Uzbekistan,1.0,0.2,TEAM
-Egypt,1.0,0.6,TEAM
-Uruguay,1.0,0.4,TEAM
-Brazil,0.8,0.2,TEAM
-Mexico,0.8,0.2,TEAM
-Spain,0.8,0.2,TEAM
-Ecuador,0.8,0.0,TEAM
-Sweden,0.8,0.0,TEAM
-Panama,0.8,0.0,TEAM
-Tunisia,0.8,0.0,TEAM
-Cape Verde,0.8,0.0,TEAM
-Australia,0.6,0.2,TEAM
-Scotland,0.6,0.2,TEAM
-Austria,0.6,0.2,TEAM
-New Zealand,0.6,0.4,TEAM
-IR Iran,0.6,0.4,TEAM
-Curacao,0.6,0.0,TEAM
-Ghana,0.4,0.0,TEAM
-Colombia,0.4,0.0,TEAM
-Saudi Arabia,0.2,0.0,TEAM
-Argentina,0.2,0.0,TEAM
+Brazil,1.46,0.28,TEAM
+Argentina,1.4,0.24,TEAM
+Belgium,1.38,0.28,TEAM
+France,1.38,0.22,TEAM
+England,1.36,0.28,TEAM
+Colombia,1.3,0.28,TEAM
+Germany,1.3,0.34,TEAM
+Portugal,1.3,0.3,TEAM
+Japan,1.28,0.32,TEAM
+IR Iran,1.28,0.24,TEAM
+Netherlands,1.28,0.28,TEAM
+Spain,1.26,0.2,TEAM
+Uruguay,1.26,0.22,TEAM
+United States,1.24,0.16,TEAM
+Mexico,1.22,0.26,TEAM
+Morocco,1.22,0.34,TEAM
+Ecuador,1.18,0.24,TEAM
+Korea Republic,1.14,0.34,TEAM
+Turkiye,1.12,0.24,TEAM
+Uzbekistan,1.12,0.32,TEAM
+Panama,1.1,0.24,TEAM
+Qatar,1.08,0.4,TEAM
+Canada,1.08,0.34,TEAM
+Bosnia and Herzegovina,1.04,0.22,TEAM
+Croatia,1.02,0.14,TEAM
+Ghana,1.0,0.14,TEAM
+Switzerland,1.0,0.16,TEAM
+Algeria,0.98,0.2,TEAM
+Senegal,0.98,0.3,TEAM
+Paraguay,0.98,0.24,TEAM
+Cape Verde,0.96,0.22,TEAM
+Iraq,0.96,0.14,TEAM
+South Africa,0.94,0.24,TEAM
+Tunisia,0.92,0.18,TEAM
+Scotland,0.92,0.2,TEAM
+Australia,0.92,0.26,TEAM
+New Zealand,0.9,0.24,TEAM
+Curacao,0.9,0.22,TEAM
+DR Congo,0.88,0.18,TEAM
+Sweden,0.88,0.24,TEAM
+Ivory Coast,0.88,0.18,TEAM
+Egypt,0.84,0.26,TEAM
+Jordan,0.82,0.18,TEAM
+Czechia,0.82,0.18,TEAM
+Norway,0.82,0.16,TEAM
+Austria,0.8,0.18,TEAM
+Haiti,0.74,0.18,TEAM
+Saudi Arabia,0.74,0.28,TEAM

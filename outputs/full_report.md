@@ -1,51 +1,52 @@
 # World Cup 2026 Monte Carlo Report
 
-- Simulations: 5
-- Random seed: 123
-- Most likely champion: Paraguay (20.00%)
-- Average goals per match: 2.58
-- Average injuries per simulation: 52.60
-- Penalty shootout rate: 5.00%
+- Simulations: 50
+- Random seed: system_entropy
+- Most likely champion: Germany (10.00%)
+- Average goals per match: 2.69
+- Average injuries per simulation: 51.38
+- Penalty shootout rate: 5.35%
 - Average team data quality score: 0.63
+- Most likely match scores are written to `match_predictions.csv`.
 
 ## Top 10 Candidates
 
-- Paraguay: 20.00%
-- Senegal: 20.00%
-- Spain: 20.00%
-- Curacao: 20.00%
-- France: 20.00%
-- Mexico: 0.00%
-- Korea Republic: 0.00%
-- South Africa: 0.00%
-- Switzerland: 0.00%
-- Brazil: 0.00%
+- Germany: 10.00%
+- Senegal: 8.00%
+- United States: 6.00%
+- France: 6.00%
+- Japan: 6.00%
+- Belgium: 6.00%
+- Argentina: 6.00%
+- Croatia: 6.00%
+- Spain: 4.00%
+- Morocco: 4.00%
 
 ## Early Exit Risk
 
-- Uruguay: 80.00%
-- Ecuador: 80.00%
-- South Africa: 60.00%
-- Bosnia and Herzegovina: 60.00%
-- Tunisia: 60.00%
-- Ghana: 60.00%
-- Paraguay: 60.00%
-- IR Iran: 60.00%
-- France: 60.00%
-- Norway: 60.00%
+- Iraq: 68.00%
+- New Zealand: 66.00%
+- Bosnia and Herzegovina: 58.00%
+- Haiti: 58.00%
+- Curacao: 58.00%
+- Cape Verde: 58.00%
+- Saudi Arabia: 56.00%
+- Jordan: 54.00%
+- DR Congo: 54.00%
+- Ghana: 52.00%
 
 ## Injuries
 
-- Czechia: 2.20 average injuries
-- England: 2.20 average injuries
-- Senegal: 2.00 average injuries
-- Algeria: 2.00 average injuries
-- Ivory Coast: 1.80 average injuries
-- United States: 1.80 average injuries
-- Iraq: 1.80 average injuries
-- Canada: 1.60 average injuries
-- DR Congo: 1.60 average injuries
-- South Africa: 1.60 average injuries
+- Brazil: 1.46 average injuries
+- Argentina: 1.40 average injuries
+- Belgium: 1.38 average injuries
+- France: 1.38 average injuries
+- England: 1.36 average injuries
+- Colombia: 1.30 average injuries
+- Germany: 1.30 average injuries
+- Portugal: 1.30 average injuries
+- Japan: 1.28 average injuries
+- IR Iran: 1.28 average injuries
 
 ## Data Quality
 

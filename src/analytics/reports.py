@@ -36,6 +36,7 @@ def build_markdown_report(probability_tables: dict[str, pd.DataFrame], injuries_
         f"- Average injuries per simulation: {metadata['average_injuries']:.2f}",
         f"- Penalty shootout rate: {metadata['penalty_rate']:.2%}",
         f"- Average team data quality score: {data_quality_report['team_data_quality_score'].mean():.2f}",
+        "- Most likely match scores are written to `match_predictions.csv`.",
         "",
         "## Top 10 Candidates",
         "",

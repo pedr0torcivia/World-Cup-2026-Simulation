@@ -21,12 +21,18 @@ Los archivos principales están en `data/`:
 - `fixtures.csv`: partidos oficiales de fase de grupos.
 - `venues.csv`: sedes oficiales y parámetros de modelo de clima/viaje.
 - `referees.csv`: schema preparado para extender la simulación de arbitraje.
-- `config.yaml`: cantidad de simulaciones, seed y switches para activar o desactivar módulos.
+- `config.yaml`: cantidad de simulaciones y switches para activar o desactivar módulos. La semilla queda vacía por defecto para usar aleatoriedad del sistema.
 - `sources.md`: fuentes y aclaración de qué campos son oficiales y cuáles son parámetros del simulador.
 
 No hace falta modificar código para cambiar equipos, sedes, jugadores o parámetros del modelo.
 
 ## Ejecución
+
+```bash
+python -m src.main --simulations 1000
+```
+
+Por defecto cada ejecución usa aleatoriedad del sistema. Para reproducir exactamente una corrida, pasá una semilla explícita:
 
 ```bash
 python -m src.main --simulations 1000 --seed 123
@@ -35,13 +41,13 @@ python -m src.main --simulations 1000 --seed 123
 Para generar también sensibilidad de supuestos principales:
 
 ```bash
-python -m src.main --simulations 1000 --seed 123 --sensitivity
+python -m src.main --simulations 1000 --sensitivity
 ```
 
 Para abrir la consola interactiva al terminar la simulación:
 
 ```bash
-python -m src.main --simulations 1000 --seed 123 --interactive
+python -m src.main --simulations 1000 --interactive
 ```
 
 Para abrir solo el dashboard con outputs ya generados:
@@ -51,10 +57,31 @@ python -m src.main --interactive-only
 python -m src.interactive_dashboard
 ```
 
+Para una interfaz simple enfocada solo en resultados probables de partidos:
+
+```bash
+python -m src.match_results_interface
+python -m src.match_results_interface --team argentina
+python -m src.main --matches-only --team argentina
+```
+
+Para generar un reporte externo HTML, abrible en navegador:
+
+```bash
+python -m src.main --web-report
+python -m src.web_report
+```
+
+El archivo queda en:
+
+```text
+outputs/worldcup_report.html
+```
+
 Para una prueba rápida:
 
 ```bash
-python -m src.main --simulations 5 --seed 123
+python -m src.main --simulations 5
 ```
 
 ## Salidas
@@ -67,6 +94,7 @@ El simulador escribe resultados en `outputs/`:
 - `group_probabilities.csv`
 - `injuries_summary.csv`
 - `match_results_sample.csv`
+- `match_predictions.csv`
 - `data_quality_report.csv`
 - `team_dashboard_stats.csv`
 - `full_report.md`
@@ -164,15 +192,29 @@ Comandos dentro de la consola:
 - `buscar argentina`: busca por coincidencia parcial, ignorando mayúsculas y tildes;
 - `comparar 1 2`: compara dos equipos del ranking;
 - `top campeon`, `top grupos`, `top lesiones`, `top sorpresa`, `top decepcion`, `top goles`, `top defensa`, `top penales`;
+- `partidos`: muestra los marcadores más probables por partido;
+- `partidos argentina`: filtra marcadores más probables por equipo;
 - `ranking` o `volver`: muestra el ranking principal;
 - `0`, `q`, `quit` o `salir`: cierra la consola.
+
+La interfaz simple de partidos muestra:
+
+- cantidad de simulaciones usadas;
+- ganador más probable;
+- marcador más probable;
+- probabilidad del marcador;
+- goles promedio;
+- xG promedio;
+- probabilidades de gana A / empate / gana B.
+
+El reporte HTML externo muestra todos los partidos de fase de grupos con marcador más probable y probabilidad, más las probabilidades del resto del torneo por equipo. Tiene buscadores simples para filtrar partidos o equipos.
 
 ## Ejemplo de Salida
 
 Después de ejecutar:
 
 ```bash
-python -m src.main --simulations 5 --seed 123
+python -m src.main --simulations 5
 ```
 
 La consola muestra el top 5 de probabilidades de campeón y los archivos completos quedan en `outputs/`.

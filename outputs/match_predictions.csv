@@ -1,0 +1,1648 @@
+match_id,stage,team_a,team_b,team_a_id,team_b_id,samples,most_likely_score,most_likely_score_probability,average_goals_a,average_goals_b,average_xg_a,average_xg_b,team_a_win_probability,draw_probability_90,team_b_win_probability,extra_time_probability,penalty_shootout_probability
+G001,group,Mexico,South Africa,MEX,RSA,50,1-0,0.14,1.68,1.12,1.7818,1.070900000000001,0.56,0.22,0.22,0.0,0.0
+G002,group,Korea Republic,Czechia,KOR,CZE,50,1-1,0.16,1.5,1.44,1.5301999999999993,1.2929000000000013,0.36,0.24,0.4,0.0,0.0
+G003,group,Czechia,South Africa,CZE,RSA,50,1-1,0.16,1.38,1.24,1.4260000000000006,1.2528999999999986,0.32,0.38,0.3,0.0,0.0
+G004,group,Mexico,Korea Republic,MEX,KOR,50,2-1,0.1,1.7,1.6,1.462000000000002,1.3061000000000005,0.38,0.28,0.34,0.0,0.0
+G005,group,Czechia,Mexico,CZE,MEX,50,0-0,0.14,0.9,1.64,1.058,1.4975000000000012,0.24,0.26,0.5,0.0,0.0
+G006,group,South Africa,Korea Republic,RSA,KOR,50,0-0,0.14,1.14,1.24,1.0747,1.5336000000000012,0.34,0.28,0.38,0.0,0.0
+G007,group,Canada,Bosnia and Herzegovina,CAN,BIH,50,0-0,0.14,1.86,1.14,1.7395999999999998,1.1578999999999995,0.5,0.22,0.28,0.0,0.0
+G008,group,Qatar,Switzerland,QAT,SUI,50,1-0,0.16,1.24,1.42,1.1507000000000003,1.7412000000000012,0.32,0.26,0.42,0.0,0.0
+G009,group,Switzerland,Bosnia and Herzegovina,SUI,BIH,50,1-1,0.14,1.72,1.32,1.7631999999999988,1.0330000000000006,0.48,0.26,0.26,0.0,0.0
+G010,group,Canada,Qatar,CAN,QAT,50,1-1,0.14,1.2,1.64,1.5490000000000008,1.273800000000001,0.26,0.3,0.44,0.0,0.0
+G011,group,Switzerland,Canada,SUI,CAN,50,1-1,0.2,1.36,1.12,1.4271999999999994,1.2030999999999994,0.42,0.26,0.32,0.0,0.0
+G012,group,Bosnia and Herzegovina,Qatar,BIH,QAT,50,0-1,0.2,1.0,1.4,1.2070000000000005,1.4258000000000004,0.34,0.18,0.48,0.0,0.0
+G013,group,Brazil,Morocco,BRA,MAR,50,1-2,0.12,1.34,1.78,1.4418000000000004,1.3706999999999996,0.26,0.2,0.54,0.0,0.0
+G014,group,Haiti,Scotland,HAI,SCO,50,0-1,0.14,1.18,1.74,1.1321999999999992,1.7008000000000008,0.2,0.36,0.44,0.0,0.0
+G015,group,Scotland,Morocco,SCO,MAR,50,0-1,0.14,1.12,1.44,1.1957000000000009,1.5939000000000005,0.28,0.24,0.48,0.0,0.0
+G016,group,Brazil,Haiti,BRA,HAI,50,1-0,0.14,1.82,0.72,2.0124,0.8763000000000004,0.68,0.18,0.14,0.0,0.0
+G017,group,Scotland,Brazil,SCO,BRA,50,1-1,0.12,1.14,1.54,1.0255999999999994,1.5216000000000005,0.32,0.22,0.46,0.0,0.0
+G018,group,Morocco,Haiti,MAR,HAI,50,1-0,0.18,1.66,0.96,1.8435000000000015,0.8894,0.56,0.24,0.2,0.0,0.0
+G019,group,United States,Paraguay,USA,PAR,50,1-2,0.14,1.58,1.2,1.6351999999999987,1.2916000000000012,0.38,0.28,0.34,0.0,0.0
+G020,group,Australia,Turkiye,AUS,TUR,50,1-0,0.18,1.24,1.26,1.4106999999999996,1.3487000000000002,0.42,0.24,0.34,0.0,0.0
+G021,group,Turkiye,Paraguay,TUR,PAR,50,1-2,0.12,1.7,1.48,1.4728000000000006,1.3093000000000001,0.44,0.2,0.36,0.0,0.0
+G022,group,United States,Australia,USA,AUS,50,1-2,0.1,1.6,1.38,1.4865000000000006,1.2635000000000003,0.38,0.22,0.4,0.0,0.0
+G023,group,Turkiye,United States,TUR,USA,50,1-1,0.22,1.14,1.52,1.2036000000000011,1.412599999999999,0.2,0.34,0.46,0.0,0.0
+G024,group,Paraguay,Australia,PAR,AUS,50,0-2,0.2,1.22,1.54,1.2434000000000007,1.3859000000000001,0.32,0.2,0.48,0.0,0.0
+G025,group,Ivory Coast,Ecuador,CIV,ECU,50,1-1,0.14,1.28,1.56,1.250599999999999,1.5317999999999996,0.32,0.3,0.38,0.0,0.0
+G026,group,Germany,Curacao,GER,CUW,50,2-0,0.12,1.82,0.94,1.9378999999999993,0.9067999999999994,0.62,0.16,0.22,0.0,0.0
+G027,group,Germany,Ivory Coast,GER,CIV,50,2-1,0.16,1.94,1.26,1.5622,1.1212999999999995,0.5,0.24,0.26,0.0,0.0
+G028,group,Ecuador,Curacao,ECU,CUW,50,2-0,0.18,2.04,0.98,1.8091000000000006,0.9647000000000004,0.62,0.18,0.2,0.0,0.0
+G029,group,Curacao,Ivory Coast,CUW,CIV,50,0-1,0.12,1.12,1.42,1.068800000000001,1.5810000000000017,0.28,0.3,0.42,0.0,0.0
+G030,group,Ecuador,Germany,ECU,GER,50,0-0,0.16,0.82,1.16,1.1447,1.371699999999999,0.3,0.32,0.38,0.0,0.0
+G031,group,Netherlands,Japan,NED,JPN,50,1-1,0.14,1.2,1.22,1.501,1.2333,0.34,0.28,0.38,0.0,0.0
+G032,group,Sweden,Tunisia,SWE,TUN,50,2-2,0.14,1.68,1.22,1.503799999999999,1.3404999999999996,0.46,0.34,0.2,0.0,0.0
+G033,group,Netherlands,Sweden,NED,SWE,50,1-0,0.22,1.32,1.02,1.5146000000000008,1.1300999999999994,0.52,0.14,0.34,0.0,0.0
+G034,group,Tunisia,Japan,TUN,JPN,50,1-1,0.16,1.02,1.64,1.1306000000000007,1.5255999999999985,0.22,0.34,0.44,0.0,0.0
+G035,group,Japan,Sweden,JPN,SWE,50,2-0,0.16,1.68,1.16,1.3256000000000008,1.1312,0.44,0.24,0.32,0.0,0.0
+G036,group,Tunisia,Netherlands,TUN,NED,50,1-1,0.22,1.14,1.62,0.9802999999999998,1.5066000000000002,0.24,0.32,0.44,0.0,0.0
+G037,group,IR Iran,New Zealand,IRN,NZL,50,2-1,0.16,1.74,1.1,1.9484000000000021,1.0422999999999993,0.54,0.24,0.22,0.0,0.0
+G038,group,Belgium,Egypt,BEL,EGY,50,3-1,0.18,1.82,1.06,1.5905999999999993,1.1777999999999993,0.6,0.12,0.28,0.0,0.0
+G039,group,Belgium,IR Iran,BEL,IRN,50,1-1,0.14,1.62,1.3,1.4427000000000008,1.278599999999999,0.44,0.34,0.22,0.0,0.0
+G040,group,New Zealand,Egypt,NZL,EGY,50,1-1,0.1,1.12,1.8,1.0317000000000005,1.7592000000000019,0.2,0.22,0.58,0.0,0.0
+G041,group,Egypt,IR Iran,EGY,IRN,50,1-1,0.14,1.32,1.46,1.2166,1.3997999999999993,0.28,0.36,0.36,0.0,0.0
+G042,group,New Zealand,Belgium,NZL,BEL,50,0-1,0.18,0.86,1.78,0.8560999999999999,1.8854000000000004,0.18,0.18,0.64,0.0,0.0
+G043,group,Saudi Arabia,Uruguay,KSA,URU,50,1-2,0.12,0.92,1.86,1.0666999999999993,1.7265000000000013,0.18,0.2,0.62,0.0,0.0
+G044,group,Spain,Cape Verde,ESP,CPV,50,2-0,0.18,2.12,0.72,1.9796000000000011,0.9254000000000009,0.74,0.16,0.1,0.0,0.0
+G045,group,Uruguay,Cape Verde,URU,CPV,50,2-1,0.14,1.84,0.92,1.7078999999999993,0.9774999999999993,0.56,0.32,0.12,0.0,0.0
+G046,group,Spain,Saudi Arabia,ESP,KSA,50,2-0,0.18,1.78,0.8,1.858400000000002,0.9412000000000001,0.68,0.14,0.18,0.0,0.0
+G047,group,Cape Verde,Saudi Arabia,CPV,KSA,50,1-1,0.14,1.16,1.4,1.2156000000000007,1.2802000000000004,0.34,0.24,0.42,0.0,0.0
+G048,group,Uruguay,Spain,URU,ESP,50,2-1,0.16,1.2,1.28,1.0617000000000012,1.3829,0.42,0.2,0.38,0.0,0.0
+G049,group,France,Senegal,FRA,SEN,50,2-1,0.16,1.56,1.06,1.6124999999999985,1.1559999999999993,0.54,0.16,0.3,0.0,0.0
+G050,group,Iraq,Norway,IRQ,NOR,50,1-1,0.2,1.26,1.58,1.308,1.5548,0.26,0.36,0.38,0.0,0.0
+G051,group,Norway,Senegal,NOR,SEN,50,1-1,0.14,1.14,1.74,1.2321999999999993,1.425600000000001,0.18,0.32,0.5,0.0,0.0
+G052,group,France,Iraq,FRA,IRQ,50,2-0,0.14,1.76,0.66,1.8233000000000021,0.9444000000000011,0.6,0.3,0.1,0.0,0.0
+G053,group,Norway,France,NOR,FRA,50,1-1,0.14,1.32,1.38,1.0461000000000007,1.6120999999999992,0.28,0.3,0.42,0.0,0.0
+G054,group,Senegal,Iraq,SEN,IRQ,50,2-1,0.14,1.68,1.14,1.5490000000000008,1.0722000000000007,0.56,0.22,0.22,0.0,0.0
+G055,group,Argentina,Algeria,ARG,ALG,50,1-1,0.14,1.38,1.02,1.794700000000001,1.1039999999999994,0.38,0.32,0.3,0.0,0.0
+G056,group,Austria,Jordan,AUT,JOR,50,1-2,0.2,1.66,1.22,1.6564999999999992,1.153199999999999,0.44,0.24,0.32,0.0,0.0
+G057,group,Argentina,Austria,ARG,AUT,50,1-1,0.22,1.76,1.06,1.5926999999999993,1.0872999999999993,0.52,0.32,0.16,0.0,0.0
+G058,group,Jordan,Algeria,JOR,ALG,50,2-1,0.18,1.24,1.5,1.2678000000000007,1.5014999999999992,0.38,0.18,0.44,0.0,0.0
+G059,group,Algeria,Austria,ALG,AUT,50,1-2,0.08,1.58,1.56,1.2098000000000009,1.3616000000000008,0.42,0.2,0.38,0.0,0.0
+G060,group,Jordan,Argentina,JOR,ARG,50,1-2,0.12,0.84,2.06,0.8896999999999997,1.7451999999999983,0.12,0.26,0.62,0.0,0.0
+G061,group,Portugal,DR Congo,POR,COD,50,2-1,0.18,1.64,0.92,1.8162999999999985,1.0020999999999993,0.58,0.2,0.22,0.0,0.0
+G062,group,Uzbekistan,Colombia,UZB,COL,50,0-2,0.12,1.02,1.34,1.0998999999999997,1.748500000000002,0.32,0.28,0.4,0.0,0.0
+G063,group,Portugal,Uzbekistan,POR,UZB,50,2-0,0.16,1.58,0.86,1.6591999999999987,1.0251999999999988,0.54,0.22,0.24,0.0,0.0
+G064,group,Colombia,DR Congo,COL,COD,50,1-0,0.22,1.46,0.76,1.6711999999999991,1.028799999999999,0.56,0.26,0.18,0.0,0.0
+G065,group,Colombia,Portugal,COL,POR,50,0-0,0.18,1.12,1.28,1.174399999999999,1.2070000000000005,0.3,0.32,0.38,0.0,0.0
+G066,group,DR Congo,Uzbekistan,COD,UZB,50,1-1,0.14,1.22,1.38,1.2257999999999998,1.2721999999999993,0.36,0.24,0.4,0.0,0.0
+G067,group,Ghana,Panama,GHA,PAN,50,1-1,0.16,1.32,1.76,1.3370000000000015,1.525900000000001,0.24,0.3,0.46,0.0,0.0
+G068,group,England,Croatia,ENG,CRO,50,1-1,0.16,1.32,1.18,1.4722000000000006,1.2522000000000006,0.42,0.28,0.3,0.0,0.0
+G069,group,England,Ghana,ENG,GHA,50,2-1,0.16,2.0,1.08,1.7289999999999994,1.0521999999999994,0.6,0.22,0.18,0.0,0.0
+G070,group,Panama,Croatia,PAN,CRO,50,1-0,0.14,1.1,1.48,1.1469000000000007,1.5360000000000007,0.34,0.22,0.44,0.0,0.0
+G071,group,Panama,England,PAN,ENG,50,1-2,0.18,1.02,1.68,1.0277999999999994,1.5456999999999979,0.22,0.18,0.6,0.0,0.0
+G072,group,Croatia,Ghana,CRO,GHA,50,1-0,0.18,1.46,1.02,1.5441,1.0613999999999992,0.46,0.22,0.32,0.0,0.0
+round_of_32_1,round_of_32,Belgium,Uzbekistan,BEL,UZB,2,1-0,0.5,1.5,0.5,1.5792,0.9444,1.0,0.0,0.0,0.5,0.0
+round_of_32_1,round_of_32,England,Czechia,ENG,CZE,2,4-1,0.5,3.0,1.0,1.5192,0.9203,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Spain,Saudi Arabia,ESP,KSA,2,2-0,0.5,1.5,0.0,1.6862,0.8247,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Uruguay,Portugal,URU,POR,1,0-1,1.0,0.0,1.0,1.0749,1.1458,0.0,0.0,1.0,1.0,0.0
+round_of_32_1,round_of_32,Croatia,DR Congo,CRO,COD,1,2-0,1.0,2.0,0.0,1.5422,0.9091,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Argentina,Uzbekistan,ARG,UZB,1,3-0,1.0,3.0,0.0,1.6192,0.8754,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Netherlands,Austria,NED,AUT,1,1-0,1.0,1.0,0.0,1.3186,1.0335,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Brazil,Ivory Coast,BRA,CIV,1,5-3,1.0,5.0,3.0,1.4969,1.0109,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Sweden,Ghana,SWE,GHA,1,0-1,1.0,0.0,1.0,1.2373,1.1499,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Croatia,Portugal,CRO,POR,1,3-1,1.0,3.0,1.0,1.1334,1.1258,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,France,Australia,FRA,AUS,1,3-4,1.0,3.0,4.0,1.4721,1.0172,0.0,0.0,1.0,1.0,0.0
+round_of_32_1,round_of_32,Colombia,Cape Verde,COL,CPV,1,2-0,1.0,2.0,0.0,1.5769,0.872,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Uzbekistan,Canada,UZB,CAN,1,1-1,1.0,1.0,1.0,1.1067,1.4514,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,Colombia,Paraguay,COL,PAR,1,3-2,1.0,3.0,2.0,1.4354,1.1204,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,England,Panama,ENG,PAN,1,3-0,1.0,3.0,0.0,1.4681,0.9792,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Mexico,Czechia,MEX,CZE,1,2-1,1.0,2.0,1.0,1.4552,1.0385,1.0,0.0,0.0,1.0,0.0
+round_of_32_1,round_of_32,Paraguay,Morocco,PAR,MAR,1,0-4,1.0,0.0,4.0,1.0882,1.417,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,United States,Saudi Arabia,USA,KSA,1,2-0,1.0,2.0,0.0,1.6046,0.9518,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Ecuador,IR Iran,ECU,IRN,1,1-5,1.0,1.0,5.0,1.1903,1.2818,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Korea Republic,Uzbekistan,KOR,UZB,1,3-2,1.0,3.0,2.0,1.4058,1.0217,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Norway,Jordan,NOR,JOR,1,1-3,1.0,1.0,3.0,1.4272,1.1235,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Senegal,Ivory Coast,SEN,CIV,1,2-1,1.0,2.0,1.0,1.3781,1.0753,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Portugal,Paraguay,POR,PAR,1,0-2,1.0,0.0,2.0,1.3343,1.0696,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,England,Saudi Arabia,ENG,KSA,1,1-1,1.0,1.0,1.0,1.663,0.8414,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,Switzerland,Korea Republic,SUI,KOR,1,1-1,1.0,1.0,1.0,1.3772,1.1628,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,Belgium,Argentina,BEL,ARG,1,0-0,1.0,0.0,0.0,1.1295,1.2495,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,France,Qatar,FRA,QAT,1,2-1,1.0,2.0,1.0,1.6786,0.9319,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Switzerland,Australia,SUI,AUS,1,1-0,1.0,1.0,0.0,1.3143,1.182,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Morocco,Switzerland,MAR,SUI,1,0-1,1.0,0.0,1.0,1.2587,1.2592,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Switzerland,Cape Verde,SUI,CPV,1,2-0,1.0,2.0,0.0,1.6223,0.8824,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Portugal,Tunisia,POR,TUN,1,2-1,1.0,2.0,1.0,1.3499,0.9234,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,England,Iraq,ENG,IRQ,1,4-4,1.0,4.0,4.0,1.6189,0.8904,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,Spain,Austria,ESP,AUT,1,0-1,1.0,0.0,1.0,1.4534,0.976,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Bosnia and Herzegovina,Haiti,BIH,HAI,1,1-3,1.0,1.0,3.0,1.3284,1.1498,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Mexico,Curacao,MEX,CUW,1,2-1,1.0,2.0,1.0,1.7683,0.8297,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Germany,Haiti,GER,HAI,1,2-0,1.0,2.0,0.0,1.7195,0.8223,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Netherlands,Ivory Coast,NED,CIV,1,3-2,1.0,3.0,2.0,1.439,1.0038,1.0,0.0,0.0,1.0,0.0
+round_of_32_1,round_of_32,Czechia,Austria,CZE,AUT,1,2-1,1.0,2.0,1.0,1.1077,1.323,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,France,Haiti,FRA,HAI,1,1-0,1.0,1.0,0.0,1.934,0.7549,1.0,0.0,0.0,1.0,0.0
+round_of_32_1,round_of_32,Egypt,Paraguay,EGY,PAR,1,2-1,1.0,2.0,1.0,1.2779,1.2394,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,United States,Korea Republic,USA,KOR,1,3-2,1.0,3.0,2.0,1.3738,1.2012,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Algeria,Croatia,ALG,CRO,1,1-0,1.0,1.0,0.0,1.0301,1.4199,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Croatia,Japan,CRO,JPN,1,2-2,1.0,2.0,2.0,1.2559,1.092,0.0,1.0,0.0,1.0,1.0
+round_of_32_1,round_of_32,Japan,Haiti,JPN,HAI,1,3-1,1.0,3.0,1.0,1.5888,0.8815,1.0,0.0,0.0,0.0,0.0
+round_of_32_1,round_of_32,Argentina,Ghana,ARG,GHA,1,0-1,1.0,0.0,1.0,1.5679,0.9549,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,France,Senegal,FRA,SEN,1,0-3,1.0,0.0,3.0,1.4212,1.0284,0.0,0.0,1.0,0.0,0.0
+round_of_32_1,round_of_32,Spain,Cape Verde,ESP,CPV,1,2-2,1.0,2.0,2.0,1.7148,0.7594,0.0,1.0,0.0,1.0,1.0
+round_of_32_10,round_of_32,Belgium,Czechia,BEL,CZE,1,3-1,1.0,3.0,1.0,1.4777,0.9877,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Spain,Brazil,ESP,BRA,1,0-1,1.0,0.0,1.0,1.2748,1.1282,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Curacao,Tunisia,CUW,TUN,1,0-3,1.0,0.0,3.0,1.0033,1.4576,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Portugal,Paraguay,POR,PAR,1,0-3,1.0,0.0,3.0,1.3477,1.0803,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Uzbekistan,Cape Verde,UZB,CPV,1,1-2,1.0,1.0,2.0,1.2763,1.1314,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Scotland,Netherlands,SCO,NED,1,2-2,1.0,2.0,2.0,0.9651,1.3855,0.0,1.0,0.0,1.0,1.0
+round_of_32_10,round_of_32,Brazil,United States,BRA,USA,1,1-0,1.0,1.0,0.0,1.3022,1.2131,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Ecuador,Belgium,ECU,BEL,1,2-0,1.0,2.0,0.0,1.0944,1.3814,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,United States,Panama,USA,PAN,1,1-2,1.0,1.0,2.0,1.4307,1.1189,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,New Zealand,Brazil,NZL,BRA,1,3-4,1.0,3.0,4.0,0.8171,1.8104,0.0,0.0,1.0,1.0,0.0
+round_of_32_10,round_of_32,Scotland,Brazil,SCO,BRA,1,0-1,1.0,0.0,1.0,0.972,1.4412,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Spain,Ghana,ESP,GHA,1,1-2,1.0,1.0,2.0,1.6261,0.9598,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Sweden,Turkiye,SWE,TUR,1,0-1,1.0,0.0,1.0,1.1496,1.3342,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Belgium,Turkiye,BEL,TUR,1,1-2,1.0,1.0,2.0,1.3641,1.0944,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Argentina,Senegal,ARG,SEN,1,2-1,1.0,2.0,1.0,1.3737,1.0437,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Haiti,South Africa,HAI,RSA,1,1-2,1.0,1.0,2.0,1.104,1.3515,0.0,0.0,1.0,1.0,0.0
+round_of_32_10,round_of_32,Japan,Jordan,JPN,JOR,1,0-1,1.0,0.0,1.0,1.4784,0.9853,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Brazil,Egypt,BRA,EGY,1,3-0,1.0,3.0,0.0,1.433,1.0522,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Turkiye,Uzbekistan,TUR,UZB,1,0-2,1.0,0.0,2.0,1.4889,1.0585,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Morocco,United States,MAR,USA,1,2-0,1.0,2.0,0.0,1.3133,1.2686,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Morocco,Canada,MAR,CAN,1,1-2,1.0,1.0,2.0,1.4456,1.1638,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,IR Iran,Uzbekistan,IRN,UZB,1,1-3,1.0,1.0,3.0,1.4948,1.0074,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Belgium,Ivory Coast,BEL,CIV,1,2-1,1.0,2.0,1.0,1.5215,1.0379,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Qatar,Switzerland,QAT,SUI,1,0-1,1.0,0.0,1.0,1.0514,1.5891,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Argentina,Uzbekistan,ARG,UZB,1,3-1,1.0,3.0,1.0,1.6354,0.8842,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Paraguay,Saudi Arabia,PAR,KSA,1,1-2,1.0,1.0,2.0,1.4042,1.0475,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Belgium,DR Congo,BEL,COD,1,2-3,1.0,2.0,3.0,1.6281,0.9019,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Germany,Sweden,GER,SWE,1,2-1,1.0,2.0,1.0,1.3614,1.0409,1.0,0.0,0.0,1.0,0.0
+round_of_32_10,round_of_32,Senegal,Ghana,SEN,GHA,1,1-2,1.0,1.0,2.0,1.4129,1.0887,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Portugal,Czechia,POR,CZE,1,0-1,1.0,0.0,1.0,1.341,0.9602,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Germany,Algeria,GER,ALG,1,1-2,1.0,1.0,2.0,1.4279,1.0681,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Germany,DR Congo,GER,COD,1,1-0,1.0,1.0,0.0,1.5509,0.9063,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Senegal,Uzbekistan,SEN,UZB,1,3-0,1.0,3.0,0.0,1.4591,0.9982,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Brazil,Scotland,BRA,SCO,1,1-0,1.0,1.0,0.0,1.4412,0.972,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Egypt,Spain,EGY,ESP,1,1-1,1.0,1.0,1.0,0.9867,1.5184,0.0,1.0,0.0,1.0,1.0
+round_of_32_10,round_of_32,Australia,Jordan,AUS,JOR,1,1-0,1.0,1.0,0.0,1.52,1.0313,1.0,0.0,0.0,1.0,0.0
+round_of_32_10,round_of_32,Algeria,Australia,ALG,AUS,1,4-2,1.0,4.0,2.0,1.1522,1.3565,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Argentina,Japan,ARG,JPN,1,0-6,1.0,0.0,6.0,1.3595,1.0041,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Brazil,DR Congo,BRA,COD,1,2-1,1.0,2.0,1.0,1.6178,0.8872,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Japan,Turkiye,JPN,TUR,1,0-1,1.0,0.0,1.0,1.2504,1.1788,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,South Africa,Korea Republic,RSA,KOR,1,0-5,1.0,0.0,5.0,1.0267,1.4634,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Colombia,Sweden,COL,SWE,1,3-1,1.0,3.0,1.0,1.3951,1.0549,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Morocco,Mexico,MAR,MEX,1,2-0,1.0,2.0,0.0,1.31,1.2595,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Korea Republic,Switzerland,KOR,SUI,1,1-1,1.0,1.0,1.0,1.1744,1.3911,0.0,1.0,0.0,1.0,1.0
+round_of_32_10,round_of_32,Argentina,Colombia,ARG,COL,1,1-2,1.0,1.0,2.0,1.2834,1.0608,0.0,0.0,1.0,1.0,0.0
+round_of_32_10,round_of_32,France,Uruguay,FRA,URU,1,1-0,1.0,1.0,0.0,1.3664,1.0302,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Bosnia and Herzegovina,Brazil,BIH,BRA,1,1-3,1.0,1.0,3.0,0.891,1.7184,0.0,0.0,1.0,0.0,0.0
+round_of_32_10,round_of_32,Canada,France,CAN,FRA,1,2-0,1.0,2.0,0.0,1.0436,1.5456,1.0,0.0,0.0,0.0,0.0
+round_of_32_10,round_of_32,Ghana,Haiti,GHA,HAI,1,1-1,1.0,1.0,1.0,1.4817,1.0372,0.0,1.0,0.0,1.0,1.0
+round_of_32_10,round_of_32,Paraguay,IR Iran,PAR,IRN,1,1-0,1.0,1.0,0.0,1.1737,1.3919,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Panama,Saudi Arabia,PAN,KSA,1,1-1,1.0,1.0,1.0,1.4489,1.048,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Algeria,Panama,ALG,PAN,1,1-1,1.0,1.0,1.0,1.2338,1.3428,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Brazil,Qatar,BRA,QAT,1,2-1,1.0,2.0,1.0,1.571,1.0028,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Cape Verde,Mexico,CPV,MEX,1,1-1,1.0,1.0,1.0,0.8822,1.6346,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Japan,Qatar,JPN,QAT,1,3-2,1.0,3.0,2.0,1.3915,1.0556,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Bosnia and Herzegovina,Paraguay,BIH,PAR,1,2-2,1.0,2.0,2.0,1.092,1.4997,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Australia,Netherlands,AUS,NED,1,0-1,1.0,0.0,1.0,1.0869,1.3245,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Cape Verde,Morocco,CPV,MAR,1,0-2,1.0,0.0,2.0,0.8976,1.6493,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Egypt,Belgium,EGY,BEL,1,4-1,1.0,4.0,1.0,1.0686,1.4409,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Austria,Sweden,AUT,SWE,1,3-2,1.0,3.0,2.0,1.2397,1.1271,1.0,0.0,0.0,1.0,0.0
+round_of_32_11,round_of_32,Ecuador,Tunisia,ECU,TUN,1,1-3,1.0,1.0,3.0,1.3901,1.0758,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Portugal,Qatar,POR,QAT,1,0-1,1.0,0.0,1.0,1.4346,0.991,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Bosnia and Herzegovina,Ecuador,BIH,ECU,1,1-3,1.0,1.0,3.0,1.0156,1.5362,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Mexico,South Africa,MEX,RSA,1,2-1,1.0,2.0,1.0,1.6337,0.9681,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,England,Switzerland,ENG,SUI,1,0-4,1.0,0.0,4.0,1.314,1.107,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,New Zealand,Canada,NZL,CAN,1,1-0,1.0,1.0,0.0,0.9726,1.6728,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Senegal,Sweden,SEN,SWE,1,3-1,1.0,3.0,1.0,1.3062,1.0831,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Panama,Ghana,PAN,GHA,1,1-2,1.0,1.0,2.0,1.3834,1.2076,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Norway,Mexico,NOR,MEX,1,1-3,1.0,1.0,3.0,1.1657,1.4451,0.0,0.0,1.0,1.0,0.0
+round_of_32_11,round_of_32,Belgium,Uruguay,BEL,URU,1,1-0,1.0,1.0,0.0,1.2742,1.1157,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Turkiye,Czechia,TUR,CZE,1,2-2,1.0,2.0,2.0,1.3672,1.1391,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Algeria,Haiti,ALG,HAI,1,1-0,1.0,1.0,0.0,1.5124,1.0058,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Saudi Arabia,Korea Republic,KSA,KOR,1,1-0,1.0,1.0,0.0,0.9759,1.4387,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Czechia,Panama,CZE,PAN,1,2-0,1.0,2.0,0.0,1.1925,1.313,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Saudi Arabia,Japan,KSA,JPN,1,5-5,1.0,5.0,5.0,0.9342,1.4225,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Sweden,Colombia,SWE,COL,1,1-1,1.0,1.0,1.0,1.0539,1.3939,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Japan,Ghana,JPN,GHA,1,3-2,1.0,3.0,2.0,1.3581,1.0765,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Uruguay,Portugal,URU,POR,1,0-1,1.0,0.0,1.0,1.0847,1.1562,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Curacao,Tunisia,CUW,TUN,1,3-1,1.0,3.0,1.0,1.0024,1.4563,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,England,Algeria,ENG,ALG,1,2-0,1.0,2.0,0.0,1.5551,0.9994,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Egypt,Norway,EGY,NOR,1,1-0,1.0,1.0,0.0,1.2625,1.2365,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Australia,Bosnia and Herzegovina,AUS,BIH,1,0-1,1.0,0.0,1.0,1.5634,1.0203,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Scotland,IR Iran,SCO,IRN,1,0-0,1.0,0.0,0.0,1.1388,1.4144,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Panama,Mexico,PAN,MEX,1,1-0,1.0,1.0,0.0,1.1151,1.4191,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Portugal,Iraq,POR,IRQ,1,0-2,1.0,0.0,2.0,1.4277,0.9282,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Bosnia and Herzegovina,Brazil,BIH,BRA,1,3-6,1.0,3.0,6.0,0.8902,1.7168,0.0,0.0,1.0,1.0,0.0
+round_of_32_11,round_of_32,Paraguay,Colombia,PAR,COL,1,0-3,1.0,0.0,3.0,1.1306,1.4485,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Netherlands,Morocco,NED,MAR,1,4-2,1.0,4.0,2.0,1.2085,1.2039,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,United States,Jordan,USA,JOR,1,2-1,1.0,2.0,1.0,1.6144,0.9729,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Argentina,Colombia,ARG,COL,1,1-1,1.0,1.0,1.0,1.2823,1.0598,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Ghana,DR Congo,GHA,COD,1,2-4,1.0,2.0,4.0,1.3219,1.1307,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Mexico,Korea Republic,MEX,KOR,1,0-2,1.0,0.0,2.0,1.3764,1.2091,0.0,0.0,1.0,0.0,0.0
+round_of_32_11,round_of_32,Ivory Coast,Japan,CIV,JPN,1,1-1,1.0,1.0,1.0,1.0738,1.3379,0.0,1.0,0.0,1.0,1.0
+round_of_32_11,round_of_32,Uzbekistan,Australia,UZB,AUS,1,1-3,1.0,1.0,3.0,1.033,1.442,0.0,0.0,1.0,1.0,0.0
+round_of_32_11,round_of_32,Cape Verde,Spain,CPV,ESP,1,2-0,1.0,2.0,0.0,0.7663,1.7304,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Bosnia and Herzegovina,Haiti,BIH,HAI,1,3-2,1.0,3.0,2.0,1.3405,1.1603,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Colombia,Portugal,COL,POR,1,3-0,1.0,3.0,0.0,1.1116,1.1347,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Paraguay,Cape Verde,PAR,CPV,1,2-1,1.0,2.0,1.0,1.4856,1.0527,1.0,0.0,0.0,0.0,0.0
+round_of_32_11,round_of_32,Jordan,Tunisia,JOR,TUN,1,2-3,1.0,2.0,3.0,1.1619,1.3081,0.0,0.0,1.0,1.0,0.0
+round_of_32_11,round_of_32,Germany,Brazil,GER,BRA,1,0-3,1.0,0.0,3.0,1.1523,1.2279,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Netherlands,Saudi Arabia,NED,KSA,2,2-0,0.5,1.5,0.0,1.5163,0.8655,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Ecuador,Canada,ECU,CAN,1,2-1,1.0,2.0,1.0,1.2585,1.2458,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Iraq,Uruguay,IRQ,URU,1,1-5,1.0,1.0,5.0,0.9717,1.46,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Switzerland,Senegal,SUI,SEN,1,0-0,1.0,0.0,0.0,1.2575,1.1843,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,United States,Uzbekistan,USA,UZB,1,1-3,1.0,1.0,3.0,1.568,0.9965,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Canada,New Zealand,CAN,NZL,1,0-1,1.0,0.0,1.0,1.6429,0.9553,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Germany,Canada,GER,CAN,1,0-3,1.0,0.0,3.0,1.3483,1.1155,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Germany,Panama,GER,PAN,1,2-2,1.0,2.0,2.0,1.3348,1.0363,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Korea Republic,Ivory Coast,KOR,CIV,1,4-2,1.0,4.0,2.0,1.3291,1.1018,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,France,Senegal,FRA,SEN,1,1-0,1.0,1.0,0.0,1.4085,1.0193,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Belgium,United States,BEL,USA,1,0-1,1.0,0.0,1.0,1.2859,1.21,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Australia,Colombia,AUS,COL,1,0-1,1.0,0.0,1.0,1.1576,1.2661,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Australia,South Africa,AUS,RSA,1,2-3,1.0,2.0,3.0,1.4597,1.0095,0.0,0.0,1.0,1.0,0.0
+round_of_32_12,round_of_32,Senegal,Scotland,SEN,SCO,1,3-0,1.0,3.0,0.0,1.356,1.0553,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Iraq,Paraguay,IRQ,PAR,1,2-3,1.0,2.0,3.0,1.1883,1.3968,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Uruguay,Argentina,URU,ARG,1,2-0,1.0,2.0,0.0,1.0156,1.2831,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Ecuador,England,ECU,ENG,1,4-0,1.0,4.0,0.0,1.0106,1.4074,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Ecuador,Curacao,ECU,CUW,1,1-1,1.0,1.0,1.0,1.6314,0.869,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Ecuador,Iraq,ECU,IRQ,1,1-0,1.0,1.0,0.0,1.4308,1.0525,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Curacao,Qatar,CUW,QAT,1,5-3,1.0,5.0,3.0,1.0454,1.4624,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Uruguay,England,URU,ENG,1,1-0,1.0,1.0,0.0,1.0312,1.2993,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Brazil,South Africa,BRA,RSA,1,4-1,1.0,4.0,1.0,1.6029,0.8807,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Panama,Haiti,PAN,HAI,1,2-0,1.0,2.0,0.0,1.5276,0.9801,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Scotland,Paraguay,SCO,PAR,1,1-0,1.0,1.0,0.0,1.2284,1.2866,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,France,Algeria,FRA,ALG,1,2-0,1.0,2.0,0.0,1.5759,0.9622,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Uruguay,Tunisia,URU,TUN,1,1-3,1.0,1.0,3.0,1.3931,0.9755,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Uzbekistan,Germany,UZB,GER,1,0-1,1.0,0.0,1.0,0.9406,1.4908,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Japan,Austria,JPN,AUT,1,1-1,1.0,1.0,1.0,1.2042,1.1296,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Colombia,Portugal,COL,POR,1,1-3,1.0,1.0,3.0,1.0917,1.1144,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Argentina,Japan,ARG,JPN,1,0-2,1.0,0.0,2.0,1.3339,0.9853,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Colombia,Netherlands,COL,NED,1,0-0,1.0,0.0,0.0,1.0969,1.1732,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Austria,Scotland,AUT,SCO,1,1-4,1.0,1.0,4.0,1.2869,1.0982,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,South Africa,Argentina,RSA,ARG,1,0-1,1.0,0.0,1.0,0.8298,1.654,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Korea Republic,Jordan,KOR,JOR,1,4-2,1.0,4.0,2.0,1.4673,1.0607,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Netherlands,Japan,NED,JPN,1,0-1,1.0,0.0,1.0,1.2427,1.0384,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Senegal,Switzerland,SEN,SUI,1,1-2,1.0,1.0,2.0,1.1843,1.2575,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,Switzerland,Czechia,SUI,CZE,1,1-3,1.0,1.0,3.0,1.4445,1.0388,0.0,0.0,1.0,1.0,0.0
+round_of_32_12,round_of_32,Brazil,Mexico,BRA,MEX,1,0-2,1.0,0.0,2.0,1.2745,1.1817,0.0,0.0,1.0,1.0,0.0
+round_of_32_12,round_of_32,Ghana,Norway,GHA,NOR,1,1-2,1.0,1.0,2.0,1.1596,1.3006,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,IR Iran,Senegal,IRN,SEN,1,3-3,1.0,3.0,3.0,1.2321,1.2138,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Colombia,Uruguay,COL,URU,1,3-3,1.0,3.0,3.0,1.1635,1.1606,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Panama,Portugal,PAN,POR,1,1-1,1.0,1.0,1.0,1.0025,1.2716,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,IR Iran,Argentina,IRN,ARG,1,1-1,1.0,1.0,1.0,1.0913,1.3604,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,France,Tunisia,FRA,TUN,1,1-0,1.0,1.0,0.0,1.5797,0.8684,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Germany,DR Congo,GER,COD,1,1-1,1.0,1.0,1.0,1.5217,0.8893,0.0,1.0,0.0,1.0,1.0
+round_of_32_12,round_of_32,Senegal,Qatar,SEN,QAT,1,0-5,1.0,0.0,5.0,1.4205,1.0477,0.0,0.0,1.0,0.0,0.0
+round_of_32_12,round_of_32,DR Congo,Curacao,COD,CUW,1,3-0,1.0,3.0,0.0,1.3446,1.0242,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Portugal,Spain,POR,ESP,1,1-0,1.0,1.0,0.0,1.011,1.2362,1.0,0.0,0.0,0.0,0.0
+round_of_32_12,round_of_32,Korea Republic,United States,KOR,USA,1,0-2,1.0,0.0,2.0,1.1905,1.3616,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Australia,Curacao,AUS,CUW,1,0-0,1.0,0.0,0.0,1.6906,0.8889,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,Bosnia and Herzegovina,Germany,BIH,GER,1,0-2,1.0,0.0,2.0,0.9094,1.6458,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Spain,Morocco,ESP,MAR,1,2-0,1.0,2.0,0.0,1.332,1.137,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,England,Bosnia and Herzegovina,ENG,BIH,1,1-1,1.0,1.0,1.0,1.7939,0.8516,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,England,Senegal,ENG,SEN,1,0-1,1.0,0.0,1.0,1.3898,1.0587,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Argentina,Ecuador,ARG,ECU,1,3-4,1.0,3.0,4.0,1.4151,1.0135,0.0,0.0,1.0,1.0,0.0
+round_of_32_13,round_of_32,IR Iran,France,IRN,FRA,1,3-1,1.0,3.0,1.0,1.1058,1.4474,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Austria,Portugal,AUT,POR,1,0-1,1.0,0.0,1.0,1.038,1.264,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Portugal,Iraq,POR,IRQ,1,1-0,1.0,1.0,0.0,1.4277,0.9282,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Qatar,Korea Republic,QAT,KOR,1,2-1,1.0,2.0,1.0,1.1028,1.4074,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Portugal,France,POR,FRA,1,2-1,1.0,2.0,1.0,1.0294,1.2809,1.0,0.0,0.0,1.0,0.0
+round_of_32_13,round_of_32,Belgium,Japan,BEL,JPN,1,1-2,1.0,1.0,2.0,1.3247,1.0823,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Belgium,Cape Verde,BEL,CPV,1,1-0,1.0,1.0,0.0,1.6435,0.8307,1.0,0.0,0.0,1.0,0.0
+round_of_32_13,round_of_32,Curacao,Canada,CUW,CAN,1,1-2,1.0,1.0,2.0,0.924,1.6488,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Germany,Sweden,GER,SWE,1,3-2,1.0,3.0,2.0,1.3601,1.04,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Scotland,Sweden,SCO,SWE,1,2-0,1.0,2.0,0.0,1.2036,1.2212,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Belgium,Ivory Coast,BEL,CIV,1,1-0,1.0,1.0,0.0,1.5202,1.0369,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,France,Japan,FRA,JPN,1,3-1,1.0,3.0,1.0,1.4193,0.9984,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Uruguay,Egypt,URU,EGY,1,0-2,1.0,0.0,2.0,1.3073,1.1073,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Tunisia,Argentina,TUN,ARG,1,2-0,1.0,2.0,0.0,0.8884,1.5394,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Ecuador,Tunisia,ECU,TUN,1,0-1,1.0,0.0,1.0,1.3901,1.0758,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Uruguay,Ghana,URU,GHA,1,1-2,1.0,1.0,2.0,1.4,1.0355,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Argentina,Croatia,ARG,CRO,1,1-0,1.0,1.0,0.0,1.2837,1.0905,1.0,0.0,0.0,1.0,0.0
+round_of_32_13,round_of_32,Spain,Sweden,ESP,SWE,1,2-0,1.0,2.0,0.0,1.5033,0.9548,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Czechia,Egypt,CZE,EGY,1,1-2,1.0,1.0,2.0,1.1563,1.3362,0.0,0.0,1.0,1.0,0.0
+round_of_32_13,round_of_32,Austria,Curacao,AUT,CUW,1,3-0,1.0,3.0,0.0,1.6222,0.8931,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Scotland,Canada,SCO,CAN,1,2-0,1.0,2.0,0.0,1.157,1.3317,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,England,Cape Verde,ENG,CPV,1,2-1,1.0,2.0,1.0,1.7065,0.7818,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Mexico,Norway,MEX,NOR,1,1-1,1.0,1.0,1.0,1.4451,1.1657,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,Canada,Croatia,CAN,CRO,1,1-2,1.0,1.0,2.0,1.1507,1.3789,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Croatia,Korea Republic,CRO,KOR,1,2-0,1.0,2.0,0.0,1.3239,1.1145,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Senegal,Argentina,SEN,ARG,1,1-3,1.0,1.0,3.0,1.0427,1.3725,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Ivory Coast,Czechia,CIV,CZE,1,1-1,1.0,1.0,1.0,1.2465,1.2809,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,Colombia,Belgium,COL,BEL,1,0-1,1.0,0.0,1.0,1.1434,1.2505,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Panama,Colombia,PAN,COL,1,1-0,1.0,1.0,0.0,1.1122,1.3817,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,England,United States,ENG,USA,1,5-1,1.0,5.0,1.0,1.3594,1.1594,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Brazil,Bosnia and Herzegovina,BRA,BIH,1,1-0,1.0,1.0,0.0,1.7168,0.8902,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,France,Jordan,FRA,JOR,1,1-0,1.0,1.0,0.0,1.7267,0.843,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,South Africa,Turkiye,RSA,TUR,1,1-2,1.0,1.0,2.0,1.0522,1.4604,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Morocco,England,MAR,ENG,1,3-1,1.0,3.0,1.0,1.1599,1.3136,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Turkiye,Croatia,TUR,CRO,1,1-3,1.0,1.0,3.0,1.1132,1.3581,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Turkiye,Uzbekistan,TUR,UZB,1,2-5,1.0,2.0,5.0,1.4876,1.0575,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Scotland,Spain,SCO,ESP,1,0-2,1.0,0.0,2.0,0.9106,1.5258,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Spain,New Zealand,ESP,NZL,1,1-0,1.0,1.0,0.0,1.9166,0.7655,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Ecuador,Croatia,ECU,CRO,1,0-2,1.0,0.0,2.0,1.1132,1.3205,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,England,Sweden,ENG,SWE,1,1-1,1.0,1.0,1.0,1.4826,0.974,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,Germany,France,GER,FRA,1,0-1,1.0,0.0,1.0,1.0806,1.324,0.0,0.0,1.0,0.0,0.0
+round_of_32_13,round_of_32,Qatar,Scotland,QAT,SCO,1,2-2,1.0,2.0,2.0,1.2027,1.3325,0.0,1.0,0.0,1.0,1.0
+round_of_32_13,round_of_32,Norway,Mexico,NOR,MEX,1,3-2,1.0,3.0,2.0,1.1657,1.4451,1.0,0.0,0.0,0.0,0.0
+round_of_32_13,round_of_32,Norway,Sweden,NOR,SWE,1,1-3,1.0,1.0,3.0,1.2254,1.1755,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Austria,Ghana,AUT,GHA,1,1-0,1.0,1.0,0.0,1.3406,1.1327,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,South Africa,Netherlands,RSA,NED,1,0-2,1.0,0.0,2.0,0.891,1.5699,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,New Zealand,Mexico,NZL,MEX,1,1-1,1.0,1.0,1.0,0.8819,1.8116,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Brazil,Uruguay,BRA,URU,1,0-0,1.0,0.0,0.0,1.2669,1.0982,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Austria,Mexico,AUT,MEX,1,0-1,1.0,0.0,1.0,1.1346,1.3864,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Brazil,IR Iran,BRA,IRN,1,1-1,1.0,1.0,1.0,1.3432,1.1799,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Uruguay,Austria,URU,AUT,1,2-2,1.0,2.0,2.0,1.2646,1.107,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Iraq,England,IRQ,ENG,1,0-2,1.0,0.0,2.0,0.8991,1.6346,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Brazil,Curacao,BRA,CUW,1,3-0,1.0,3.0,0.0,1.7838,0.776,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Uruguay,Algeria,URU,ALG,1,2-1,1.0,2.0,1.0,1.3597,1.0585,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Saudi Arabia,IR Iran,KSA,IRN,1,0-2,1.0,0.0,2.0,0.9533,1.5156,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Czechia,Ecuador,CZE,ECU,1,0-0,1.0,0.0,0.0,1.1082,1.368,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Colombia,Qatar,COL,QAT,1,2-0,1.0,2.0,0.0,1.5441,1.0386,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Spain,England,ESP,ENG,1,3-1,1.0,3.0,1.0,1.2192,1.1786,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Colombia,Haiti,COL,HAI,1,3-1,1.0,3.0,1.0,1.6947,0.8752,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Belgium,Paraguay,BEL,PAR,1,0-0,1.0,0.0,0.0,1.4848,1.1109,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Morocco,Australia,MAR,AUS,1,2-3,1.0,2.0,3.0,1.3369,1.1454,0.0,0.0,1.0,1.0,0.0
+round_of_32_14,round_of_32,Colombia,Morocco,COL,MAR,1,4-0,1.0,4.0,0.0,1.2358,1.2559,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Netherlands,Switzerland,NED,SUI,1,1-1,1.0,1.0,1.0,1.2096,1.1497,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,IR Iran,Ivory Coast,IRN,CIV,1,0-1,1.0,0.0,1.0,1.4255,1.0958,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Brazil,Australia,BRA,AUS,1,2-1,1.0,2.0,1.0,1.3786,1.0953,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Belgium,Turkiye,BEL,TUR,1,1-1,1.0,1.0,1.0,1.3637,1.094,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Canada,Spain,CAN,ESP,1,1-2,1.0,1.0,2.0,1.0433,1.5183,0.0,0.0,1.0,1.0,0.0
+round_of_32_14,round_of_32,Senegal,Brazil,SEN,BRA,1,0-1,1.0,0.0,1.0,1.1073,1.3309,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Canada,Cape Verde,CAN,CPV,1,2-1,1.0,2.0,1.0,1.5112,0.9742,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Morocco,Norway,MAR,NOR,1,2-4,1.0,2.0,4.0,1.4009,1.0863,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Austria,IR Iran,AUT,IRN,1,1-0,1.0,1.0,0.0,1.1736,1.3063,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Brazil,Czechia,BRA,CZE,1,2-1,1.0,2.0,1.0,1.468,0.9713,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Morocco,Paraguay,MAR,PAR,1,0-2,1.0,0.0,2.0,1.4308,1.0988,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Brazil,Uzbekistan,BRA,UZB,1,2-0,1.0,2.0,0.0,1.5844,0.9381,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Belgium,Ivory Coast,BEL,CIV,1,3-4,1.0,3.0,4.0,1.5211,1.0375,0.0,0.0,1.0,1.0,0.0
+round_of_32_14,round_of_32,Ivory Coast,New Zealand,CIV,NZL,1,2-1,1.0,2.0,1.0,1.5376,1.078,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Uruguay,Qatar,URU,QAT,1,1-0,1.0,1.0,0.0,1.4353,1.016,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,France,England,FRA,ENG,1,3-0,1.0,3.0,0.0,1.2407,1.1786,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Mexico,Belgium,MEX,BEL,1,2-1,1.0,2.0,1.0,1.2239,1.3068,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Ecuador,Korea Republic,ECU,KOR,1,0-0,1.0,0.0,0.0,1.2311,1.2293,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Belgium,Senegal,BEL,SEN,1,0-2,1.0,0.0,2.0,1.3394,1.1257,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Switzerland,Turkiye,SUI,TUR,1,2-1,1.0,2.0,1.0,1.3586,1.1727,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Canada,England,CAN,ENG,1,2-1,1.0,2.0,1.0,1.0643,1.4974,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Germany,Mexico,GER,MEX,1,0-5,1.0,0.0,5.0,1.2448,1.2299,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Netherlands,Jordan,NED,JOR,1,0-0,1.0,0.0,0.0,1.5403,0.8932,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Belgium,Haiti,BEL,HAI,1,2-0,1.0,2.0,0.0,1.8227,0.8263,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Germany,Austria,GER,AUT,1,1-0,1.0,1.0,0.0,1.3277,1.0736,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Ecuador,Morocco,ECU,MAR,1,0-1,1.0,0.0,1.0,1.1255,1.3308,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Mexico,Turkiye,MEX,TUR,1,1-1,1.0,1.0,1.0,1.3563,1.1619,0.0,1.0,0.0,1.0,1.0
+round_of_32_14,round_of_32,Jordan,Switzerland,JOR,SUI,1,4-1,1.0,4.0,1.0,0.9801,1.6063,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Sweden,Spain,SWE,ESP,1,0-1,1.0,0.0,1.0,0.9553,1.5042,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,South Africa,Portugal,RSA,POR,1,0-3,1.0,0.0,3.0,0.8867,1.4913,0.0,0.0,1.0,0.0,0.0
+round_of_32_14,round_of_32,Switzerland,Colombia,SUI,COL,1,2-0,1.0,2.0,0.0,1.2467,1.2263,1.0,0.0,0.0,0.0,0.0
+round_of_32_14,round_of_32,Argentina,Mexico,ARG,MEX,1,4-1,1.0,4.0,1.0,1.3399,1.1344,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Jordan,France,JOR,FRA,2,0-0,0.5,0.0,1.0,0.8432,1.7272,0.0,0.5,0.5,0.5,0.5
+round_of_32_15,round_of_32,France,Tunisia,FRA,TUN,1,1-1,1.0,1.0,1.0,1.609,0.8845,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Argentina,Norway,ARG,NOR,1,2-1,1.0,2.0,1.0,1.4901,1.0178,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Croatia,Ecuador,CRO,ECU,1,1-0,1.0,1.0,0.0,1.3208,1.1135,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Ivory Coast,Senegal,CIV,SEN,1,2-4,1.0,2.0,4.0,1.0854,1.3911,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Germany,Netherlands,GER,NED,1,1-4,1.0,1.0,4.0,1.1446,1.1808,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Spain,England,ESP,ENG,1,2-4,1.0,2.0,4.0,1.2188,1.1782,0.0,0.0,1.0,1.0,0.0
+round_of_32_15,round_of_32,Morocco,Colombia,MAR,COL,1,1-1,1.0,1.0,1.0,1.2556,1.2355,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Netherlands,South Africa,NED,RSA,1,2-1,1.0,2.0,1.0,1.5695,0.8907,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Switzerland,Paraguay,SUI,PAR,1,0-0,1.0,0.0,0.0,1.4907,1.1445,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Curacao,Portugal,CUW,POR,1,1-0,1.0,1.0,0.0,0.7667,1.6285,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Jordan,Canada,JOR,CAN,1,0-3,1.0,0.0,3.0,1.0714,1.4814,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Norway,Brazil,NOR,BRA,1,1-1,1.0,1.0,1.0,1.0802,1.4441,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,IR Iran,Argentina,IRN,ARG,1,0-1,1.0,0.0,1.0,1.1114,1.3856,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Uruguay,New Zealand,URU,NZL,1,0-1,1.0,0.0,1.0,1.7203,0.8601,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Senegal,Panama,SEN,PAN,1,3-1,1.0,3.0,1.0,1.3599,1.1433,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Qatar,Mexico,QAT,MEX,1,1-1,1.0,1.0,1.0,1.0829,1.573,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Switzerland,Jordan,SUI,JOR,1,3-1,1.0,3.0,1.0,1.6058,0.9798,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Argentina,Ghana,ARG,GHA,1,2-0,1.0,2.0,0.0,1.5827,0.9638,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Scotland,France,SCO,FRA,1,1-1,1.0,1.0,1.0,0.9109,1.5531,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,DR Congo,France,COD,FRA,1,1-2,1.0,1.0,2.0,0.8314,1.7433,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Qatar,Netherlands,QAT,NED,1,1-3,1.0,1.0,3.0,0.996,1.5107,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Senegal,Sweden,SEN,SWE,1,2-0,1.0,2.0,0.0,1.3066,1.0834,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Belgium,Mexico,BEL,MEX,1,2-1,1.0,2.0,1.0,1.3064,1.2236,1.0,0.0,0.0,1.0,0.0
+round_of_32_15,round_of_32,Ivory Coast,Morocco,CIV,MAR,1,2-1,1.0,2.0,1.0,1.0259,1.4653,1.0,0.0,0.0,1.0,0.0
+round_of_32_15,round_of_32,Turkiye,Panama,TUR,PAN,1,1-1,1.0,1.0,1.0,1.3217,1.2124,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Uruguay,Netherlands,URU,NED,1,1-3,1.0,1.0,3.0,1.0902,1.2176,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Australia,Curacao,AUS,CUW,1,3-1,1.0,3.0,1.0,1.6911,0.8892,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Uruguay,IR Iran,URU,IRN,1,2-3,1.0,2.0,3.0,1.226,1.1945,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Iraq,IR Iran,IRQ,IRN,1,2-0,1.0,2.0,0.0,1.1019,1.536,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Portugal,Spain,POR,ESP,1,0-1,1.0,0.0,1.0,1.0297,1.2591,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Spain,Czechia,ESP,CZE,1,1-3,1.0,1.0,3.0,1.555,0.9106,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,France,Paraguay,FRA,PAR,1,2-1,1.0,2.0,1.0,1.5903,1.0246,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Canada,Netherlands,CAN,NED,1,2-1,1.0,2.0,1.0,1.1044,1.3772,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Australia,Argentina,AUS,ARG,1,0-2,1.0,0.0,2.0,1.0317,1.4221,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,IR Iran,Uruguay,IRN,URU,1,0-2,1.0,0.0,2.0,1.1945,1.226,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Ecuador,Austria,ECU,AUT,1,3-2,1.0,3.0,2.0,1.2389,1.1987,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,England,IR Iran,ENG,IRN,1,2-1,1.0,2.0,1.0,1.4031,1.1284,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Spain,Morocco,ESP,MAR,1,2-3,1.0,2.0,3.0,1.3324,1.1373,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Sweden,Belgium,SWE,BEL,1,2-1,1.0,2.0,1.0,1.0352,1.4283,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Belgium,Canada,BEL,CAN,1,2-2,1.0,2.0,2.0,1.4417,1.1306,0.0,1.0,0.0,1.0,1.0
+round_of_32_15,round_of_32,Australia,Croatia,AUS,CRO,1,2-1,1.0,2.0,1.0,1.1332,1.3269,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,England,Portugal,ENG,POR,1,2-1,1.0,2.0,1.0,1.2417,1.0505,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Bosnia and Herzegovina,Jordan,BIH,JOR,1,2-3,1.0,2.0,3.0,1.2354,1.2843,0.0,0.0,1.0,1.0,0.0
+round_of_32_15,round_of_32,Senegal,United States,SEN,USA,1,2-0,1.0,2.0,0.0,1.1981,1.3414,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,United States,Egypt,USA,EGY,1,1-0,1.0,1.0,0.0,1.444,1.1381,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Egypt,Algeria,EGY,ALG,1,0-1,1.0,0.0,1.0,1.3019,1.1966,0.0,0.0,1.0,0.0,0.0
+round_of_32_15,round_of_32,Croatia,IR Iran,CRO,IRN,1,2-1,1.0,2.0,1.0,1.2929,1.1737,1.0,0.0,0.0,0.0,0.0
+round_of_32_15,round_of_32,Uruguay,Ivory Coast,URU,CIV,1,2-1,1.0,2.0,1.0,1.3796,1.0333,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Egypt,Haiti,EGY,HAI,1,3-1,1.0,3.0,1.0,1.5463,0.9451,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Turkiye,IR Iran,TUR,IRN,1,1-0,1.0,1.0,0.0,1.232,1.2995,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,United States,DR Congo,USA,COD,1,3-1,1.0,3.0,1.0,1.6068,0.9371,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Belgium,Sweden,BEL,SWE,1,1-0,1.0,1.0,0.0,1.3947,1.0109,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,Portugal,AUS,POR,1,0-1,1.0,0.0,1.0,1.0567,1.2289,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Uzbekistan,Senegal,UZB,SEN,1,2-2,1.0,2.0,2.0,0.9742,1.4241,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Mexico,Ecuador,MEX,ECU,1,1-4,1.0,1.0,4.0,1.3536,1.1342,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,United States,Spain,USA,ESP,1,1-0,1.0,1.0,0.0,1.1206,1.3465,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Mexico,Argentina,MEX,ARG,1,1-2,1.0,1.0,2.0,1.1179,1.308,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,Panama,AUS,PAN,1,1-1,1.0,1.0,1.0,1.3136,1.1564,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,England,South Africa,ENG,RSA,1,3-1,1.0,3.0,1.0,1.6658,0.838,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Saudi Arabia,Morocco,KSA,MAR,1,2-1,1.0,2.0,1.0,0.8716,1.5214,1.0,0.0,0.0,1.0,0.0
+round_of_32_16,round_of_32,Croatia,Japan,CRO,JPN,1,2-0,1.0,2.0,0.0,1.2379,1.0764,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,France,Portugal,FRA,POR,1,2-1,1.0,2.0,1.0,1.2512,1.0055,1.0,0.0,0.0,1.0,0.0
+round_of_32_16,round_of_32,Algeria,Panama,ALG,PAN,1,2-1,1.0,2.0,1.0,1.2052,1.3116,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Spain,Colombia,ESP,COL,1,2-1,1.0,2.0,1.0,1.2861,1.0303,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Spain,Norway,ESP,NOR,1,3-2,1.0,3.0,2.0,1.4941,0.9892,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Saudi Arabia,Australia,KSA,AUS,1,0-2,1.0,0.0,2.0,0.9552,1.4286,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Brazil,Paraguay,BRA,PAR,1,1-2,1.0,1.0,2.0,1.4403,1.0668,0.0,0.0,1.0,1.0,0.0
+round_of_32_16,round_of_32,Portugal,Korea Republic,POR,KOR,1,1-2,1.0,1.0,2.0,1.2265,1.0813,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Belgium,Spain,BEL,ESP,1,2-2,1.0,2.0,2.0,1.1081,1.2647,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Argentina,Ivory Coast,ARG,CIV,1,0-1,1.0,0.0,1.0,1.5225,0.9389,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,New Zealand,AUS,NZL,1,6-0,1.0,6.0,0.0,1.6755,0.914,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Uzbekistan,Ecuador,UZB,ECU,1,0-3,1.0,0.0,3.0,1.0045,1.384,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,Norway,AUS,NOR,1,1-1,1.0,1.0,1.0,1.2842,1.1623,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Canada,IR Iran,CAN,IRN,1,1-2,1.0,1.0,2.0,1.2242,1.3722,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Norway,Turkiye,NOR,TUR,1,0-0,1.0,0.0,0.0,1.1899,1.3248,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Canada,Egypt,CAN,EGY,1,2-4,1.0,2.0,4.0,1.3058,1.2235,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Bosnia and Herzegovina,Algeria,BIH,ALG,1,4-3,1.0,4.0,3.0,1.0766,1.4013,1.0,0.0,0.0,1.0,0.0
+round_of_32_16,round_of_32,Ecuador,Uruguay,ECU,URU,1,2-2,1.0,2.0,2.0,1.1066,1.2231,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Turkiye,Brazil,TUR,BRA,1,1-4,1.0,1.0,4.0,1.0506,1.3228,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Japan,Turkiye,JPN,TUR,1,1-2,1.0,1.0,2.0,1.2204,1.1504,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Morocco,Sweden,MAR,SWE,1,0-0,1.0,0.0,0.0,1.3441,0.9999,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Turkiye,Ecuador,TUR,ECU,1,0-2,1.0,0.0,2.0,1.1986,1.2328,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Scotland,Ecuador,SCO,ECU,1,2-1,1.0,2.0,1.0,1.0822,1.3107,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Iraq,Sweden,IRQ,SWE,1,2-1,1.0,2.0,1.0,1.1373,1.295,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Panama,Netherlands,PAN,NED,1,1-0,1.0,1.0,0.0,1.0019,1.3313,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Ecuador,Portugal,ECU,POR,1,1-0,1.0,1.0,0.0,1.0383,1.2233,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Germany,Tunisia,GER,TUN,1,3-2,1.0,3.0,2.0,1.3968,0.9409,1.0,0.0,0.0,1.0,0.0
+round_of_32_16,round_of_32,Bosnia and Herzegovina,Uruguay,BIH,URU,1,0-2,1.0,0.0,2.0,0.9159,1.5312,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Senegal,Germany,SEN,GER,1,1-1,1.0,1.0,1.0,1.1043,1.2454,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,Panama,Curacao,PAN,CUW,1,2-1,1.0,2.0,1.0,1.5583,0.9306,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Senegal,New Zealand,SEN,NZL,1,1-2,1.0,1.0,2.0,1.6939,0.8824,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Czechia,France,CZE,FRA,1,2-1,1.0,2.0,1.0,0.8892,1.5452,1.0,0.0,0.0,0.0,0.0
+round_of_32_16,round_of_32,Scotland,IR Iran,SCO,IRN,1,1-1,1.0,1.0,1.0,1.1123,1.3817,0.0,1.0,0.0,1.0,1.0
+round_of_32_16,round_of_32,New Zealand,Ecuador,NZL,ECU,1,0-1,1.0,0.0,1.0,0.9098,1.6462,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Ghana,Czechia,GHA,CZE,1,0-2,1.0,0.0,2.0,1.2207,1.27,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,Croatia,AUS,CRO,1,1-4,1.0,1.0,4.0,1.1066,1.2957,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Australia,Austria,AUS,AUT,1,0-2,1.0,0.0,2.0,1.2313,1.1759,0.0,0.0,1.0,0.0,0.0
+round_of_32_16,round_of_32,Croatia,Uzbekistan,CRO,UZB,1,1-0,1.0,1.0,0.0,1.4892,0.9112,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Korea Republic,Mexico,KOR,MEX,2,2-3,0.5,2.0,1.5,1.2055,1.3723,0.5,0.0,0.5,0.0,0.0
+round_of_32_2,round_of_32,Colombia,Algeria,COL,ALG,1,2-0,1.0,2.0,0.0,1.4576,1.0782,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Morocco,Austria,MAR,AUT,1,3-1,1.0,3.0,1.0,1.3383,1.0951,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Norway,Algeria,NOR,ALG,1,1-1,1.0,1.0,1.0,1.2814,1.2026,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Argentina,Japan,ARG,JPN,1,1-2,1.0,1.0,2.0,1.3541,1.0002,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,France,United States,FRA,USA,1,1-2,1.0,1.0,2.0,1.3985,1.1331,0.0,0.0,1.0,1.0,0.0
+round_of_32_2,round_of_32,Korea Republic,Czechia,KOR,CZE,1,3-4,1.0,3.0,4.0,1.3647,1.1626,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Spain,Bosnia and Herzegovina,ESP,BIH,1,3-1,1.0,3.0,1.0,1.8136,0.8323,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,IR Iran,Qatar,IRN,QAT,1,2-1,1.0,2.0,1.0,1.4772,1.0733,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Morocco,Turkiye,MAR,TUR,1,1-1,1.0,1.0,1.0,1.3637,1.1776,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Morocco,Netherlands,MAR,NED,1,2-2,1.0,2.0,2.0,1.2003,1.2049,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Norway,Morocco,NOR,MAR,1,4-1,1.0,4.0,1.0,1.0824,1.3958,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Spain,Egypt,ESP,EGY,1,4-1,1.0,4.0,1.0,1.5124,0.9828,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Netherlands,Australia,NED,AUS,1,2-0,1.0,2.0,0.0,1.3205,1.0837,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Belgium,Australia,BEL,AUS,1,2-1,1.0,2.0,1.0,1.3823,1.1094,1.0,0.0,0.0,1.0,0.0
+round_of_32_2,round_of_32,England,Ivory Coast,ENG,CIV,1,0-2,1.0,0.0,2.0,1.5736,0.9729,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Colombia,Iraq,COL,IRQ,1,2-0,1.0,2.0,0.0,1.5189,1.0083,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Sweden,Tunisia,SWE,TUN,1,1-0,1.0,1.0,0.0,1.2613,1.1652,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Morocco,Ivory Coast,MAR,CIV,1,0-0,1.0,0.0,0.0,1.4605,1.0225,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Spain,Australia,ESP,AUS,1,1-2,1.0,1.0,2.0,1.4554,1.0234,0.0,0.0,1.0,1.0,0.0
+round_of_32_2,round_of_32,Croatia,Bosnia and Herzegovina,CRO,BIH,1,1-1,1.0,1.0,1.0,1.648,0.9185,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Bosnia and Herzegovina,Switzerland,BIH,SUI,1,0-0,1.0,0.0,0.0,0.967,1.6477,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Qatar,Austria,QAT,AUT,1,1-3,1.0,1.0,3.0,1.1068,1.3686,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Uruguay,Netherlands,URU,NED,1,0-1,1.0,0.0,1.0,1.0866,1.2135,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Netherlands,Ghana,NED,GHA,1,2-2,1.0,2.0,2.0,1.4696,1.0123,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Mexico,New Zealand,MEX,NZL,1,1-1,1.0,1.0,1.0,1.805,0.8787,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Mexico,United States,MEX,USA,1,1-2,1.0,1.0,2.0,1.2984,1.3045,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Belgium,Ivory Coast,BEL,CIV,1,1-0,1.0,1.0,0.0,1.5156,1.0338,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,United States,Iraq,USA,IRQ,1,8-1,1.0,8.0,1.0,1.5714,1.0135,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,United States,Korea Republic,USA,KOR,1,1-3,1.0,1.0,3.0,1.3822,1.2085,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Sweden,Panama,SWE,PAN,1,0-1,1.0,0.0,1.0,1.1988,1.2763,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Netherlands,Croatia,NED,CRO,1,3-1,1.0,3.0,1.0,1.1924,1.1458,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Argentina,Germany,ARG,GER,1,3-4,1.0,3.0,4.0,1.2633,1.0825,0.0,0.0,1.0,1.0,0.0
+round_of_32_2,round_of_32,England,Ghana,ENG,GHA,1,1-2,1.0,1.0,2.0,1.5973,0.9753,0.0,0.0,1.0,1.0,0.0
+round_of_32_2,round_of_32,Portugal,Egypt,POR,EGY,1,2-1,1.0,2.0,1.0,1.3035,1.0358,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Germany,Ghana,GER,GHA,1,5-0,1.0,5.0,0.0,1.4654,1.0414,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Bosnia and Herzegovina,Ivory Coast,BIH,CIV,1,1-0,1.0,1.0,0.0,1.1153,1.3965,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Belgium,Saudi Arabia,BEL,KSA,1,2-1,1.0,2.0,1.0,1.6114,0.8994,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,France,Iraq,FRA,IRQ,1,2-2,1.0,2.0,2.0,1.6807,0.8781,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,United States,Czechia,USA,CZE,1,1-2,1.0,1.0,2.0,1.4746,1.0475,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Germany,IR Iran,GER,IRN,1,1-4,1.0,1.0,4.0,1.283,1.2009,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Egypt,Cape Verde,EGY,CPV,1,3-1,1.0,3.0,1.0,1.4829,0.9704,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Uruguay,United States,URU,USA,1,1-4,1.0,1.0,4.0,1.1843,1.2727,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Australia,Austria,AUS,AUT,1,1-1,1.0,1.0,1.0,1.2567,1.2002,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Spain,Portugal,ESP,POR,1,0-0,1.0,0.0,0.0,1.2549,1.0263,0.0,1.0,0.0,1.0,1.0
+round_of_32_2,round_of_32,Uruguay,Austria,URU,AUT,1,2-0,1.0,2.0,0.0,1.26,1.103,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Norway,Czechia,NOR,CZE,1,0-2,1.0,0.0,2.0,1.3156,1.2205,0.0,0.0,1.0,0.0,0.0
+round_of_32_2,round_of_32,Germany,Scotland,GER,SCO,1,1-0,1.0,1.0,0.0,1.3761,0.989,1.0,0.0,0.0,0.0,0.0
+round_of_32_2,round_of_32,Egypt,Belgium,EGY,BEL,1,2-3,1.0,2.0,3.0,1.0654,1.4365,0.0,0.0,1.0,1.0,0.0
+round_of_32_3,round_of_32,Australia,Ivory Coast,AUS,CIV,2,1-0,1.0,1.0,0.0,1.3784,1.1264,1.0,0.0,0.0,0.5,0.0
+round_of_32_3,round_of_32,Mexico,Spain,MEX,ESP,1,2-0,1.0,2.0,0.0,1.1311,1.3783,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Ivory Coast,England,CIV,ENG,1,0-2,1.0,0.0,2.0,0.9779,1.5822,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Portugal,Sweden,POR,SWE,1,0-1,1.0,0.0,1.0,1.2988,1.0086,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,IR Iran,Czechia,IRN,CZE,1,1-2,1.0,1.0,2.0,1.4441,1.1412,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Croatia,Switzerland,CRO,SUI,1,1-0,1.0,1.0,0.0,1.2641,1.2005,1.0,0.0,0.0,1.0,0.0
+round_of_32_3,round_of_32,Panama,Austria,PAN,AUT,1,1-3,1.0,1.0,3.0,1.1923,1.2934,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Korea Republic,Tunisia,KOR,TUN,1,3-1,1.0,3.0,1.0,1.3947,1.135,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Brazil,DR Congo,BRA,COD,1,2-3,1.0,2.0,3.0,1.6202,0.8882,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Croatia,Algeria,CRO,ALG,1,1-0,1.0,1.0,0.0,1.4364,1.0416,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,England,Cape Verde,ENG,CPV,1,1-2,1.0,1.0,2.0,1.7106,0.7834,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Switzerland,Argentina,SUI,ARG,1,2-1,1.0,2.0,1.0,1.0929,1.3008,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,IR Iran,Haiti,IRN,HAI,1,2-1,1.0,2.0,1.0,1.7107,0.9094,1.0,0.0,0.0,1.0,0.0
+round_of_32_3,round_of_32,Panama,Egypt,PAN,EGY,1,1-2,1.0,1.0,2.0,1.2333,1.2941,0.0,0.0,1.0,1.0,0.0
+round_of_32_3,round_of_32,Canada,Ivory Coast,CAN,CIV,1,3-3,1.0,3.0,3.0,1.4006,1.2177,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Portugal,Jordan,POR,JOR,1,1-4,1.0,1.0,4.0,1.4658,0.8903,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Algeria,Tunisia,ALG,TUN,1,4-2,1.0,4.0,2.0,1.3008,1.2284,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Korea Republic,Canada,KOR,CAN,1,4-3,1.0,4.0,3.0,1.3371,1.2749,1.0,0.0,0.0,1.0,0.0
+round_of_32_3,round_of_32,Austria,Haiti,AUT,HAI,1,1-2,1.0,1.0,2.0,1.5854,0.9377,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Mexico,South Africa,MEX,RSA,1,3-1,1.0,3.0,1.0,1.6377,0.9701,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Sweden,Scotland,SWE,SCO,1,1-1,1.0,1.0,1.0,1.2241,1.2065,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Paraguay,Norway,PAR,NOR,1,1-0,1.0,1.0,0.0,1.2641,1.2765,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,United States,Curacao,USA,CUW,1,2-1,1.0,2.0,1.0,1.8017,0.8414,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,France,DR Congo,FRA,COD,1,4-1,1.0,4.0,1.0,1.747,0.8329,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,United States,DR Congo,USA,COD,1,3-0,1.0,3.0,0.0,1.6336,0.9614,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Croatia,United States,CRO,USA,1,1-2,1.0,1.0,2.0,1.2556,1.2573,0.0,0.0,1.0,1.0,0.0
+round_of_32_3,round_of_32,Ecuador,Qatar,ECU,QAT,1,3-0,1.0,3.0,0.0,1.4091,1.1022,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,South Africa,Algeria,RSA,ALG,1,2-2,1.0,2.0,2.0,1.1126,1.3666,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Panama,Sweden,PAN,SWE,1,0-1,1.0,0.0,1.0,1.2833,1.2053,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Mexico,Tunisia,MEX,TUN,1,1-2,1.0,1.0,2.0,1.4967,1.0201,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,France,Czechia,FRA,CZE,1,1-0,1.0,1.0,0.0,1.5858,0.9125,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,France,Colombia,FRA,COL,1,0-2,1.0,0.0,2.0,1.3431,1.0573,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Spain,Brazil,ESP,BRA,1,0-1,1.0,0.0,1.0,1.2767,1.1299,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,IR Iran,Norway,IRN,NOR,1,1-2,1.0,1.0,2.0,1.3644,1.1621,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Uruguay,Switzerland,URU,SUI,1,0-1,1.0,0.0,1.0,1.1988,1.2218,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Netherlands,Austria,NED,AUT,1,3-1,1.0,3.0,1.0,1.3339,1.0455,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Morocco,Turkiye,MAR,TUR,1,0-2,1.0,0.0,2.0,1.3707,1.184,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Croatia,Saudi Arabia,CRO,KSA,1,5-0,1.0,5.0,0.0,1.55,0.8848,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Colombia,Australia,COL,AUS,1,1-1,1.0,1.0,1.0,1.2922,1.1811,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Ecuador,Portugal,ECU,POR,1,0-1,1.0,0.0,1.0,1.0655,1.2554,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Senegal,Czechia,SEN,CZE,1,0-3,1.0,0.0,3.0,1.4097,1.0767,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Uruguay,Paraguay,URU,PAR,1,0-0,1.0,0.0,0.0,1.3496,1.1087,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Senegal,Iraq,SEN,IRQ,1,1-2,1.0,1.0,2.0,1.5021,1.0415,0.0,0.0,1.0,1.0,0.0
+round_of_32_3,round_of_32,Germany,Brazil,GER,BRA,1,1-3,1.0,1.0,3.0,1.1551,1.2309,0.0,0.0,1.0,1.0,0.0
+round_of_32_3,round_of_32,Argentina,Korea Republic,ARG,KOR,1,2-2,1.0,2.0,2.0,1.4223,1.0576,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Croatia,England,CRO,ENG,1,0-1,1.0,0.0,1.0,1.1099,1.3031,0.0,0.0,1.0,0.0,0.0
+round_of_32_3,round_of_32,Morocco,Austria,MAR,AUT,1,0-0,1.0,0.0,0.0,1.3452,1.1011,0.0,1.0,0.0,1.0,1.0
+round_of_32_3,round_of_32,Belgium,South Africa,BEL,RSA,1,4-1,1.0,4.0,1.0,1.6465,0.9135,1.0,0.0,0.0,0.0,0.0
+round_of_32_3,round_of_32,Portugal,Haiti,POR,HAI,1,0-1,1.0,0.0,1.0,1.6569,0.8048,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Qatar,Japan,QAT,JPN,2,0-1,0.5,0.5,0.5,1.0579,1.3944,0.5,0.0,0.5,0.5,0.0
+round_of_32_4,round_of_32,Brazil,Egypt,BRA,EGY,2,2-0,0.5,1.5,2.0,1.4361,1.0535,0.5,0.0,0.5,0.0,0.0
+round_of_32_4,round_of_32,Colombia,Australia,COL,AUS,1,1-2,1.0,1.0,2.0,1.293,1.1811,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Japan,Egypt,JPN,EGY,1,2-1,1.0,2.0,1.0,1.2708,1.1535,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,France,Colombia,FRA,COL,1,2-1,1.0,2.0,1.0,1.3439,1.0579,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Korea Republic,Norway,KOR,NOR,1,3-0,1.0,3.0,0.0,1.296,1.1912,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Uruguay,Colombia,URU,COL,1,0-1,1.0,0.0,1.0,1.1853,1.1883,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,DR Congo,Paraguay,COD,PAR,1,0-3,1.0,0.0,3.0,1.0896,1.4162,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Bosnia and Herzegovina,Scotland,BIH,SCO,1,1-0,1.0,1.0,0.0,1.114,1.3912,1.0,0.0,0.0,1.0,0.0
+round_of_32_4,round_of_32,Germany,Tunisia,GER,TUN,1,0-2,1.0,0.0,2.0,1.4343,0.9652,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Spain,Turkiye,ESP,TUR,1,1-1,1.0,1.0,1.0,1.4393,1.0117,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Mexico,Ghana,MEX,GHA,1,2-1,1.0,2.0,1.0,1.5395,1.1062,1.0,0.0,0.0,1.0,0.0
+round_of_32_4,round_of_32,Portugal,Curacao,POR,CUW,1,3-1,1.0,3.0,1.0,1.6329,0.7688,1.0,0.0,0.0,1.0,0.0
+round_of_32_4,round_of_32,Germany,Czechia,GER,CZE,1,2-4,1.0,2.0,4.0,1.4106,0.9946,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Tunisia,France,TUN,FRA,1,1-2,1.0,1.0,2.0,0.8861,1.6134,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Switzerland,Saudi Arabia,SUI,KSA,1,1-1,1.0,1.0,1.0,1.6279,0.9315,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Egypt,Argentina,EGY,ARG,1,1-3,1.0,1.0,3.0,0.9926,1.4818,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Qatar,England,QAT,ENG,1,2-3,1.0,2.0,3.0,0.9614,1.6465,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Colombia,Panama,COL,PAN,1,5-3,1.0,5.0,3.0,1.3859,1.1155,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Austria,Panama,AUT,PAN,1,1-0,1.0,1.0,0.0,1.2942,1.193,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Germany,Korea Republic,GER,KOR,1,0-0,1.0,0.0,0.0,1.3221,1.1465,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Ecuador,Czechia,ECU,CZE,1,1-1,1.0,1.0,1.0,1.3713,1.1109,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,France,DR Congo,FRA,COD,1,1-1,1.0,1.0,1.0,1.748,0.8329,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Japan,Norway,JPN,NOR,1,1-3,1.0,1.0,3.0,1.2814,1.1402,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,England,Austria,ENG,AUT,1,2-0,1.0,2.0,0.0,1.4507,1.0078,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Scotland,Spain,SCO,ESP,1,1-3,1.0,1.0,3.0,0.9134,1.5304,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,England,Morocco,ENG,MAR,1,1-0,1.0,1.0,0.0,1.3175,1.1623,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Morocco,Netherlands,MAR,NED,1,4-2,1.0,4.0,2.0,1.2064,1.2121,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Netherlands,Egypt,NED,EGY,1,4-2,1.0,4.0,2.0,1.3805,1.0461,1.0,0.0,0.0,1.0,0.0
+round_of_32_4,round_of_32,Qatar,Austria,QAT,AUT,1,0-0,1.0,0.0,0.0,1.1125,1.3768,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Mexico,IR Iran,MEX,IRN,1,3-0,1.0,3.0,0.0,1.3478,1.2756,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Canada,Jordan,CAN,JOR,1,0-2,1.0,0.0,2.0,1.4854,1.0733,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Switzerland,Japan,SUI,JPN,1,1-2,1.0,1.0,2.0,1.2709,1.1625,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Portugal,New Zealand,POR,NZL,1,2-1,1.0,2.0,1.0,1.6567,0.8085,1.0,0.0,0.0,1.0,0.0
+round_of_32_4,round_of_32,Senegal,South Africa,SEN,RSA,1,1-2,1.0,1.0,2.0,1.5057,0.9943,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Czechia,Morocco,CZE,MAR,1,0-3,1.0,0.0,3.0,1.0694,1.4849,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,IR Iran,Japan,IRN,JPN,1,3-1,1.0,3.0,1.0,1.244,1.1915,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,South Africa,Sweden,RSA,SWE,1,3-4,1.0,3.0,4.0,1.0607,1.333,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Morocco,Algeria,MAR,ALG,1,2-0,1.0,2.0,0.0,1.4463,1.0525,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,England,Japan,ENG,JPN,1,1-1,1.0,1.0,1.0,1.3795,1.0207,0.0,1.0,0.0,1.0,1.0
+round_of_32_4,round_of_32,Netherlands,Sweden,NED,SWE,1,3-0,1.0,3.0,0.0,1.3681,1.014,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Turkiye,Egypt,TUR,EGY,1,3-1,1.0,3.0,1.0,1.285,1.2361,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Belgium,Netherlands,BEL,NED,1,3-2,1.0,3.0,2.0,1.2049,1.1783,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Tunisia,Australia,TUN,AUS,1,0-2,1.0,0.0,2.0,1.083,1.4177,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Argentina,South Africa,ARG,RSA,1,2-1,1.0,2.0,1.0,1.6892,0.8467,1.0,0.0,0.0,0.0,0.0
+round_of_32_4,round_of_32,Saudi Arabia,Turkiye,KSA,TUR,1,0-1,1.0,0.0,1.0,1.0032,1.5133,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Qatar,DR Congo,QAT,COD,1,0-1,1.0,0.0,1.0,1.299,1.1609,0.0,0.0,1.0,0.0,0.0
+round_of_32_4,round_of_32,Scotland,Colombia,SCO,COL,1,1-1,1.0,1.0,1.0,1.0488,1.4075,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,United States,Germany,USA,GER,1,0-1,1.0,0.0,1.0,1.2433,1.2524,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,United States,Ecuador,USA,ECU,1,2-1,1.0,2.0,1.0,1.3886,1.169,1.0,0.0,0.0,1.0,0.0
+round_of_32_5,round_of_32,Paraguay,Haiti,PAR,HAI,1,0-0,1.0,0.0,0.0,1.5878,1.0007,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Scotland,Canada,SCO,CAN,1,2-1,1.0,2.0,1.0,1.1619,1.3373,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Spain,Jordan,ESP,JOR,1,2-0,1.0,2.0,0.0,1.7039,0.8448,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Algeria,Morocco,ALG,MAR,1,1-0,1.0,1.0,0.0,1.0525,1.4463,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Belgium,Haiti,BEL,HAI,1,1-0,1.0,1.0,0.0,1.8293,0.8293,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Argentina,Mexico,ARG,MEX,1,3-2,1.0,3.0,2.0,1.3447,1.1386,1.0,0.0,0.0,1.0,0.0
+round_of_32_5,round_of_32,Canada,Czechia,CAN,CZE,1,1-1,1.0,1.0,1.0,1.3625,1.1615,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Japan,South Africa,JPN,RSA,1,0-0,1.0,0.0,0.0,1.4487,0.984,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Japan,Austria,JPN,AUT,1,2-2,1.0,2.0,2.0,1.2286,1.155,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Senegal,Uzbekistan,SEN,UZB,1,1-0,1.0,1.0,0.0,1.4609,0.9993,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Algeria,Paraguay,ALG,PAR,1,2-3,1.0,2.0,3.0,1.2346,1.3055,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Uruguay,Qatar,URU,QAT,1,1-0,1.0,1.0,0.0,1.4404,1.0176,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Mexico,Czechia,MEX,CZE,1,2-4,1.0,2.0,4.0,1.4747,1.0524,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Iraq,France,IRQ,FRA,1,0-2,1.0,0.0,2.0,0.8826,1.6929,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Panama,Germany,PAN,GER,1,0-1,1.0,0.0,1.0,1.0596,1.3648,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Uruguay,Haiti,URU,HAI,1,1-2,1.0,1.0,2.0,1.6597,0.8593,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Belgium,IR Iran,BEL,IRN,1,0-0,1.0,0.0,0.0,1.3566,1.2012,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Japan,Germany,JPN,GER,1,1-2,1.0,1.0,2.0,1.0899,1.2671,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Egypt,Japan,EGY,JPN,1,0-1,1.0,0.0,1.0,1.1535,1.2708,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Japan,Curacao,JPN,CUW,1,2-1,1.0,2.0,1.0,1.6478,0.8528,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Algeria,Netherlands,ALG,NED,1,2-5,1.0,2.0,5.0,1.0395,1.4367,0.0,0.0,1.0,1.0,0.0
+round_of_32_5,round_of_32,Argentina,New Zealand,ARG,NZL,1,0-1,1.0,0.0,1.0,1.8744,0.7708,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Portugal,Tunisia,POR,TUN,1,1-0,1.0,1.0,0.0,1.368,0.9338,1.0,0.0,0.0,1.0,0.0
+round_of_32_5,round_of_32,Qatar,Haiti,QAT,HAI,1,1-0,1.0,1.0,0.0,1.4547,1.0662,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Australia,Colombia,AUS,COL,1,1-2,1.0,1.0,2.0,1.1811,1.2946,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Croatia,Paraguay,CRO,PAR,1,1-0,1.0,1.0,0.0,1.4257,1.0913,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,New Zealand,Uzbekistan,NZL,UZB,1,0-1,1.0,0.0,1.0,1.1317,1.4152,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Curacao,Cape Verde,CUW,CPV,1,0-1,1.0,0.0,1.0,1.1019,1.2648,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Uruguay,Austria,URU,AUT,1,2-1,1.0,2.0,1.0,1.2692,1.111,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Belgium,United States,BEL,USA,1,0-1,1.0,0.0,1.0,1.3148,1.2372,0.0,0.0,1.0,1.0,0.0
+round_of_32_5,round_of_32,Germany,Canada,GER,CAN,1,1-0,1.0,1.0,0.0,1.3787,1.1406,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Senegal,Morocco,SEN,MAR,1,1-0,1.0,1.0,0.0,1.1598,1.2926,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Czechia,Ivory Coast,CZE,CIV,1,0-0,1.0,0.0,0.0,1.2863,1.2492,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Croatia,Norway,CRO,NOR,1,2-1,1.0,2.0,1.0,1.3958,1.079,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Uruguay,Spain,URU,ESP,1,3-2,1.0,3.0,2.0,1.0336,1.3472,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Senegal,Egypt,SEN,EGY,1,5-0,1.0,5.0,0.0,1.3209,1.1656,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Uruguay,Mexico,URU,MEX,1,0-0,1.0,0.0,0.0,1.1899,1.2728,0.0,1.0,0.0,1.0,1.0
+round_of_32_5,round_of_32,Spain,Panama,ESP,PAN,1,2-0,1.0,2.0,0.0,1.5087,0.9727,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Qatar,Panama,QAT,PAN,1,1-2,1.0,1.0,2.0,1.1868,1.4234,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Canada,Argentina,CAN,ARG,1,1-0,1.0,1.0,0.0,1.052,1.484,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Colombia,Jordan,COL,JOR,1,4-1,1.0,4.0,1.0,1.567,0.97,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Netherlands,Brazil,NED,BRA,1,0-2,1.0,0.0,2.0,1.1605,1.1987,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,South Africa,Norway,RSA,NOR,1,2-3,1.0,2.0,3.0,1.0792,1.4155,0.0,0.0,1.0,0.0,0.0
+round_of_32_5,round_of_32,Mexico,Curacao,MEX,CUW,1,2-0,1.0,2.0,0.0,1.792,0.8408,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Turkiye,Norway,TUR,NOR,1,2-1,1.0,2.0,1.0,1.362,1.2233,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Japan,Uruguay,JPN,URU,1,3-1,1.0,3.0,1.0,1.1238,1.2069,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,Japan,New Zealand,JPN,NZL,1,1-0,1.0,1.0,0.0,1.6718,0.8958,1.0,0.0,0.0,0.0,0.0
+round_of_32_5,round_of_32,France,Qatar,FRA,QAT,1,5-0,1.0,5.0,0.0,1.701,0.9424,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Argentina,New Zealand,ARG,NZL,1,2-1,1.0,2.0,1.0,1.8733,0.7708,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Japan,Saudi Arabia,JPN,KSA,1,1-1,1.0,1.0,1.0,1.4255,0.9362,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Korea Republic,Germany,KOR,GER,1,1-2,1.0,1.0,2.0,1.1465,1.3229,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Panama,Turkiye,PAN,TUR,1,3-1,1.0,3.0,1.0,1.2164,1.3261,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Egypt,Colombia,EGY,COL,1,0-3,1.0,0.0,3.0,1.1343,1.3445,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,France,Ivory Coast,FRA,CIV,1,2-2,1.0,2.0,2.0,1.6346,0.9586,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Senegal,Ghana,SEN,GHA,1,2-3,1.0,2.0,3.0,1.4146,1.0901,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Colombia,Germany,COL,GER,1,0-0,1.0,0.0,0.0,1.1531,1.1955,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Spain,Qatar,ESP,QAT,1,2-1,1.0,2.0,1.0,1.6705,0.9424,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,United States,Norway,USA,NOR,1,0-1,1.0,0.0,1.0,1.4608,1.1729,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Qatar,Netherlands,QAT,NED,1,1-0,1.0,1.0,0.0,0.9978,1.5157,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,IR Iran,Paraguay,IRN,PAR,1,4-2,1.0,4.0,2.0,1.3936,1.1768,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,England,Senegal,ENG,SEN,1,0-1,1.0,0.0,1.0,1.3948,1.0609,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Brazil,Austria,BRA,AUT,1,0-1,1.0,0.0,1.0,1.3892,1.0541,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Ecuador,Japan,ECU,JPN,1,0-0,1.0,0.0,0.0,1.182,1.2173,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Czechia,Tunisia,CZE,TUN,1,0-3,1.0,0.0,3.0,1.2592,1.2011,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Paraguay,Uruguay,PAR,URU,1,2-3,1.0,2.0,3.0,1.11,1.3512,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Austria,Germany,AUT,GER,1,0-1,1.0,0.0,1.0,1.0768,1.3317,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Spain,United States,ESP,USA,1,0-2,1.0,0.0,2.0,1.3835,1.1406,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Croatia,Cape Verde,CRO,CPV,1,2-0,1.0,2.0,0.0,1.6434,0.8475,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Argentina,IR Iran,ARG,IRN,1,0-0,1.0,0.0,0.0,1.3902,1.1135,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Senegal,Scotland,SEN,SCO,1,1-1,1.0,1.0,1.0,1.3836,1.0784,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Japan,Mexico,JPN,MEX,1,3-1,1.0,3.0,1.0,1.1518,1.3224,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Germany,Canada,GER,CAN,1,1-0,1.0,1.0,0.0,1.3779,1.1399,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Mexico,Uruguay,MEX,URU,1,3-1,1.0,3.0,1.0,1.272,1.1892,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Germany,Bosnia and Herzegovina,GER,BIH,1,4-1,1.0,4.0,1.0,1.6518,0.9127,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Senegal,Egypt,SEN,EGY,1,2-1,1.0,2.0,1.0,1.3209,1.1656,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Argentina,Colombia,ARG,COL,1,0-0,1.0,0.0,0.0,1.2869,1.0636,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Saudi Arabia,Korea Republic,KSA,KOR,1,1-0,1.0,1.0,0.0,0.978,1.4418,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Spain,Paraguay,ESP,PAR,1,1-2,1.0,1.0,2.0,1.568,1.0279,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Argentina,Uzbekistan,ARG,UZB,1,1-1,1.0,1.0,1.0,1.6399,0.8853,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Croatia,Curacao,CRO,CUW,1,2-0,1.0,2.0,0.0,1.7939,0.8056,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Algeria,DR Congo,ALG,COD,1,1-3,1.0,1.0,3.0,1.3533,1.0997,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,United States,South Africa,USA,RSA,1,7-1,1.0,7.0,1.0,1.6515,0.9726,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Turkiye,Sweden,TUR,SWE,1,2-1,1.0,2.0,1.0,1.3378,1.1527,1.0,0.0,0.0,1.0,0.0
+round_of_32_6,round_of_32,Ivory Coast,Turkiye,CIV,TUR,1,1-2,1.0,1.0,2.0,1.1531,1.4242,0.0,0.0,1.0,1.0,0.0
+round_of_32_6,round_of_32,Tunisia,Canada,TUN,CAN,1,1-0,1.0,1.0,0.0,1.1258,1.3846,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Belgium,Korea Republic,BEL,KOR,1,4-4,1.0,4.0,4.0,1.3888,1.1409,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Iraq,Austria,IRQ,AUT,1,1-5,1.0,1.0,5.0,1.0839,1.4278,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Ecuador,Canada,ECU,CAN,1,1-0,1.0,1.0,0.0,1.2861,1.2731,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Egypt,Cape Verde,EGY,CPV,1,3-0,1.0,3.0,0.0,1.4905,0.9754,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Australia,Scotland,AUS,SCO,1,3-1,1.0,3.0,1.0,1.3685,1.117,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Switzerland,Canada,SUI,CAN,1,1-0,1.0,1.0,0.0,1.3836,1.1671,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Scotland,DR Congo,SCO,COD,1,1-1,1.0,1.0,1.0,1.3105,1.1082,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Morocco,Uruguay,MAR,URU,1,1-1,1.0,1.0,1.0,1.2305,1.152,0.0,1.0,0.0,1.0,1.0
+round_of_32_6,round_of_32,Uzbekistan,IR Iran,UZB,IRN,1,0-1,1.0,0.0,1.0,1.0086,1.4966,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Belgium,DR Congo,BEL,COD,1,1-0,1.0,1.0,0.0,1.6325,0.903,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,Korea Republic,Colombia,KOR,COL,1,2-1,1.0,2.0,1.0,1.1619,1.3558,1.0,0.0,0.0,0.0,0.0
+round_of_32_6,round_of_32,United States,Uruguay,USA,URU,1,1-2,1.0,1.0,2.0,1.2812,1.1922,0.0,0.0,1.0,0.0,0.0
+round_of_32_6,round_of_32,Austria,Turkiye,AUT,TUR,1,2-1,1.0,2.0,1.0,1.2369,1.243,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Switzerland,Uzbekistan,SUI,UZB,2,5-0,0.5,3.5,0.5,1.608,0.9841,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Senegal,England,SEN,ENG,1,0-1,1.0,0.0,1.0,1.0609,1.3965,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Belgium,France,BEL,FRA,1,2-1,1.0,2.0,1.0,1.1399,1.3239,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Uruguay,Bosnia and Herzegovina,URU,BIH,1,2-1,1.0,2.0,1.0,1.5751,0.9422,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Qatar,Norway,QAT,NOR,1,2-2,1.0,2.0,2.0,1.1602,1.3633,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Argentina,Morocco,ARG,MAR,1,1-2,1.0,1.0,2.0,1.3034,1.1448,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Australia,Qatar,AUS,QAT,1,2-0,1.0,2.0,0.0,1.4336,1.1073,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Jordan,South Africa,JOR,RSA,1,1-2,1.0,1.0,2.0,1.2232,1.2467,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Panama,Japan,PAN,JPN,1,1-2,1.0,1.0,2.0,1.1365,1.3107,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Senegal,IR Iran,SEN,IRN,1,2-0,1.0,2.0,0.0,1.2384,1.2571,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Mexico,Ivory Coast,MEX,CIV,1,0-2,1.0,0.0,2.0,1.5194,1.1035,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Uruguay,New Zealand,URU,NZL,1,0-1,1.0,0.0,1.0,1.728,0.8617,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Ivory Coast,Germany,CIV,GER,1,3-1,1.0,3.0,1.0,1.0442,1.455,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Morocco,Switzerland,MAR,SUI,1,0-0,1.0,0.0,0.0,1.2729,1.2768,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Spain,Ghana,ESP,GHA,1,2-1,1.0,2.0,1.0,1.6325,0.961,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Turkiye,Uzbekistan,TUR,UZB,1,0-2,1.0,0.0,2.0,1.4947,1.0598,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Saudi Arabia,United States,KSA,USA,1,0-1,1.0,0.0,1.0,0.9625,1.6271,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Norway,Spain,NOR,ESP,1,2-2,1.0,2.0,2.0,1.0176,1.537,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Tunisia,Senegal,TUN,SEN,1,1-0,1.0,1.0,0.0,1.0455,1.4333,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Uzbekistan,Brazil,UZB,BRA,1,0-2,1.0,0.0,2.0,0.9395,1.5911,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Switzerland,Paraguay,SUI,PAR,1,0-0,1.0,0.0,0.0,1.4974,1.1496,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,England,Croatia,ENG,CRO,1,1-0,1.0,1.0,0.0,1.3062,1.1126,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Brazil,Cape Verde,BRA,CPV,1,2-1,1.0,2.0,1.0,1.6409,0.8189,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Australia,Ivory Coast,AUS,CIV,1,2-0,1.0,2.0,0.0,1.3784,1.1264,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Ecuador,Germany,ECU,GER,1,0-1,1.0,0.0,1.0,1.104,1.321,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,France,Japan,FRA,JPN,1,0-3,1.0,0.0,3.0,1.4261,1.0005,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Algeria,Tunisia,ALG,TUN,1,1-0,1.0,1.0,0.0,1.3008,1.2284,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,United States,Mexico,USA,MEX,1,2-2,1.0,2.0,2.0,1.3147,1.3086,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,South Africa,Cape Verde,RSA,CPV,1,1-1,1.0,1.0,1.0,1.2714,1.1119,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Sweden,Senegal,SWE,SEN,1,0-3,1.0,0.0,3.0,1.0883,1.309,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Morocco,Australia,MAR,AUS,1,2-2,1.0,2.0,2.0,1.3389,1.1472,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Saudi Arabia,Brazil,KSA,BRA,1,0-0,1.0,0.0,0.0,0.8893,1.6137,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Australia,Egypt,AUS,EGY,1,2-3,1.0,2.0,3.0,1.3065,1.2074,0.0,0.0,1.0,1.0,0.0
+round_of_32_7,round_of_32,Switzerland,Tunisia,SUI,TUN,1,0-0,1.0,0.0,0.0,1.5028,1.0296,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Germany,Uzbekistan,GER,UZB,1,1-0,1.0,1.0,0.0,1.5253,0.9597,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Argentina,South Africa,ARG,RSA,1,1-0,1.0,1.0,0.0,1.6922,0.8467,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,France,Portugal,FRA,POR,1,1-1,1.0,1.0,1.0,1.2871,1.0344,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,United States,Algeria,USA,ALG,1,2-0,1.0,2.0,0.0,1.5077,1.133,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Czechia,France,CZE,FRA,1,1-2,1.0,1.0,2.0,0.9147,1.5896,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Ghana,Saudi Arabia,GHA,KSA,1,0-0,1.0,0.0,0.0,1.3162,1.0906,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Spain,IR Iran,ESP,IRN,1,2-2,1.0,2.0,2.0,1.4292,1.1081,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Spain,DR Congo,ESP,COD,1,2-1,1.0,2.0,1.0,1.7208,0.8329,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Argentina,Brazil,ARG,BRA,1,1-2,1.0,1.0,2.0,1.2464,1.1381,0.0,0.0,1.0,1.0,0.0
+round_of_32_7,round_of_32,Germany,Canada,GER,CAN,1,1-2,1.0,1.0,2.0,1.3795,1.1413,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Morocco,Scotland,MAR,SCO,1,1-1,1.0,1.0,1.0,1.4574,1.0716,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,Morocco,Canada,MAR,CAN,1,1-1,1.0,1.0,1.0,1.4473,1.1684,0.0,1.0,0.0,1.0,1.0
+round_of_32_7,round_of_32,IR Iran,Brazil,IRN,BRA,1,2-1,1.0,2.0,1.0,1.1816,1.3488,1.0,0.0,0.0,0.0,0.0
+round_of_32_7,round_of_32,Czechia,England,CZE,ENG,1,0-1,1.0,0.0,1.0,0.9332,1.5404,0.0,0.0,1.0,0.0,0.0
+round_of_32_7,round_of_32,Netherlands,Ecuador,NED,ECU,1,2-1,1.0,2.0,1.0,1.3248,1.0732,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Netherlands,Morocco,NED,MAR,1,2-1,1.0,2.0,1.0,1.2051,1.2005,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Korea Republic,Mexico,KOR,MEX,1,0-1,1.0,0.0,1.0,1.2057,1.3726,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,IR Iran,England,IRN,ENG,1,0-1,1.0,0.0,1.0,1.1249,1.3987,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Korea Republic,Germany,KOR,GER,1,2-1,1.0,2.0,1.0,1.1409,1.3145,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Curacao,Belgium,CUW,BEL,1,1-2,1.0,1.0,2.0,0.7862,1.7891,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Belgium,Egypt,BEL,EGY,1,3-0,1.0,3.0,0.0,1.4368,1.0656,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Japan,Ivory Coast,JPN,CIV,1,4-1,1.0,4.0,1.0,1.3342,1.0708,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Turkiye,Uruguay,TUR,URU,1,2-0,1.0,2.0,0.0,1.1297,1.2842,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,South Africa,France,RSA,FRA,1,3-2,1.0,3.0,2.0,0.8385,1.7548,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Switzerland,Argentina,SUI,ARG,1,2-1,1.0,2.0,1.0,1.0872,1.294,1.0,0.0,0.0,1.0,0.0
+round_of_32_8,round_of_32,Argentina,Spain,ARG,ESP,1,1-1,1.0,1.0,1.0,1.1599,1.1967,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Netherlands,Uruguay,NED,URU,1,1-3,1.0,1.0,3.0,1.2138,1.0868,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Germany,Netherlands,GER,NED,1,2-1,1.0,2.0,1.0,1.141,1.1771,1.0,0.0,0.0,1.0,0.0
+round_of_32_8,round_of_32,Colombia,Norway,COL,NOR,1,2-0,1.0,2.0,0.0,1.4142,1.1147,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Uzbekistan,Jordan,UZB,JOR,1,1-3,1.0,1.0,3.0,1.2469,1.24,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Algeria,Mexico,ALG,MEX,1,2-1,1.0,2.0,1.0,1.1246,1.4855,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Scotland,Switzerland,SCO,SUI,1,3-1,1.0,3.0,1.0,1.0551,1.4396,1.0,0.0,0.0,1.0,0.0
+round_of_32_8,round_of_32,Turkiye,Paraguay,TUR,PAR,1,2-0,1.0,2.0,0.0,1.3814,1.2286,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Korea Republic,Japan,KOR,JPN,1,1-0,1.0,1.0,0.0,1.1759,1.2145,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Switzerland,DR Congo,SUI,COD,1,4-0,1.0,4.0,0.0,1.5515,0.9631,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Mexico,Cape Verde,MEX,CPV,1,1-1,1.0,1.0,1.0,1.63,0.8798,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Portugal,United States,POR,USA,1,2-1,1.0,2.0,1.0,1.1847,1.1944,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Ecuador,Morocco,ECU,MAR,1,1-2,1.0,1.0,2.0,1.1217,1.3263,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Egypt,Morocco,EGY,MAR,1,3-2,1.0,3.0,2.0,1.0963,1.3846,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Scotland,Iraq,SCO,IRQ,1,1-2,1.0,1.0,2.0,1.3116,1.1685,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Algeria,Senegal,ALG,SEN,1,2-1,1.0,2.0,1.0,1.1082,1.3663,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Bosnia and Herzegovina,Croatia,BIH,CRO,1,2-1,1.0,2.0,1.0,0.9187,1.6484,1.0,0.0,0.0,1.0,0.0
+round_of_32_8,round_of_32,Switzerland,Spain,SUI,ESP,1,1-1,1.0,1.0,1.0,1.082,1.3287,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Scotland,Haiti,SCO,HAI,1,3-1,1.0,3.0,1.0,1.4582,1.0107,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,France,Belgium,FRA,BEL,1,0-2,1.0,0.0,2.0,1.3139,1.1312,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,United States,Ecuador,USA,ECU,1,1-0,1.0,1.0,0.0,1.3788,1.1608,1.0,0.0,0.0,1.0,0.0
+round_of_32_8,round_of_32,Morocco,Uruguay,MAR,URU,1,0-1,1.0,0.0,1.0,1.2244,1.1446,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Portugal,Austria,POR,AUT,1,2-2,1.0,2.0,2.0,1.2605,1.0351,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Sweden,Croatia,SWE,CRO,1,2-2,1.0,2.0,2.0,1.0102,1.3622,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Algeria,IR Iran,ALG,IRN,1,2-4,1.0,2.0,4.0,1.1184,1.3997,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Scotland,Qatar,SCO,QAT,1,1-1,1.0,1.0,1.0,1.3288,1.1994,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,England,Egypt,ENG,EGY,1,1-2,1.0,1.0,2.0,1.4918,1.0029,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Spain,Uzbekistan,ESP,UZB,1,4-0,1.0,4.0,0.0,1.673,0.8767,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Ecuador,Scotland,ECU,SCO,1,1-2,1.0,1.0,2.0,1.3381,1.1048,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Switzerland,Netherlands,SUI,NED,1,2-3,1.0,2.0,3.0,1.1458,1.2054,0.0,0.0,1.0,1.0,0.0
+round_of_32_8,round_of_32,Argentina,Sweden,ARG,SWE,1,1-1,1.0,1.0,1.0,1.4599,0.9566,0.0,1.0,0.0,1.0,1.0
+round_of_32_8,round_of_32,Morocco,Ecuador,MAR,ECU,1,1-0,1.0,1.0,0.0,1.3263,1.1217,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,France,England,FRA,ENG,1,0-2,1.0,0.0,2.0,1.2365,1.1745,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Qatar,South Africa,QAT,RSA,1,1-2,1.0,1.0,2.0,1.3053,1.1687,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Sweden,Qatar,SWE,QAT,1,0-1,1.0,0.0,1.0,1.2756,1.1347,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Egypt,Canada,EGY,CAN,1,3-0,1.0,3.0,0.0,1.2489,1.3206,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Ecuador,Ivory Coast,ECU,CIV,1,2-0,1.0,2.0,0.0,1.3478,1.1157,1.0,0.0,0.0,0.0,0.0
+round_of_32_8,round_of_32,Ivory Coast,Switzerland,CIV,SUI,1,1-3,1.0,1.0,3.0,1.0655,1.5223,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,Cape Verde,Argentina,CPV,ARG,1,0-1,1.0,0.0,1.0,0.7678,1.6805,0.0,0.0,1.0,0.0,0.0
+round_of_32_8,round_of_32,England,Czechia,ENG,CZE,1,0-1,1.0,0.0,1.0,1.5287,0.9261,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Portugal,Algeria,POR,ALG,2,1-1,0.5,1.5,0.5,1.3356,1.0146,0.5,0.5,0.0,0.5,0.5
+round_of_32_9,round_of_32,Brazil,DR Congo,BRA,COD,1,2-1,1.0,2.0,1.0,1.5884,0.8711,1.0,0.0,0.0,1.0,0.0
+round_of_32_9,round_of_32,Qatar,Portugal,QAT,POR,1,2-3,1.0,2.0,3.0,0.9739,1.4098,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Panama,Austria,PAN,AUT,1,1-1,1.0,1.0,1.0,1.1689,1.268,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Ecuador,Jordan,ECU,JOR,1,2-1,1.0,2.0,1.0,1.4664,1.0079,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Turkiye,Haiti,TUR,HAI,1,2-0,1.0,2.0,0.0,1.5916,0.9367,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Portugal,Mexico,POR,MEX,1,0-1,1.0,0.0,1.0,1.1646,1.1686,0.0,0.0,1.0,1.0,0.0
+round_of_32_9,round_of_32,Qatar,Switzerland,QAT,SUI,1,1-0,1.0,1.0,0.0,1.0323,1.5602,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Sweden,Switzerland,SWE,SUI,1,2-2,1.0,2.0,2.0,1.0481,1.4092,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Austria,Japan,AUT,JPN,1,0-3,1.0,0.0,3.0,1.1302,1.2049,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Germany,Egypt,GER,EGY,1,2-2,1.0,2.0,2.0,1.3488,1.0554,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Panama,Germany,PAN,GER,1,0-4,1.0,0.0,4.0,1.0369,1.3356,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Algeria,Turkiye,ALG,TUR,1,4-3,1.0,4.0,3.0,1.1582,1.374,1.0,0.0,0.0,1.0,0.0
+round_of_32_9,round_of_32,France,Jordan,FRA,JOR,1,0-0,1.0,0.0,0.0,1.6968,0.8285,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Algeria,Japan,ALG,JPN,1,0-1,1.0,0.0,1.0,1.0808,1.2955,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Morocco,Korea Republic,MAR,KOR,1,4-1,1.0,4.0,1.0,1.3105,1.1067,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Japan,Germany,JPN,GER,1,0-3,1.0,0.0,3.0,1.0689,1.24,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Canada,Portugal,CAN,POR,1,1-1,1.0,1.0,1.0,1.0798,1.2852,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,DR Congo,Czechia,COD,CZE,1,1-1,1.0,1.0,1.0,1.1073,1.2828,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Canada,Curacao,CAN,CUW,1,2-2,1.0,2.0,2.0,1.6203,0.908,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Paraguay,Ghana,PAR,GHA,1,0-1,1.0,0.0,1.0,1.3162,1.1851,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Colombia,Jordan,COL,JOR,1,0-1,1.0,0.0,1.0,1.5334,0.9512,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Mexico,France,MEX,FRA,1,0-3,1.0,0.0,3.0,1.1089,1.3751,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,South Africa,Uzbekistan,RSA,UZB,1,2-1,1.0,2.0,1.0,1.1609,1.2026,1.0,0.0,0.0,1.0,0.0
+round_of_32_9,round_of_32,Belgium,Croatia,BEL,CRO,1,1-2,1.0,1.0,2.0,1.2303,1.1562,0.0,0.0,1.0,1.0,0.0
+round_of_32_9,round_of_32,Portugal,South Africa,POR,RSA,1,1-0,1.0,1.0,0.0,1.4647,0.8709,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Brazil,Korea Republic,BRA,KOR,1,1-1,1.0,1.0,1.0,1.3513,1.1007,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Uzbekistan,Norway,UZB,NOR,1,1-0,1.0,1.0,0.0,1.0638,1.3439,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Argentina,Germany,ARG,GER,1,0-1,1.0,0.0,1.0,1.2452,1.067,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Egypt,Australia,EGY,AUS,1,2-0,1.0,2.0,0.0,1.1841,1.2813,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,England,Canada,ENG,CAN,1,3-2,1.0,3.0,2.0,1.4706,1.0453,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Netherlands,Ghana,NED,GHA,1,2-1,1.0,2.0,1.0,1.4485,0.9979,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Belgium,Ghana,BEL,GHA,1,1-0,1.0,1.0,0.0,1.5164,1.0216,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Ivory Coast,Uruguay,CIV,URU,1,0-0,1.0,0.0,0.0,1.0151,1.3554,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Brazil,Qatar,BRA,QAT,1,0-1,1.0,0.0,1.0,1.5438,0.9855,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Spain,Colombia,ESP,COL,1,1-2,1.0,1.0,2.0,1.2939,1.0365,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,DR Congo,Cape Verde,COD,CPV,1,2-0,1.0,2.0,0.0,1.2325,1.0799,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Colombia,Uruguay,COL,URU,1,0-4,1.0,0.0,4.0,1.1642,1.1613,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Argentina,IR Iran,ARG,IRN,1,1-0,1.0,1.0,0.0,1.3612,1.092,1.0,0.0,0.0,1.0,0.0
+round_of_32_9,round_of_32,Japan,Scotland,JPN,SCO,1,2-0,1.0,2.0,0.0,1.3054,1.045,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Algeria,Qatar,ALG,QAT,1,2-1,1.0,2.0,1.0,1.29,1.173,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,Czechia,Qatar,CZE,QAT,1,0-2,1.0,0.0,2.0,1.3091,1.2043,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Ghana,Tunisia,GHA,TUN,1,1-1,1.0,1.0,1.0,1.2487,1.2411,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Portugal,Senegal,POR,SEN,1,1-2,1.0,1.0,2.0,1.1936,1.0748,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Paraguay,Czechia,PAR,CZE,1,1-2,1.0,1.0,2.0,1.3116,1.2288,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Mexico,Algeria,MEX,ALG,1,3-0,1.0,3.0,0.0,1.464,1.1083,1.0,0.0,0.0,0.0,0.0
+round_of_32_9,round_of_32,England,Netherlands,ENG,NED,1,2-2,1.0,2.0,2.0,1.2257,1.0864,0.0,1.0,0.0,1.0,1.0
+round_of_32_9,round_of_32,Brazil,Ecuador,BRA,ECU,1,1-3,1.0,1.0,3.0,1.3477,1.057,0.0,0.0,1.0,0.0,0.0
+round_of_32_9,round_of_32,Switzerland,Canada,SUI,CAN,1,0-1,1.0,0.0,1.0,1.3548,1.1428,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Ghana,Czechia,GHA,CZE,2,0-2,0.5,1.0,1.5,1.2005,1.2303,0.5,0.0,0.5,0.0,0.0
+round_of_16_1,round_of_16,Portugal,Colombia,POR,COL,1,0-3,1.0,0.0,3.0,1.0744,1.0488,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Croatia,Morocco,CRO,MAR,1,3-4,1.0,3.0,4.0,1.1598,1.1394,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Argentina,Algeria,ARG,ALG,1,1-2,1.0,1.0,2.0,1.4682,0.9251,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Netherlands,Japan,NED,JPN,1,2-1,1.0,2.0,1.0,1.2096,0.9969,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Brazil,United States,BRA,USA,1,2-0,1.0,2.0,0.0,1.2456,1.1394,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Croatia,Spain,CRO,ESP,1,3-0,1.0,3.0,0.0,1.04,1.2426,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Australia,IR Iran,AUS,IRN,1,1-0,1.0,1.0,0.0,1.1664,1.2299,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Colombia,Turkiye,COL,TUR,1,1-2,1.0,1.0,2.0,1.2641,1.0897,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Uzbekistan,Netherlands,UZB,NED,1,2-1,1.0,2.0,1.0,0.8869,1.4226,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Colombia,Norway,COL,NOR,1,2-0,1.0,2.0,0.0,1.3583,1.0582,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,England,Mexico,ENG,MEX,1,1-1,1.0,1.0,1.0,1.2983,1.0886,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Mexico,Spain,MEX,ESP,1,0-3,1.0,0.0,3.0,1.0756,1.2962,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Morocco,Netherlands,MAR,NED,1,1-1,1.0,1.0,1.0,1.1538,1.1374,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,United States,Belgium,USA,BEL,1,1-0,1.0,1.0,0.0,1.1825,1.2302,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,IR Iran,Ivory Coast,IRN,CIV,1,5-2,1.0,5.0,2.0,1.3678,1.0364,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Korea Republic,Colombia,KOR,COL,1,0-0,1.0,0.0,0.0,1.112,1.2746,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Belgium,Sweden,BEL,SWE,1,3-1,1.0,3.0,1.0,1.3698,0.9753,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,England,Ivory Coast,ENG,CIV,1,1-1,1.0,1.0,1.0,1.5112,0.9174,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Jordan,Australia,JOR,AUS,1,1-0,1.0,1.0,0.0,0.9901,1.4284,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Senegal,Croatia,SEN,CRO,1,0-0,1.0,0.0,0.0,1.0987,1.201,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Spain,Switzerland,ESP,SUI,1,0-1,1.0,0.0,1.0,1.275,1.0203,0.0,0.0,1.0,1.0,0.0
+round_of_16_1,round_of_16,Paraguay,Austria,PAR,AUT,1,0-2,1.0,0.0,2.0,1.1619,1.2175,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Saudi Arabia,Netherlands,KSA,NED,1,0-1,1.0,0.0,1.0,0.838,1.4531,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Switzerland,Netherlands,SUI,NED,1,0-1,1.0,0.0,1.0,1.0959,1.1297,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Argentina,Mexico,ARG,MEX,1,2-0,1.0,2.0,0.0,1.2715,1.0652,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Spain,United States,ESP,USA,1,1-2,1.0,1.0,2.0,1.319,1.0754,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,France,Belgium,FRA,BEL,1,1-0,1.0,1.0,0.0,1.2616,1.0728,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Switzerland,United States,SUI,USA,1,1-2,1.0,1.0,2.0,1.2021,1.1996,0.0,0.0,1.0,1.0,0.0
+round_of_16_1,round_of_16,Switzerland,Korea Republic,SUI,KOR,1,1-0,1.0,1.0,0.0,1.334,1.1089,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Switzerland,Panama,SUI,PAN,1,1-1,1.0,1.0,1.0,1.3645,1.0657,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Portugal,Korea Republic,POR,KOR,1,2-2,1.0,2.0,2.0,1.1977,1.0461,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,England,Netherlands,ENG,NED,1,4-0,1.0,4.0,0.0,1.1862,1.0405,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Austria,Germany,AUT,GER,1,0-1,1.0,0.0,1.0,1.029,1.2429,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Haiti,Ghana,HAI,GHA,1,1-2,1.0,1.0,2.0,0.9964,1.3928,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,Belgium,Portugal,BEL,POR,1,1-1,1.0,1.0,1.0,1.1396,1.047,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Mexico,Germany,MEX,GER,1,3-2,1.0,3.0,2.0,1.1793,1.1733,1.0,0.0,0.0,1.0,0.0
+round_of_16_1,round_of_16,Germany,Bosnia and Herzegovina,GER,BIH,1,2-1,1.0,2.0,1.0,1.5757,0.8626,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Netherlands,Belgium,NED,BEL,1,2-0,1.0,2.0,0.0,1.1152,1.136,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Czechia,France,CZE,FRA,1,0-2,1.0,0.0,2.0,0.874,1.4828,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,France,Czechia,FRA,CZE,1,3-0,1.0,3.0,0.0,1.5049,0.8614,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Egypt,IR Iran,EGY,IRN,1,0-0,1.0,0.0,0.0,1.1275,1.2781,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,United States,Egypt,USA,EGY,1,2-1,1.0,2.0,1.0,1.3855,1.0772,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Algeria,United States,ALG,USA,1,0-1,1.0,0.0,1.0,1.0853,1.4198,0.0,0.0,1.0,0.0,0.0
+round_of_16_1,round_of_16,England,Australia,ENG,AUS,1,3-1,1.0,3.0,1.0,1.3783,0.985,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Japan,Spain,JPN,ESP,1,0-0,1.0,0.0,0.0,0.9494,1.3058,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Japan,Uruguay,JPN,URU,1,1-1,1.0,1.0,1.0,1.0737,1.1313,0.0,1.0,0.0,1.0,1.0
+round_of_16_1,round_of_16,Senegal,Germany,SEN,GER,1,2-1,1.0,2.0,1.0,1.0845,1.2025,1.0,0.0,0.0,0.0,0.0
+round_of_16_1,round_of_16,Spain,Belgium,ESP,BEL,1,1-2,1.0,1.0,2.0,1.2306,1.0659,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Mexico,Japan,MEX,JPN,1,2-1,1.0,2.0,1.0,1.2796,1.1048,1.0,0.0,0.0,1.0,0.0
+round_of_16_2,round_of_16,England,Australia,ENG,AUS,1,0-1,1.0,0.0,1.0,1.3954,1.0161,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Sweden,Japan,SWE,JPN,1,3-1,1.0,3.0,1.0,1.0391,1.2162,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Czechia,France,CZE,FRA,1,0-5,1.0,0.0,5.0,0.8848,1.5314,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Croatia,Korea Republic,CRO,KOR,1,2-1,1.0,2.0,1.0,1.276,1.0802,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Austria,Colombia,AUT,COL,1,1-2,1.0,1.0,2.0,1.0981,1.2542,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Korea Republic,Paraguay,KOR,PAR,1,0-3,1.0,0.0,3.0,1.2821,1.1666,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,DR Congo,Bosnia and Herzegovina,COD,BIH,1,1-2,1.0,1.0,2.0,1.2292,1.1567,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Croatia,Tunisia,CRO,TUN,1,2-1,1.0,2.0,1.0,1.4512,0.9461,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Cape Verde,Spain,CPV,ESP,1,0-2,1.0,0.0,2.0,0.7434,1.6629,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Australia,Mexico,AUS,MEX,1,2-0,1.0,2.0,0.0,1.1482,1.3289,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Switzerland,Brazil,SUI,BRA,1,0-2,1.0,0.0,2.0,1.1242,1.2172,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,IR Iran,Portugal,IRN,POR,1,2-0,1.0,2.0,0.0,1.1249,1.1741,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Egypt,Czechia,EGY,CZE,1,3-2,1.0,3.0,2.0,1.2903,1.1222,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Canada,France,CAN,FRA,1,1-2,1.0,1.0,2.0,1.0073,1.4948,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Jordan,Switzerland,JOR,SUI,1,2-4,1.0,2.0,4.0,0.9525,1.5477,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Algeria,Argentina,ALG,ARG,1,1-3,1.0,1.0,3.0,0.9563,1.4845,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Korea Republic,England,KOR,ENG,1,0-2,1.0,0.0,2.0,1.0333,1.3907,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Haiti,Colombia,HAI,COL,1,0-0,1.0,0.0,0.0,0.8514,1.6401,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Mexico,Austria,MEX,AUT,1,2-3,1.0,2.0,3.0,1.3457,1.0994,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Scotland,Korea Republic,SCO,KOR,1,2-0,1.0,2.0,0.0,1.1246,1.2937,1.0,0.0,0.0,1.0,0.0
+round_of_16_2,round_of_16,Paraguay,Ecuador,PAR,ECU,1,4-0,1.0,4.0,0.0,1.1651,1.2706,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,United States,France,USA,FRA,1,1-1,1.0,1.0,1.0,1.1041,1.349,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,France,Norway,FRA,NOR,1,2-0,1.0,2.0,0.0,1.5089,0.983,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,United States,England,USA,ENG,1,1-2,1.0,1.0,2.0,1.1264,1.3158,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,United States,Spain,USA,ESP,1,1-0,1.0,1.0,0.0,1.0971,1.3335,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Ecuador,England,ECU,ENG,1,0-4,1.0,0.0,4.0,0.9989,1.3871,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,South Africa,Morocco,RSA,MAR,1,1-1,1.0,1.0,1.0,0.9055,1.533,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Sweden,Netherlands,SWE,NED,1,1-1,1.0,1.0,1.0,0.98,1.3094,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Tunisia,Qatar,TUN,QAT,1,0-0,1.0,0.0,0.0,1.2563,1.2025,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,France,Mexico,FRA,MEX,1,3-1,1.0,3.0,1.0,1.3564,1.0943,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Colombia,Jordan,COL,JOR,1,0-1,1.0,0.0,1.0,1.5133,0.94,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Brazil,Japan,BRA,JPN,1,1-3,1.0,1.0,3.0,1.276,1.0304,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Norway,Portugal,NOR,POR,1,2-2,1.0,2.0,2.0,1.0374,1.2627,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Switzerland,South Africa,SUI,RSA,1,1-0,1.0,1.0,0.0,1.5264,0.9483,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Netherlands,Morocco,NED,MAR,1,3-0,1.0,3.0,0.0,1.17,1.166,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Turkiye,IR Iran,TUR,IRN,1,1-2,1.0,1.0,2.0,1.2262,1.2905,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Croatia,Sweden,CRO,SWE,1,2-3,1.0,2.0,3.0,1.3253,0.9805,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Colombia,Qatar,COL,QAT,1,0-1,1.0,0.0,1.0,1.4866,1.0082,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Australia,Egypt,AUS,EGY,1,3-0,1.0,3.0,0.0,1.2588,1.1693,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Portugal,Morocco,POR,MAR,1,3-1,1.0,3.0,1.0,1.1094,1.1605,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Czechia,England,CZE,ENG,1,1-5,1.0,1.0,5.0,0.9026,1.4741,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Paraguay,Netherlands,PAR,NED,1,2-0,1.0,2.0,0.0,1.0481,1.3703,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Iraq,Turkiye,IRQ,TUR,1,0-0,1.0,0.0,0.0,1.0651,1.4144,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Brazil,Belgium,BRA,BEL,1,2-0,1.0,2.0,0.0,1.1767,1.173,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,Argentina,Australia,ARG,AUS,1,2-1,1.0,2.0,1.0,1.367,1.0008,1.0,0.0,0.0,0.0,0.0
+round_of_16_2,round_of_16,England,Argentina,ENG,ARG,1,1-1,1.0,1.0,1.0,1.1472,1.1471,0.0,1.0,0.0,1.0,1.0
+round_of_16_2,round_of_16,Austria,Turkiye,AUT,TUR,1,2-3,1.0,2.0,3.0,1.1888,1.2025,0.0,0.0,1.0,1.0,0.0
+round_of_16_2,round_of_16,Belgium,DR Congo,BEL,COD,1,0-1,1.0,0.0,1.0,1.5795,0.8736,0.0,0.0,1.0,0.0,0.0
+round_of_16_2,round_of_16,Haiti,Scotland,HAI,SCO,1,0-1,1.0,0.0,1.0,0.9865,1.4077,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Uruguay,Austria,URU,AUT,2,2-3,0.5,2.0,1.5,1.2211500000000002,1.0752,0.5,0.0,0.5,0.0,0.0
+round_of_16_3,round_of_16,Germany,Argentina,GER,ARG,1,1-0,1.0,1.0,0.0,1.0539,1.2279,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,United States,Japan,USA,JPN,1,1-0,1.0,1.0,0.0,1.2826,1.1097,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Paraguay,Germany,PAR,GER,1,2-1,1.0,2.0,1.0,1.0795,1.3717,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Scotland,Panama,SCO,PAN,1,0-0,1.0,0.0,0.0,1.1593,1.2541,0.0,1.0,0.0,1.0,1.0
+round_of_16_3,round_of_16,Spain,Colombia,ESP,COL,1,2-1,1.0,2.0,1.0,1.2772,1.0239,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Algeria,France,ALG,FRA,1,0-3,1.0,0.0,3.0,0.9523,1.547,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Belgium,Ghana,BEL,GHA,1,2-2,1.0,2.0,2.0,1.5001,1.0109,0.0,1.0,0.0,1.0,1.0
+round_of_16_3,round_of_16,Argentina,Germany,ARG,GER,1,0-1,1.0,0.0,1.0,1.2199,1.0466,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Canada,Spain,CAN,ESP,1,1-2,1.0,1.0,2.0,1.0085,1.4716,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Japan,Norway,JPN,NOR,1,2-1,1.0,2.0,1.0,1.2317,1.1061,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Austria,Qatar,AUT,QAT,1,1-0,1.0,1.0,0.0,1.3257,1.0801,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Senegal,IR Iran,SEN,IRN,1,3-1,1.0,3.0,1.0,1.2004,1.2191,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Paraguay,Senegal,PAR,SEN,1,2-0,1.0,2.0,0.0,1.1313,1.3183,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Czechia,Ecuador,CZE,ECU,1,0-1,1.0,0.0,1.0,1.0778,1.3199,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,France,Tunisia,FRA,TUN,1,4-1,1.0,4.0,1.0,1.5612,0.8588,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Germany,Uruguay,GER,URU,1,1-0,1.0,1.0,0.0,1.1781,1.0869,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Haiti,Germany,HAI,GER,1,2-3,1.0,2.0,3.0,0.8087,1.6838,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Belgium,United States,BEL,USA,1,0-1,1.0,0.0,1.0,1.2648,1.1981,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Germany,Croatia,GER,CRO,1,3-4,1.0,3.0,4.0,1.1575,1.1481,0.0,0.0,1.0,1.0,0.0
+round_of_16_3,round_of_16,Japan,IR Iran,JPN,IRN,1,1-2,1.0,1.0,2.0,1.1531,1.1988,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Japan,Senegal,JPN,SEN,1,0-2,1.0,0.0,2.0,1.1425,1.1693,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Netherlands,Japan,NED,JPN,1,0-0,1.0,0.0,0.0,1.2181,1.0251,0.0,1.0,0.0,1.0,1.0
+round_of_16_3,round_of_16,New Zealand,Germany,NZL,GER,1,1-3,1.0,1.0,3.0,0.8127,1.6826,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Portugal,Mexico,POR,MEX,1,0-2,1.0,0.0,2.0,1.1383,1.156,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Qatar,Germany,QAT,GER,1,2-1,1.0,2.0,1.0,0.9968,1.4614,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Colombia,Senegal,COL,SEN,1,3-3,1.0,3.0,3.0,1.2084,1.1572,0.0,1.0,0.0,1.0,1.0
+round_of_16_3,round_of_16,Croatia,Colombia,CRO,COL,1,1-0,1.0,1.0,0.0,1.2104,1.1225,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Uzbekistan,Saudi Arabia,UZB,KSA,1,2-0,1.0,2.0,0.0,1.1698,1.0903,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Cape Verde,Paraguay,CPV,PAR,1,1-0,1.0,1.0,0.0,1.0218,1.4462,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Uruguay,Argentina,URU,ARG,1,0-4,1.0,0.0,4.0,1.0027,1.2576,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,United States,Croatia,USA,CRO,1,0-2,1.0,0.0,2.0,1.2123,1.2164,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Germany,DR Congo,GER,COD,1,2-1,1.0,2.0,1.0,1.5039,0.8795,1.0,0.0,0.0,1.0,0.0
+round_of_16_3,round_of_16,Senegal,United States,SEN,USA,1,2-3,1.0,2.0,3.0,1.1634,1.3041,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Czechia,Turkiye,CZE,TUR,1,1-2,1.0,1.0,2.0,1.1013,1.3221,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Croatia,Turkiye,CRO,TUR,1,1-0,1.0,1.0,0.0,1.3191,1.0765,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Uruguay,Tunisia,URU,TUN,1,1-0,1.0,1.0,0.0,1.3754,0.9647,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Senegal,Korea Republic,SEN,KOR,1,1-0,1.0,1.0,0.0,1.2297,1.1495,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Spain,Ecuador,ESP,ECU,1,1-2,1.0,1.0,2.0,1.4095,0.9802,0.0,0.0,1.0,1.0,0.0
+round_of_16_3,round_of_16,Panama,Egypt,PAN,EGY,1,3-2,1.0,3.0,2.0,1.1975,1.2554,1.0,0.0,0.0,1.0,0.0
+round_of_16_3,round_of_16,Canada,Australia,CAN,AUS,1,2-1,1.0,2.0,1.0,1.2405,1.2677,1.0,0.0,0.0,1.0,0.0
+round_of_16_3,round_of_16,Colombia,Switzerland,COL,SUI,1,1-0,1.0,1.0,0.0,1.1899,1.2117,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Brazil,DR Congo,BRA,COD,1,4-2,1.0,4.0,2.0,1.5687,0.8552,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Norway,Morocco,NOR,MAR,1,2-1,1.0,2.0,1.0,1.0566,1.3496,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Mexico,IR Iran,MEX,IRN,1,2-2,1.0,2.0,2.0,1.3065,1.2371,0.0,1.0,0.0,1.0,1.0
+round_of_16_3,round_of_16,Turkiye,Belgium,TUR,BEL,1,2-1,1.0,2.0,1.0,1.0643,1.3246,1.0,0.0,0.0,0.0,0.0
+round_of_16_3,round_of_16,Japan,Korea Republic,JPN,KOR,1,1-2,1.0,1.0,2.0,1.1812,1.145,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,Japan,Uruguay,JPN,URU,1,0-1,1.0,0.0,1.0,1.0876,1.1651,0.0,0.0,1.0,0.0,0.0
+round_of_16_3,round_of_16,France,Austria,FRA,AUT,1,0-1,1.0,0.0,1.0,1.4485,0.9573,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,England,Netherlands,ENG,NED,1,1-2,1.0,1.0,2.0,1.2061,1.0441,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Belgium,Mexico,BEL,MEX,1,2-1,1.0,2.0,1.0,1.2654,1.1611,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Uruguay,England,URU,ENG,1,0-1,1.0,0.0,1.0,1.0142,1.2525,0.0,0.0,1.0,1.0,0.0
+round_of_16_4,round_of_16,Qatar,Korea Republic,QAT,KOR,1,2-4,1.0,2.0,4.0,1.0615,1.3321,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Morocco,Belgium,MAR,BEL,1,1-1,1.0,1.0,1.0,1.1905,1.2009,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Australia,Belgium,AUS,BEL,1,2-2,1.0,2.0,2.0,1.0769,1.3161,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,South Africa,Japan,RSA,JPN,1,0-1,1.0,0.0,1.0,0.9504,1.3649,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Japan,Turkiye,JPN,TUR,1,1-1,1.0,1.0,1.0,1.2057,1.1196,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Senegal,South Africa,SEN,RSA,1,4-3,1.0,4.0,3.0,1.4528,0.9403,1.0,0.0,0.0,1.0,0.0
+round_of_16_4,round_of_16,Ivory Coast,Switzerland,CIV,SUI,1,1-1,1.0,1.0,1.0,1.0341,1.4407,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,New Zealand,Spain,NZL,ESP,1,1-1,1.0,1.0,1.0,0.7427,1.8008,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Ivory Coast,Uruguay,CIV,URU,1,0-3,1.0,0.0,3.0,0.9996,1.3026,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Switzerland,Germany,SUI,GER,1,1-3,1.0,1.0,3.0,1.1387,1.133,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Switzerland,Colombia,SUI,COL,1,0-2,1.0,0.0,2.0,1.2079,1.1604,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Spain,Jordan,ESP,JOR,1,1-0,1.0,1.0,0.0,1.64,0.7997,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Uzbekistan,Algeria,UZB,ALG,1,1-1,1.0,1.0,1.0,1.0788,1.2536,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,United States,Scotland,USA,SCO,1,2-1,1.0,2.0,1.0,1.4072,0.9889,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Norway,Turkiye,NOR,TUR,1,3-4,1.0,3.0,4.0,1.174,1.2893,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Tunisia,Korea Republic,TUN,KOR,1,0-1,1.0,0.0,1.0,1.0951,1.3174,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Brazil,Switzerland,BRA,SUI,1,0-1,1.0,0.0,1.0,1.2161,1.0992,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Switzerland,Cape Verde,SUI,CPV,1,4-1,1.0,4.0,1.0,1.5771,0.8347,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,England,Portugal,ENG,POR,1,4-0,1.0,4.0,0.0,1.2004,0.9885,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Brazil,Morocco,BRA,MAR,1,1-0,1.0,1.0,0.0,1.2157,1.1467,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Australia,Egypt,AUS,EGY,1,1-2,1.0,1.0,2.0,1.2618,1.1426,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Germany,Iraq,GER,IRQ,1,1-1,1.0,1.0,1.0,1.4493,0.9105,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Japan,Algeria,JPN,ALG,1,3-1,1.0,3.0,1.0,1.2721,1.0421,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Algeria,Bosnia and Herzegovina,ALG,BIH,1,0-0,1.0,0.0,0.0,1.3879,1.0427,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Mexico,Spain,MEX,ESP,1,1-3,1.0,1.0,3.0,1.0864,1.292,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,South Africa,Scotland,RSA,SCO,1,1-3,1.0,1.0,3.0,1.0758,1.2492,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Senegal,Belgium,SEN,BEL,1,1-0,1.0,1.0,0.0,1.0877,1.2706,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Australia,United States,AUS,USA,1,1-1,1.0,1.0,1.0,1.1393,1.3108,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Brazil,Uruguay,BRA,URU,1,2-1,1.0,2.0,1.0,1.2163,1.0366,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Egypt,Austria,EGY,AUT,1,1-1,1.0,1.0,1.0,1.1642,1.1785,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Switzerland,Sweden,SUI,SWE,1,1-3,1.0,1.0,3.0,1.3814,1.0014,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Germany,IR Iran,GER,IRN,1,2-0,1.0,2.0,0.0,1.2445,1.1419,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Argentina,Scotland,ARG,SCO,1,4-0,1.0,4.0,0.0,1.435,0.8609,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,France,Egypt,FRA,EGY,1,1-1,1.0,1.0,1.0,1.4833,0.9348,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,United States,Spain,USA,ESP,1,2-0,1.0,2.0,0.0,1.1017,1.3041,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,France,Scotland,FRA,SCO,1,1-2,1.0,1.0,2.0,1.5017,0.8628,0.0,0.0,1.0,1.0,0.0
+round_of_16_4,round_of_16,Ghana,Netherlands,GHA,NED,1,3-4,1.0,3.0,4.0,0.9769,1.3822,0.0,0.0,1.0,1.0,0.0
+round_of_16_4,round_of_16,IR Iran,Argentina,IRN,ARG,1,2-3,1.0,2.0,3.0,1.0683,1.2997,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Spain,Morocco,ESP,MAR,1,0-2,1.0,0.0,2.0,1.2874,1.0754,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,Brazil,England,BRA,ENG,1,0-0,1.0,0.0,0.0,1.1047,1.1892,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Canada,South Africa,CAN,RSA,1,1-0,1.0,1.0,0.0,1.4646,1.0125,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Switzerland,Qatar,SUI,QAT,1,5-0,1.0,5.0,0.0,1.5391,0.9971,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Morocco,Egypt,MAR,EGY,1,1-0,1.0,1.0,0.0,1.3324,1.0425,1.0,0.0,0.0,0.0,0.0
+round_of_16_4,round_of_16,Morocco,Ecuador,MAR,ECU,1,2-2,1.0,2.0,2.0,1.2763,1.0667,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,IR Iran,Switzerland,IRN,SUI,1,1-3,1.0,1.0,3.0,1.1953,1.2888,0.0,0.0,1.0,0.0,0.0
+round_of_16_4,round_of_16,England,Argentina,ENG,ARG,1,2-2,1.0,2.0,2.0,1.1445,1.1212,0.0,1.0,0.0,1.0,1.0
+round_of_16_4,round_of_16,Netherlands,Czechia,NED,CZE,1,0-2,1.0,0.0,2.0,1.362,0.9155,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Germany,Brazil,GER,BRA,2,2-3,1.0,2.0,3.0,1.0629499999999998,1.1694499999999999,0.0,0.0,1.0,0.5,0.0
+round_of_16_5,round_of_16,Brazil,Belgium,BRA,BEL,1,1-0,1.0,1.0,0.0,1.1236,1.1587,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Portugal,Brazil,POR,BRA,1,1-0,1.0,1.0,0.0,1.0085,1.1352,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Panama,Tunisia,PAN,TUN,1,1-3,1.0,1.0,3.0,1.234,1.1072,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Ecuador,Paraguay,ECU,PAR,1,1-2,1.0,1.0,2.0,1.2242,1.1495,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Turkiye,Cape Verde,TUR,CPV,1,0-1,1.0,0.0,1.0,1.4166,0.9151,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Mexico,Netherlands,MEX,NED,1,1-1,1.0,1.0,1.0,1.1029,1.1815,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Qatar,Brazil,QAT,BRA,1,1-3,1.0,1.0,3.0,0.9327,1.5012,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Switzerland,Ecuador,SUI,ECU,1,2-1,1.0,2.0,1.0,1.2199,1.1218,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Japan,Panama,JPN,PAN,1,1-0,1.0,1.0,0.0,1.2082,1.0847,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Algeria,Ghana,ALG,GHA,1,2-1,1.0,2.0,1.0,1.1807,1.1657,1.0,0.0,0.0,1.0,0.0
+round_of_16_5,round_of_16,France,Turkiye,FRA,TUR,1,3-1,1.0,3.0,1.0,1.3441,0.9674,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Japan,Turkiye,JPN,TUR,1,1-1,1.0,1.0,1.0,1.154,1.1297,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Morocco,Argentina,MAR,ARG,1,1-0,1.0,1.0,0.0,1.0579,1.2376,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Germany,South Africa,GER,RSA,1,1-1,1.0,1.0,1.0,1.4483,0.8709,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Portugal,Jordan,POR,JOR,1,3-1,1.0,3.0,1.0,1.3332,0.8511,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,DR Congo,Brazil,COD,BRA,1,1-4,1.0,1.0,4.0,0.8147,1.5445,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Canada,Uzbekistan,CAN,UZB,1,1-2,1.0,1.0,2.0,1.3544,1.0674,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Ghana,Morocco,GHA,MAR,1,3-2,1.0,3.0,2.0,0.9553,1.4204,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Jordan,Canada,JOR,CAN,1,3-1,1.0,3.0,1.0,0.9952,1.4205,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,France,Uzbekistan,FRA,UZB,1,6-0,1.0,6.0,0.0,1.5823,0.8403,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,South Africa,Belgium,RSA,BEL,1,1-2,1.0,1.0,2.0,0.84,1.5733,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Algeria,Switzerland,ALG,SUI,1,1-3,1.0,1.0,3.0,1.0086,1.4416,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Croatia,Argentina,CRO,ARG,1,1-0,1.0,1.0,0.0,1.0041,1.2247,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Portugal,Saudi Arabia,POR,KSA,1,2-1,1.0,2.0,1.0,1.3474,0.8367,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Brazil,DR Congo,BRA,COD,1,2-0,1.0,2.0,0.0,1.4862,0.8472,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Uzbekistan,Germany,UZB,GER,1,0-2,1.0,0.0,2.0,0.8866,1.4406,0.0,0.0,1.0,1.0,0.0
+round_of_16_5,round_of_16,Germany,Ghana,GER,GHA,1,0-1,1.0,0.0,1.0,1.3606,1.0004,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Egypt,Czechia,EGY,CZE,1,0-1,1.0,0.0,1.0,1.2414,1.1083,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,England,Algeria,ENG,ALG,1,2-1,1.0,2.0,1.0,1.4404,0.9563,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Netherlands,Germany,NED,GER,1,0-0,1.0,0.0,0.0,1.0895,1.0934,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Belgium,Senegal,BEL,SEN,1,0-2,1.0,0.0,2.0,1.2441,1.0758,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Ivory Coast,Brazil,CIV,BRA,1,1-0,1.0,1.0,0.0,0.9405,1.4434,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Qatar,Spain,QAT,ESP,1,1-1,1.0,1.0,1.0,0.8747,1.579,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Colombia,Australia,COL,AUS,1,1-2,1.0,1.0,2.0,1.1939,1.1211,0.0,0.0,1.0,1.0,0.0
+round_of_16_5,round_of_16,DR Congo,Algeria,COD,ALG,1,0-1,1.0,0.0,1.0,1.0159,1.2922,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Uruguay,Japan,URU,JPN,1,2-1,1.0,2.0,1.0,1.1092,1.0698,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Argentina,Brazil,ARG,BRA,1,0-1,1.0,0.0,1.0,1.1378,1.0823,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Portugal,Turkiye,POR,TUR,1,3-0,1.0,3.0,0.0,1.1362,1.0195,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Japan,Korea Republic,JPN,KOR,1,2-1,1.0,2.0,1.0,1.125,1.1272,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Algeria,Colombia,ALG,COL,1,1-1,1.0,1.0,1.0,1.0035,1.3975,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Qatar,Morocco,QAT,MAR,1,2-0,1.0,2.0,0.0,0.9377,1.4553,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Tunisia,Korea Republic,TUN,KOR,1,0-2,1.0,0.0,2.0,1.0417,1.3216,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Senegal,Colombia,SEN,COL,1,1-2,1.0,1.0,2.0,1.1051,1.1816,0.0,0.0,1.0,1.0,0.0
+round_of_16_5,round_of_16,Czechia,France,CZE,FRA,1,1-1,1.0,1.0,1.0,0.8462,1.5121,0.0,1.0,0.0,1.0,1.0
+round_of_16_5,round_of_16,Mexico,Brazil,MEX,BRA,1,2-1,1.0,2.0,1.0,1.1182,1.2401,1.0,0.0,0.0,0.0,0.0
+round_of_16_5,round_of_16,Netherlands,Canada,NED,CAN,1,0-1,1.0,0.0,1.0,1.2615,1.059,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Ecuador,Ghana,ECU,GHA,1,1-2,1.0,1.0,2.0,1.273,1.0672,0.0,0.0,1.0,0.0,0.0
+round_of_16_5,round_of_16,Canada,Paraguay,CAN,PAR,1,3-2,1.0,3.0,2.0,1.2696,1.2484,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Egypt,Netherlands,EGY,NED,2,0-1,0.5,0.0,3.0,0.9959,1.2692999999999999,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Panama,Ecuador,PAN,ECU,1,1-4,1.0,1.0,4.0,1.1202,1.2293,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Algeria,Uruguay,ALG,URU,1,2-1,1.0,2.0,1.0,1.002,1.2576,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Brazil,Senegal,BRA,SEN,1,2-3,1.0,2.0,3.0,1.2679,1.021,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Cape Verde,Uzbekistan,CPV,UZB,1,2-2,1.0,2.0,2.0,1.0669,1.1824,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Japan,New Zealand,JPN,NZL,1,0-1,1.0,0.0,1.0,1.5855,0.8341,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Bosnia and Herzegovina,Canada,BIH,CAN,1,1-2,1.0,1.0,2.0,1.0101,1.4822,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Netherlands,Panama,NED,PAN,1,1-0,1.0,1.0,0.0,1.2966,0.9506,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Morocco,Korea Republic,MAR,KOR,1,1-0,1.0,1.0,0.0,1.2692,1.0453,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Austria,France,AUT,FRA,1,1-0,1.0,1.0,0.0,0.9343,1.3869,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Tunisia,United States,TUN,USA,1,1-0,1.0,1.0,0.0,0.9719,1.4024,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Qatar,Colombia,QAT,COL,1,1-1,1.0,1.0,1.0,0.9913,1.4331,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Ecuador,South Africa,ECU,RSA,1,0-2,1.0,0.0,2.0,1.3944,0.9442,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Mexico,Senegal,MEX,SEN,1,1-0,1.0,1.0,0.0,1.2724,1.1097,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Switzerland,Paraguay,SUI,PAR,1,3-1,1.0,3.0,1.0,1.425,1.0684,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,New Zealand,Uruguay,NZL,URU,1,0-2,1.0,0.0,2.0,0.8225,1.5916,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Senegal,Ecuador,SEN,ECU,1,0-2,1.0,0.0,2.0,1.2031,1.1073,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Ghana,Ecuador,GHA,ECU,1,2-0,1.0,2.0,0.0,1.0704,1.2677,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Mexico,Ecuador,MEX,ECU,1,1-1,1.0,1.0,1.0,1.3034,1.0803,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Belgium,Curacao,BEL,CUW,1,3-0,1.0,3.0,0.0,1.7145,0.7336,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Czechia,Uruguay,CZE,URU,1,3-2,1.0,3.0,2.0,0.9713,1.2912,1.0,0.0,0.0,1.0,0.0
+round_of_16_6,round_of_16,Algeria,Brazil,ALG,BRA,1,2-0,1.0,2.0,0.0,0.996,1.3818,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Saudi Arabia,Panama,KSA,PAN,1,1-2,1.0,1.0,2.0,0.9959,1.3519,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Czechia,Scotland,CZE,SCO,1,1-1,1.0,1.0,1.0,1.1581,1.1468,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Japan,France,JPN,FRA,1,1-0,1.0,1.0,0.0,0.9423,1.3189,1.0,0.0,0.0,1.0,0.0
+round_of_16_6,round_of_16,Sweden,Tunisia,SWE,TUN,1,0-1,1.0,0.0,1.0,1.1965,1.0841,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Japan,Germany,JPN,GER,1,0-4,1.0,0.0,4.0,1.0336,1.1712,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Portugal,Japan,POR,JPN,1,1-0,1.0,1.0,0.0,1.1401,0.9666,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Curacao,Portugal,CUW,POR,1,2-1,1.0,2.0,1.0,0.7325,1.5001,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,England,Japan,ENG,JPN,1,1-3,1.0,1.0,3.0,1.3112,0.9423,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Bosnia and Herzegovina,Scotland,BIH,SCO,1,2-3,1.0,2.0,3.0,1.0645,1.2885,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,IR Iran,Argentina,IRN,ARG,1,1-2,1.0,1.0,2.0,1.053,1.2832,0.0,0.0,1.0,1.0,0.0
+round_of_16_6,round_of_16,Panama,Korea Republic,PAN,KOR,1,2-0,1.0,2.0,0.0,1.1871,1.2278,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Iraq,Japan,IRQ,JPN,1,1-4,1.0,1.0,4.0,0.982,1.3342,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Brazil,Switzerland,BRA,SUI,1,1-1,1.0,1.0,1.0,1.1905,1.0792,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Colombia,Czechia,COL,CZE,1,0-0,1.0,0.0,0.0,1.3633,0.9676,0.0,1.0,0.0,1.0,1.0
+round_of_16_6,round_of_16,Netherlands,Mexico,NED,MEX,1,0-1,1.0,0.0,1.0,1.1868,1.1058,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,United States,Norway,USA,NOR,1,2-0,1.0,2.0,0.0,1.3917,1.09,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Colombia,IR Iran,COL,IRN,1,1-0,1.0,1.0,0.0,1.249,1.1281,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,DR Congo,Uruguay,COD,URU,1,1-2,1.0,1.0,2.0,0.889,1.3559,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Korea Republic,Netherlands,KOR,NED,1,3-1,1.0,3.0,1.0,1.0593,1.2235,1.0,0.0,0.0,0.0,0.0
+round_of_16_6,round_of_16,Japan,Panama,JPN,PAN,1,0-2,1.0,0.0,2.0,1.2344,1.0483,0.0,0.0,1.0,1.0,0.0
+round_of_16_6,round_of_16,Australia,Argentina,AUS,ARG,1,0-2,1.0,0.0,2.0,0.9776,1.3076,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Cape Verde,France,CPV,FRA,1,1-2,1.0,1.0,2.0,0.7285,1.6364,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Bosnia and Herzegovina,Germany,BIH,GER,1,1-4,1.0,1.0,4.0,0.8716,1.517,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Colombia,Qatar,COL,QAT,1,1-0,1.0,1.0,0.0,1.4715,0.9668,1.0,0.0,0.0,1.0,0.0
+round_of_16_6,round_of_16,Paraguay,DR Congo,PAR,COD,1,1-2,1.0,1.0,2.0,1.3516,1.008,0.0,0.0,1.0,1.0,0.0
+round_of_16_6,round_of_16,Tunisia,Portugal,TUN,POR,1,0-2,1.0,0.0,2.0,0.8815,1.2552,0.0,0.0,1.0,0.0,0.0
+round_of_16_6,round_of_16,Brazil,United States,BRA,USA,1,0-1,1.0,0.0,1.0,1.2401,1.1301,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,England,Brazil,ENG,BRA,2,0-1,1.0,0.0,1.0,1.1943,1.1028,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Curacao,Austria,CUW,AUT,1,2-0,1.0,2.0,0.0,0.8485,1.5633,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Germany,Netherlands,GER,NED,1,1-2,1.0,1.0,2.0,1.0915,1.1342,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Spain,Mexico,ESP,MEX,1,2-1,1.0,2.0,1.0,1.311,1.0808,1.0,0.0,0.0,1.0,0.0
+round_of_16_7,round_of_16,Senegal,Mexico,SEN,MEX,1,1-3,1.0,1.0,3.0,1.1421,1.2835,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Ecuador,IR Iran,ECU,IRN,1,1-0,1.0,1.0,0.0,1.1401,1.2398,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,IR Iran,Uruguay,IRN,URU,1,0-2,1.0,0.0,2.0,1.1426,1.1698,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Portugal,England,POR,ENG,1,1-3,1.0,1.0,3.0,0.9976,1.1943,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Portugal,Brazil,POR,BRA,1,2-2,1.0,2.0,2.0,1.0428,1.143,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Qatar,Uruguay,QAT,URU,1,2-1,1.0,2.0,1.0,0.9727,1.3786,1.0,0.0,0.0,1.0,0.0
+round_of_16_7,round_of_16,Portugal,IR Iran,POR,IRN,1,2-1,1.0,2.0,1.0,1.156,1.1241,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Japan,Czechia,JPN,CZE,1,1-3,1.0,1.0,3.0,1.2909,1.0189,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Belgium,Colombia,BEL,COL,1,1-3,1.0,1.0,3.0,1.1878,1.1006,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Canada,Spain,CAN,ESP,1,3-2,1.0,3.0,2.0,0.9981,1.4592,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Germany,Colombia,GER,COL,1,1-1,1.0,1.0,1.0,1.1363,1.1059,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Scotland,Belgium,SCO,BEL,1,1-4,1.0,1.0,4.0,0.9428,1.3878,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Belgium,Australia,BEL,AUS,1,2-4,1.0,2.0,4.0,1.3255,1.0668,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,France,Colombia,FRA,COL,1,2-0,1.0,2.0,0.0,1.2785,1.0152,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Egypt,Switzerland,EGY,SUI,1,2-1,1.0,2.0,1.0,1.0963,1.3208,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Tunisia,Ivory Coast,TUN,CIV,1,4-1,1.0,4.0,1.0,1.1891,1.2229,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Tunisia,Brazil,TUN,BRA,1,1-3,1.0,1.0,3.0,0.9012,1.4353,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Ghana,Turkiye,GHA,TUR,1,2-1,1.0,2.0,1.0,1.1044,1.3814,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Argentina,Spain,ARG,ESP,1,2-1,1.0,2.0,1.0,1.1004,1.1463,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Spain,Brazil,ESP,BRA,1,1-0,1.0,1.0,0.0,1.2143,1.0846,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Egypt,Canada,EGY,CAN,1,3-3,1.0,3.0,3.0,1.191,1.2781,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Austria,Norway,AUT,NOR,1,4-2,1.0,4.0,2.0,1.2055,1.1535,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Scotland,Austria,SCO,AUT,1,1-2,1.0,1.0,2.0,1.0679,1.2629,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Mexico,Paraguay,MEX,PAR,1,0-2,1.0,0.0,2.0,1.4021,1.1382,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Croatia,Brazil,CRO,BRA,1,0-2,1.0,0.0,2.0,1.1051,1.197,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Croatia,Ivory Coast,CRO,CIV,1,0-2,1.0,0.0,2.0,1.3887,0.9729,0.0,0.0,1.0,1.0,0.0
+round_of_16_7,round_of_16,Argentina,Ivory Coast,ARG,CIV,1,0-0,1.0,0.0,0.0,1.4847,0.9274,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Czechia,Uruguay,CZE,URU,1,1-1,1.0,1.0,1.0,0.9719,1.3408,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Belgium,France,BEL,FRA,1,2-0,1.0,2.0,0.0,1.0845,1.2678,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Panama,Mexico,PAN,MEX,1,0-1,1.0,0.0,1.0,1.0674,1.3681,0.0,0.0,1.0,1.0,0.0
+round_of_16_7,round_of_16,England,Ecuador,ENG,ECU,1,1-0,1.0,1.0,0.0,1.3671,0.985,1.0,0.0,0.0,1.0,0.0
+round_of_16_7,round_of_16,Brazil,Senegal,BRA,SEN,1,1-0,1.0,1.0,0.0,1.2689,1.0667,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,France,Switzerland,FRA,SUI,1,1-0,1.0,1.0,0.0,1.2938,1.0465,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Turkiye,Canada,TUR,CAN,1,1-0,1.0,1.0,0.0,1.2267,1.2088,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Morocco,Mexico,MAR,MEX,1,1-0,1.0,1.0,0.0,1.2499,1.2131,1.0,0.0,0.0,1.0,0.0
+round_of_16_7,round_of_16,Croatia,Jordan,CRO,JOR,1,0-1,1.0,0.0,1.0,1.5331,0.8926,0.0,0.0,1.0,1.0,0.0
+round_of_16_7,round_of_16,Uzbekistan,Belgium,UZB,BEL,1,1-0,1.0,1.0,0.0,0.9107,1.536,1.0,0.0,0.0,0.0,0.0
+round_of_16_7,round_of_16,Spain,Germany,ESP,GER,1,1-1,1.0,1.0,1.0,1.2405,1.0397,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Spain,Morocco,ESP,MAR,1,1-2,1.0,1.0,2.0,1.2699,1.095,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Croatia,Mexico,CRO,MEX,1,1-1,1.0,1.0,1.0,1.193,1.1928,0.0,1.0,0.0,1.0,1.0
+round_of_16_7,round_of_16,Sweden,Jordan,SWE,JOR,1,2-1,1.0,2.0,1.0,1.2859,1.0759,1.0,0.0,0.0,1.0,0.0
+round_of_16_7,round_of_16,France,Spain,FRA,ESP,1,1-3,1.0,1.0,3.0,1.1597,1.1485,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Qatar,Portugal,QAT,POR,1,0-2,1.0,0.0,2.0,0.9433,1.3757,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Norway,Switzerland,NOR,SUI,1,2-4,1.0,2.0,4.0,1.0826,1.4071,0.0,0.0,1.0,0.0,0.0
+round_of_16_7,round_of_16,Sweden,Argentina,SWE,ARG,1,0-2,1.0,0.0,2.0,0.9148,1.4068,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,France,Egypt,FRA,EGY,1,1-0,1.0,1.0,0.0,1.4374,0.9365,1.0,0.0,0.0,1.0,0.0
+round_of_16_8,round_of_16,Argentina,Turkiye,ARG,TUR,1,2-0,1.0,2.0,0.0,1.3075,0.9629,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Croatia,United States,CRO,USA,1,1-2,1.0,1.0,2.0,1.1749,1.1908,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Senegal,Belgium,SEN,BEL,1,0-2,1.0,0.0,2.0,1.0565,1.2702,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Netherlands,Portugal,NED,POR,1,0-0,1.0,0.0,0.0,1.0682,1.0289,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,England,Senegal,ENG,SEN,1,0-1,1.0,0.0,1.0,1.2937,0.9982,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Morocco,Ecuador,MAR,ECU,1,1-1,1.0,1.0,1.0,1.2395,1.0671,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Netherlands,United States,NED,USA,1,1-1,1.0,1.0,1.0,1.1698,1.1426,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Paraguay,Argentina,PAR,ARG,1,1-1,1.0,1.0,1.0,0.9621,1.4392,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Curacao,Australia,CUW,AUS,1,2-1,1.0,2.0,1.0,0.8352,1.5957,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Canada,England,CAN,ENG,1,1-0,1.0,1.0,0.0,1.0004,1.4174,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Jordan,Saudi Arabia,JOR,KSA,1,1-0,1.0,1.0,0.0,1.1788,1.1139,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Norway,Croatia,NOR,CRO,1,1-2,1.0,1.0,2.0,1.0036,1.3177,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Argentina,France,ARG,FRA,1,3-1,1.0,3.0,1.0,1.0882,1.1493,1.0,0.0,0.0,1.0,0.0
+round_of_16_8,round_of_16,New Zealand,Algeria,NZL,ALG,1,0-0,1.0,0.0,0.0,1.0006,1.4946,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Senegal,Spain,SEN,ESP,1,1-0,1.0,1.0,0.0,0.9746,1.3341,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Qatar,Spain,QAT,ESP,1,1-3,1.0,1.0,3.0,0.8794,1.5758,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Switzerland,Australia,SUI,AUS,1,1-1,1.0,1.0,1.0,1.2464,1.133,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Argentina,Paraguay,ARG,PAR,1,6-0,1.0,6.0,0.0,1.4235,0.972,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Scotland,Korea Republic,SCO,KOR,1,0-1,1.0,0.0,1.0,1.0868,1.2747,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,France,Spain,FRA,ESP,1,0-0,1.0,0.0,0.0,1.1393,1.1232,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Netherlands,Ivory Coast,NED,CIV,1,3-0,1.0,3.0,0.0,1.3582,0.9621,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Senegal,Australia,SEN,AUS,1,1-3,1.0,1.0,3.0,1.1912,1.1505,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Belgium,Ecuador,BEL,ECU,1,0-1,1.0,0.0,1.0,1.2879,1.0372,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Ivory Coast,Australia,CIV,AUS,1,1-1,1.0,1.0,1.0,1.0496,1.2984,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Turkiye,IR Iran,TUR,IRN,1,0-0,1.0,0.0,0.0,1.1786,1.2634,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Netherlands,Turkiye,NED,TUR,1,1-2,1.0,1.0,2.0,1.2177,1.0084,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Australia,Egypt,AUS,EGY,1,2-4,1.0,2.0,4.0,1.2258,1.1447,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,IR Iran,Bosnia and Herzegovina,IRN,BIH,1,3-1,1.0,3.0,1.0,1.5221,0.9401,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Iraq,Ecuador,IRQ,ECU,1,0-1,1.0,0.0,1.0,1.0084,1.3729,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Spain,Brazil,ESP,BRA,1,2-1,1.0,2.0,1.0,1.1928,1.0677,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Czechia,Turkiye,CZE,TUR,1,1-2,1.0,1.0,2.0,1.0706,1.299,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,France,Sweden,FRA,SWE,1,4-0,1.0,4.0,0.0,1.4339,0.898,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Canada,Ecuador,CAN,ECU,1,0-3,1.0,0.0,3.0,1.1931,1.2157,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Argentina,Scotland,ARG,SCO,1,2-1,1.0,2.0,1.0,1.3902,0.8677,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Uruguay,Iraq,URU,IRQ,1,2-2,1.0,2.0,2.0,1.3907,0.9406,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Ecuador,Panama,ECU,PAN,1,1-2,1.0,1.0,2.0,1.2402,1.1197,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,England,Ecuador,ENG,ECU,1,2-1,1.0,2.0,1.0,1.3429,0.9761,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Morocco,Germany,MAR,GER,1,1-3,1.0,1.0,3.0,1.1619,1.1339,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Sweden,Uruguay,SWE,URU,1,1-1,1.0,1.0,1.0,0.9656,1.2257,0.0,1.0,0.0,1.0,1.0
+round_of_16_8,round_of_16,Belgium,Senegal,BEL,SEN,1,1-3,1.0,1.0,3.0,1.2491,1.0607,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,France,Panama,FRA,PAN,1,1-2,1.0,1.0,2.0,1.433,0.9203,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Australia,New Zealand,AUS,NZL,1,3-2,1.0,3.0,2.0,1.6126,0.891,1.0,0.0,0.0,1.0,0.0
+round_of_16_8,round_of_16,England,Czechia,ENG,CZE,1,1-0,1.0,1.0,0.0,1.4366,0.8821,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Jordan,IR Iran,JOR,IRN,1,1-2,1.0,1.0,2.0,0.9854,1.4843,0.0,0.0,1.0,0.0,0.0
+round_of_16_8,round_of_16,Senegal,Ecuador,SEN,ECU,1,2-0,1.0,2.0,0.0,1.1858,1.129,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,United States,Czechia,USA,CZE,1,2-0,1.0,2.0,0.0,1.3899,0.9979,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Algeria,Croatia,ALG,CRO,1,2-0,1.0,2.0,0.0,0.9768,1.3584,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Croatia,Austria,CRO,AUT,1,1-0,1.0,1.0,0.0,1.25,1.0313,1.0,0.0,0.0,0.0,0.0
+round_of_16_8,round_of_16,Uruguay,Croatia,URU,CRO,1,1-1,1.0,1.0,1.0,1.0626,1.1557,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,Netherlands,France,NED,FRA,2,1-0,0.5,1.0,1.5,0.97275,1.20425,0.5,0.0,0.5,0.0,0.0
+quarter_final_1,quarter_final,England,Brazil,ENG,BRA,2,1-2,0.5,1.0,1.5,1.1374,1.0722999999999998,0.0,0.5,0.5,0.5,0.5
+quarter_final_1,quarter_final,Colombia,Mexico,COL,MEX,1,3-1,1.0,3.0,1.0,1.0867,1.1613,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Morocco,Australia,MAR,AUS,1,1-0,1.0,1.0,0.0,1.1976,1.0759,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Algeria,Sweden,ALG,SWE,1,0-1,1.0,0.0,1.0,1.0592,1.1348,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Brazil,Croatia,BRA,CRO,1,0-2,1.0,0.0,2.0,1.1303,1.0781,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Czechia,Colombia,CZE,COL,1,2-0,1.0,2.0,0.0,0.9412,1.3378,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Croatia,Paraguay,CRO,PAR,1,2-0,1.0,2.0,0.0,1.2924,1.023,1.0,0.0,0.0,1.0,0.0
+quarter_final_1,quarter_final,Australia,Bosnia and Herzegovina,AUS,BIH,1,0-2,1.0,0.0,2.0,1.4204,0.9567,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Turkiye,Croatia,TUR,CRO,1,2-1,1.0,2.0,1.0,0.9972,1.2737,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Uzbekistan,Spain,UZB,ESP,1,1-2,1.0,1.0,2.0,0.7957,1.556,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Colombia,Australia,COL,AUS,1,1-0,1.0,1.0,0.0,1.1722,1.1093,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Spain,IR Iran,ESP,IRN,1,2-0,1.0,2.0,0.0,1.2705,1.0336,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Morocco,Egypt,MAR,EGY,1,2-2,1.0,2.0,2.0,1.2553,1.0283,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,United States,France,USA,FRA,1,1-0,1.0,1.0,0.0,1.0388,1.3116,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,IR Iran,Switzerland,IRN,SUI,1,0-2,1.0,0.0,2.0,1.1294,1.2662,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Colombia,Argentina,COL,ARG,1,0-2,1.0,0.0,2.0,0.9416,1.1956,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Belgium,England,BEL,ENG,1,2-1,1.0,2.0,1.0,1.0566,1.1936,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,England,Colombia,ENG,COL,1,2-0,1.0,2.0,0.0,1.1716,0.9999,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Jordan,Austria,JOR,AUT,1,1-1,1.0,1.0,1.0,0.9481,1.3669,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,Senegal,Scotland,SEN,SCO,1,2-0,1.0,2.0,0.0,1.2512,0.9947,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Switzerland,Paraguay,SUI,PAR,1,0-1,1.0,0.0,1.0,1.3238,1.0785,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Austria,France,AUT,FRA,1,0-0,1.0,0.0,0.0,0.8844,1.3766,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,Netherlands,England,NED,ENG,1,0-1,1.0,0.0,1.0,0.9768,1.166,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Argentina,United States,ARG,USA,1,1-0,1.0,1.0,0.0,1.2069,1.0671,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,United States,England,USA,ENG,1,1-0,1.0,1.0,0.0,1.0439,1.2708,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,France,Morocco,FRA,MAR,1,1-0,1.0,1.0,0.0,1.2323,1.0575,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,United States,Netherlands,USA,NED,1,1-2,1.0,1.0,2.0,1.0761,1.1495,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Switzerland,Qatar,SUI,QAT,1,1-2,1.0,1.0,2.0,1.4514,0.9763,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Panama,France,PAN,FRA,1,3-1,1.0,3.0,1.0,0.8673,1.4316,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Korea Republic,Jordan,KOR,JOR,1,1-1,1.0,1.0,1.0,1.3318,1.0167,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,England,Japan,ENG,JPN,1,2-1,1.0,2.0,1.0,1.241,0.9522,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Germany,Norway,GER,NOR,1,1-1,1.0,1.0,1.0,1.2284,1.0319,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,Ghana,Switzerland,GHA,SUI,1,2-3,1.0,2.0,3.0,0.9592,1.4577,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Belgium,Netherlands,BEL,NED,1,0-2,1.0,0.0,2.0,1.0819,1.0971,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Mexico,IR Iran,MEX,IRN,1,0-4,1.0,0.0,4.0,1.2186,1.1959,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Germany,Sweden,GER,SWE,1,2-1,1.0,2.0,1.0,1.2357,0.9723,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Netherlands,Qatar,NED,QAT,1,2-1,1.0,2.0,1.0,1.3568,0.9377,1.0,0.0,0.0,1.0,0.0
+quarter_final_1,quarter_final,France,Australia,FRA,AUS,1,1-0,1.0,1.0,0.0,1.3203,0.9598,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,France,Portugal,FRA,POR,1,2-1,1.0,2.0,1.0,1.1564,0.9576,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Egypt,England,EGY,ENG,1,3-2,1.0,3.0,2.0,0.9138,1.389,1.0,0.0,0.0,1.0,0.0
+quarter_final_1,quarter_final,United States,Paraguay,USA,PAR,1,2-0,1.0,2.0,0.0,1.3588,1.107,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,United States,Turkiye,USA,TUR,1,1-2,1.0,1.0,2.0,1.2292,1.0879,0.0,0.0,1.0,0.0,0.0
+quarter_final_1,quarter_final,Japan,Argentina,JPN,ARG,1,1-0,1.0,1.0,0.0,0.8977,1.2595,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Japan,England,JPN,ENG,1,2-1,1.0,2.0,1.0,0.9181,1.2789,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Ghana,Turkiye,GHA,TUR,1,0-0,1.0,0.0,0.0,1.056,1.3462,0.0,1.0,0.0,1.0,1.0
+quarter_final_1,quarter_final,Senegal,DR Congo,SEN,COD,1,2-0,1.0,2.0,0.0,1.3578,0.9203,1.0,0.0,0.0,0.0,0.0
+quarter_final_1,quarter_final,Belgium,Scotland,BEL,SCO,1,2-2,1.0,2.0,2.0,1.2942,0.9189,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Germany,Turkiye,GER,TUR,2,3-1,0.5,2.0,1.5,1.2109,1.00725,0.5,0.0,0.5,0.0,0.0
+quarter_final_2,quarter_final,Germany,Egypt,GER,EGY,2,4-1,0.5,3.0,0.5,1.2803499999999999,0.9903,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Germany,Netherlands,GER,NED,1,2-1,1.0,2.0,1.0,1.0712,1.0737,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,United States,Belgium,USA,BEL,1,2-1,1.0,2.0,1.0,1.1509,1.2266,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Paraguay,England,PAR,ENG,1,2-1,1.0,2.0,1.0,0.9784,1.397,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Scotland,Korea Republic,SCO,KOR,1,0-3,1.0,0.0,3.0,1.0871,1.2301,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Spain,Morocco,ESP,MAR,1,2-3,1.0,2.0,3.0,1.2453,1.0552,0.0,0.0,1.0,1.0,0.0
+quarter_final_2,quarter_final,France,Australia,FRA,AUS,1,1-0,1.0,1.0,0.0,1.381,0.9564,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Belgium,Japan,BEL,JPN,1,3-2,1.0,3.0,2.0,1.2362,0.987,1.0,0.0,0.0,1.0,0.0
+quarter_final_2,quarter_final,Spain,Senegal,ESP,SEN,1,0-1,1.0,0.0,1.0,1.3174,0.965,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Japan,Switzerland,JPN,SUI,1,0-4,1.0,0.0,4.0,1.0776,1.1482,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Austria,Spain,AUT,ESP,1,0-2,1.0,0.0,2.0,0.9188,1.3186,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Senegal,Uruguay,SEN,URU,1,0-0,1.0,0.0,0.0,1.0941,1.1051,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Paraguay,Germany,PAR,GER,1,0-1,1.0,0.0,1.0,1.0514,1.2813,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Austria,Colombia,AUT,COL,1,1-0,1.0,1.0,0.0,1.062,1.1834,1.0,0.0,0.0,1.0,0.0
+quarter_final_2,quarter_final,Ecuador,Spain,ECU,ESP,1,1-3,1.0,1.0,3.0,0.9404,1.3548,0.0,0.0,1.0,1.0,0.0
+quarter_final_2,quarter_final,France,Uzbekistan,FRA,UZB,1,1-0,1.0,1.0,0.0,1.5983,0.8174,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Germany,United States,GER,USA,1,0-0,1.0,0.0,0.0,1.1676,1.161,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,United States,Korea Republic,USA,KOR,1,3-1,1.0,3.0,1.0,1.3034,1.1099,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Croatia,Switzerland,CRO,SUI,1,2-2,1.0,2.0,2.0,1.1741,1.0999,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,IR Iran,Switzerland,IRN,SUI,1,4-0,1.0,4.0,0.0,1.1534,1.2643,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Senegal,England,SEN,ENG,1,1-0,1.0,1.0,0.0,0.9869,1.2972,1.0,0.0,0.0,1.0,0.0
+quarter_final_2,quarter_final,Japan,Brazil,JPN,BRA,1,0-1,1.0,0.0,1.0,0.9888,1.2287,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Mexico,Iraq,MEX,IRQ,1,2-0,1.0,2.0,0.0,1.4702,0.9266,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Qatar,Japan,QAT,JPN,1,0-0,1.0,0.0,0.0,0.9947,1.2979,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Senegal,Algeria,SEN,ALG,1,2-1,1.0,2.0,1.0,1.2773,1.0348,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Croatia,Spain,CRO,ESP,1,1-2,1.0,1.0,2.0,1.0176,1.1935,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Uzbekistan,Scotland,UZB,SCO,1,2-1,1.0,2.0,1.0,1.0557,1.2291,1.0,0.0,0.0,1.0,0.0
+quarter_final_2,quarter_final,Cape Verde,Senegal,CPV,SEN,1,1-3,1.0,1.0,3.0,0.8474,1.4657,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Argentina,United States,ARG,USA,1,1-2,1.0,1.0,2.0,1.2442,1.0345,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Croatia,Brazil,CRO,BRA,1,0-0,1.0,0.0,0.0,1.0849,1.1533,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,United States,Sweden,USA,SWE,1,0-1,1.0,0.0,1.0,1.3449,0.9976,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Turkiye,Germany,TUR,GER,1,0-1,1.0,0.0,1.0,1.0279,1.2119,0.0,0.0,1.0,1.0,0.0
+quarter_final_2,quarter_final,Croatia,Argentina,CRO,ARG,1,0-0,1.0,0.0,0.0,1.0225,1.195,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Uruguay,France,URU,FRA,1,0-0,1.0,0.0,0.0,0.9614,1.2572,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Senegal,United States,SEN,USA,1,3-1,1.0,3.0,1.0,1.1243,1.2576,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Uruguay,Scotland,URU,SCO,1,1-0,1.0,1.0,0.0,1.2699,0.9293,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Ecuador,Netherlands,ECU,NED,1,1-1,1.0,1.0,1.0,0.9958,1.1816,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Panama,Argentina,PAN,ARG,1,0-1,1.0,0.0,1.0,0.9106,1.3218,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Canada,Morocco,CAN,MAR,1,1-2,1.0,1.0,2.0,1.0881,1.3204,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Colombia,England,COL,ENG,1,0-0,1.0,0.0,0.0,1.0081,1.1773,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Brazil,Canada,BRA,CAN,1,1-2,1.0,1.0,2.0,1.3407,1.0445,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Norway,Switzerland,NOR,SUI,1,0-1,1.0,0.0,1.0,1.065,1.3685,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,IR Iran,Morocco,IRN,MAR,1,3-2,1.0,3.0,2.0,1.107,1.2081,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Turkiye,Ecuador,TUR,ECU,1,0-0,1.0,0.0,0.0,1.1557,1.1481,0.0,1.0,0.0,1.0,1.0
+quarter_final_2,quarter_final,Korea Republic,Switzerland,KOR,SUI,1,4-3,1.0,4.0,3.0,1.1008,1.2764,1.0,0.0,0.0,0.0,0.0
+quarter_final_2,quarter_final,Uruguay,England,URU,ENG,1,0-2,1.0,0.0,2.0,0.9806,1.2264,0.0,0.0,1.0,0.0,0.0
+quarter_final_2,quarter_final,Austria,Czechia,AUT,CZE,1,2-1,1.0,2.0,1.0,1.2537,1.027,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Algeria,Colombia,ALG,COL,2,0-2,0.5,1.0,1.5,0.97965,1.3118500000000002,0.5,0.0,0.5,0.0,0.0
+quarter_final_3,quarter_final,Brazil,Ecuador,BRA,ECU,1,0-1,1.0,0.0,1.0,1.2169,0.9617,0.0,0.0,1.0,1.0,0.0
+quarter_final_3,quarter_final,Portugal,Algeria,POR,ALG,1,1-4,1.0,1.0,4.0,1.2304,0.9422,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Tunisia,Senegal,TUN,SEN,1,2-1,1.0,2.0,1.0,0.9652,1.2692,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Paraguay,Uzbekistan,PAR,UZB,1,2-1,1.0,2.0,1.0,1.2871,0.9789,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Cape Verde,New Zealand,CPV,NZL,1,3-0,1.0,3.0,0.0,1.1815,1.0409,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Netherlands,Canada,NED,CAN,1,1-1,1.0,1.0,1.0,1.2488,0.9923,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Brazil,Netherlands,BRA,NED,1,0-1,1.0,0.0,1.0,1.1023,1.0541,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Switzerland,Morocco,SUI,MAR,1,1-2,1.0,1.0,2.0,1.136,1.163,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Japan,Netherlands,JPN,NED,1,2-1,1.0,2.0,1.0,0.9422,1.1217,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Brazil,Austria,BRA,AUT,1,2-1,1.0,2.0,1.0,1.2694,0.9584,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Brazil,Tunisia,BRA,TUN,1,1-1,1.0,1.0,1.0,1.368,0.8648,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,France,South Africa,FRA,RSA,1,1-0,1.0,1.0,0.0,1.5632,0.7473,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Turkiye,Mexico,TUR,MEX,1,1-1,1.0,1.0,1.0,1.0726,1.2469,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Morocco,Switzerland,MAR,SUI,1,3-1,1.0,3.0,1.0,1.1359,1.1701,1.0,0.0,0.0,1.0,0.0
+quarter_final_3,quarter_final,Germany,Uruguay,GER,URU,1,1-1,1.0,1.0,1.0,1.0767,0.9941,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Portugal,Ecuador,POR,ECU,1,1-1,1.0,1.0,1.0,1.1339,0.9504,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Brazil,Ghana,BRA,GHA,1,2-1,1.0,2.0,1.0,1.416,0.9413,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Uzbekistan,Ecuador,UZB,ECU,1,0-1,1.0,0.0,1.0,0.9511,1.2578,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Ghana,Belgium,GHA,BEL,1,0-0,1.0,0.0,0.0,0.9351,1.4192,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Jordan,Czechia,JOR,CZE,1,2-1,1.0,2.0,1.0,1.0284,1.2237,1.0,0.0,0.0,1.0,0.0
+quarter_final_3,quarter_final,France,Algeria,FRA,ALG,1,2-0,1.0,2.0,0.0,1.4356,0.9002,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Belgium,Panama,BEL,PAN,1,3-3,1.0,3.0,3.0,1.3231,0.9432,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Switzerland,Czechia,SUI,CZE,1,0-0,1.0,0.0,0.0,1.3657,0.9677,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Croatia,Japan,CRO,JPN,1,2-2,1.0,2.0,2.0,1.1271,0.992,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Portugal,Tunisia,POR,TUN,1,1-0,1.0,1.0,0.0,1.2333,0.8315,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Brazil,Germany,BRA,GER,1,2-1,1.0,2.0,1.0,1.0896,1.0262,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Germany,Portugal,GER,POR,1,1-3,1.0,1.0,3.0,1.0369,1.0174,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Ghana,Curacao,GHA,CUW,1,0-1,1.0,0.0,1.0,1.4092,0.9565,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Czechia,Japan,CZE,JPN,1,0-3,1.0,0.0,3.0,0.9875,1.202,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,England,Netherlands,ENG,NED,1,2-0,1.0,2.0,0.0,1.1151,0.9726,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Netherlands,Scotland,NED,SCO,1,1-0,1.0,1.0,0.0,1.2222,0.8606,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Senegal,Argentina,SEN,ARG,1,2-0,1.0,2.0,0.0,0.9649,1.2088,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Ivory Coast,Panama,CIV,PAN,1,2-3,1.0,2.0,3.0,1.0745,1.2566,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Spain,Japan,ESP,JPN,1,1-2,1.0,1.0,2.0,1.2684,0.8867,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Australia,Brazil,AUS,BRA,1,1-0,1.0,1.0,0.0,1.0016,1.2436,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Uruguay,Mexico,URU,MEX,1,0-2,1.0,0.0,2.0,1.0543,1.1277,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Brazil,United States,BRA,USA,1,1-0,1.0,1.0,0.0,1.2014,1.1159,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Portugal,Colombia,POR,COL,1,2-1,1.0,2.0,1.0,1.0273,1.0112,1.0,0.0,0.0,1.0,0.0
+quarter_final_3,quarter_final,Japan,Uruguay,JPN,URU,1,5-3,1.0,5.0,3.0,0.9995,1.0575,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Colombia,Korea Republic,COL,KOR,1,0-2,1.0,0.0,2.0,1.2397,1.0633,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Qatar,Panama,QAT,PAN,1,1-0,1.0,1.0,0.0,1.067,1.2557,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Korea Republic,Argentina,KOR,ARG,1,1-0,1.0,1.0,0.0,0.9694,1.2497,1.0,0.0,0.0,0.0,0.0
+quarter_final_3,quarter_final,Colombia,France,COL,FRA,1,2-2,1.0,2.0,2.0,0.9611,1.1947,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Czechia,Germany,CZE,GER,1,0-3,1.0,0.0,3.0,0.8862,1.2433,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Mexico,Colombia,MEX,COL,1,0-0,1.0,0.0,0.0,1.118,1.1047,0.0,1.0,0.0,1.0,1.0
+quarter_final_3,quarter_final,Canada,DR Congo,CAN,COD,1,0-1,1.0,0.0,1.0,1.3903,0.9349,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Ghana,Portugal,GHA,POR,1,0-1,1.0,0.0,1.0,0.9317,1.2677,0.0,0.0,1.0,0.0,0.0
+quarter_final_3,quarter_final,Canada,United States,CAN,USA,1,2-3,1.0,2.0,3.0,1.085,1.2953,0.0,0.0,1.0,1.0,0.0
+quarter_final_4,quarter_final,Spain,United States,ESP,USA,2,1-0,0.5,0.5,0.0,1.2439,1.0126499999999998,0.5,0.5,0.0,0.5,0.5
+quarter_final_4,quarter_final,Curacao,France,CUW,FRA,1,1-2,1.0,1.0,2.0,0.6552,1.6682,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Netherlands,Argentina,NED,ARG,1,1-2,1.0,1.0,2.0,0.9879,1.0786,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Brazil,Belgium,BRA,BEL,1,1-2,1.0,1.0,2.0,1.1051,1.0826,0.0,0.0,1.0,1.0,0.0
+quarter_final_4,quarter_final,Mexico,Portugal,MEX,POR,1,2-3,1.0,2.0,3.0,1.0884,1.0723,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Ecuador,Senegal,ECU,SEN,1,0-2,1.0,0.0,2.0,1.0704,1.1197,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Uruguay,Morocco,URU,MAR,1,2-2,1.0,2.0,2.0,1.034,1.0656,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,England,Netherlands,ENG,NED,1,1-1,1.0,1.0,1.0,1.1361,0.9595,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Portugal,Argentina,POR,ARG,1,2-2,1.0,2.0,2.0,0.9359,1.0784,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Qatar,Curacao,QAT,CUW,1,1-2,1.0,1.0,2.0,1.3455,0.9408,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Portugal,Canada,POR,CAN,1,1-3,1.0,1.0,3.0,1.1833,0.9755,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Czechia,Jordan,CZE,JOR,1,2-0,1.0,2.0,0.0,1.2259,1.0058,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Colombia,Croatia,COL,CRO,1,1-0,1.0,1.0,0.0,1.061,1.1112,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Canada,Argentina,CAN,ARG,1,1-1,1.0,1.0,1.0,0.9533,1.2844,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Colombia,New Zealand,COL,NZL,1,5-2,1.0,5.0,2.0,1.5949,0.7777,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Belgium,Senegal,BEL,SEN,1,3-0,1.0,3.0,0.0,1.2167,0.9933,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Australia,Spain,AUS,ESP,1,1-3,1.0,1.0,3.0,0.9336,1.2972,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,France,Australia,FRA,AUS,1,5-2,1.0,5.0,2.0,1.3417,0.913,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Egypt,Argentina,EGY,ARG,1,2-3,1.0,2.0,3.0,0.8994,1.2937,0.0,0.0,1.0,1.0,0.0
+quarter_final_4,quarter_final,Tunisia,Korea Republic,TUN,KOR,1,0-1,1.0,0.0,1.0,1.0247,1.2417,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Brazil,France,BRA,FRA,1,3-2,1.0,3.0,2.0,1.0267,1.1329,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Ghana,Netherlands,GHA,NED,1,2-1,1.0,2.0,1.0,0.9225,1.2892,1.0,0.0,0.0,1.0,0.0
+quarter_final_4,quarter_final,Argentina,Australia,ARG,AUS,1,1-0,1.0,1.0,0.0,1.2692,0.9237,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Spain,Ecuador,ESP,ECU,1,0-2,1.0,0.0,2.0,1.3099,0.9007,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Egypt,Australia,EGY,AUS,1,0-0,1.0,0.0,0.0,1.0791,1.1516,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Austria,IR Iran,AUT,IRN,1,0-3,1.0,0.0,3.0,1.0627,1.1607,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Austria,Turkiye,AUT,TUR,1,1-1,1.0,1.0,1.0,1.1267,1.1042,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Brazil,Egypt,BRA,EGY,1,1-2,1.0,1.0,2.0,1.304,0.9416,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Paraguay,IR Iran,PAR,IRN,1,0-1,1.0,0.0,1.0,1.077,1.2312,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Brazil,Ecuador,BRA,ECU,1,0-0,1.0,0.0,0.0,1.2491,0.9537,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Ivory Coast,Spain,CIV,ESP,1,2-2,1.0,2.0,2.0,0.8635,1.4057,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Argentina,Turkiye,ARG,TUR,1,3-0,1.0,3.0,0.0,1.2477,0.9097,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Uruguay,France,URU,FRA,1,0-2,1.0,0.0,2.0,0.9272,1.2019,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Belgium,Ecuador,BEL,ECU,1,2-1,1.0,2.0,1.0,1.2521,0.9764,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Mexico,Argentina,MEX,ARG,1,1-2,1.0,1.0,2.0,1.0307,1.1726,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,England,Uruguay,ENG,URU,1,1-0,1.0,1.0,0.0,1.1858,0.9113,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Brazil,Panama,BRA,PAN,1,1-0,1.0,1.0,0.0,1.2796,0.9268,1.0,0.0,0.0,1.0,0.0
+quarter_final_4,quarter_final,France,England,FRA,ENG,1,3-1,1.0,3.0,1.0,1.1199,1.0362,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Turkiye,Germany,TUR,GER,1,1-2,1.0,1.0,2.0,0.9997,1.1462,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Morocco,Uruguay,MAR,URU,1,0-1,1.0,0.0,1.0,1.1015,1.0087,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Jordan,Senegal,JOR,SEN,1,2-1,1.0,2.0,1.0,0.8997,1.3615,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Uzbekistan,Panama,UZB,PAN,1,2-0,1.0,2.0,0.0,1.0013,1.2818,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Germany,Australia,GER,AUS,1,2-0,1.0,2.0,0.0,1.1942,0.9834,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Morocco,England,MAR,ENG,1,0-3,1.0,0.0,3.0,1.0572,1.1555,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Mexico,IR Iran,MEX,IRN,1,2-2,1.0,2.0,2.0,1.2132,1.1317,0.0,1.0,0.0,1.0,1.0
+quarter_final_4,quarter_final,Sweden,Senegal,SWE,SEN,1,1-2,1.0,1.0,2.0,0.9615,1.1534,0.0,0.0,1.0,1.0,0.0
+quarter_final_4,quarter_final,Portugal,Algeria,POR,ALG,1,2-0,1.0,2.0,0.0,1.2297,0.9127,1.0,0.0,0.0,0.0,0.0
+quarter_final_4,quarter_final,Switzerland,Croatia,SUI,CRO,1,0-4,1.0,0.0,4.0,1.0974,1.1115,0.0,0.0,1.0,0.0,0.0
+quarter_final_4,quarter_final,Argentina,Uruguay,ARG,URU,1,0-0,1.0,0.0,0.0,1.186,0.8976,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Colombia,Germany,COL,GER,1,0-1,1.0,0.0,1.0,0.9913,1.0741,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Morocco,United States,MAR,USA,1,0-1,1.0,0.0,1.0,1.1339,1.1431,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Sweden,Paraguay,SWE,PAR,1,1-3,1.0,1.0,3.0,1.0854,1.1218,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Netherlands,Korea Republic,NED,KOR,1,1-2,1.0,1.0,2.0,1.1518,0.9818,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Croatia,Morocco,CRO,MAR,1,0-2,1.0,0.0,2.0,1.089,1.0715,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Czechia,France,CZE,FRA,1,0-2,1.0,0.0,2.0,0.7924,1.4162,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Croatia,Belgium,CRO,BEL,1,0-1,1.0,0.0,1.0,1.0262,1.1196,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Bosnia and Herzegovina,Germany,BIH,GER,1,2-1,1.0,2.0,1.0,0.827,1.4732,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Turkiye,Senegal,TUR,SEN,1,0-1,1.0,0.0,1.0,1.0309,1.165,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Spain,Switzerland,ESP,SUI,1,3-1,1.0,3.0,1.0,1.1917,0.9483,1.0,0.0,0.0,1.0,0.0
+semi_final_1,semi_final,Colombia,Spain,COL,ESP,1,2-0,1.0,2.0,0.0,0.9252,1.1376,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Brazil,Senegal,BRA,SEN,1,0-1,1.0,0.0,1.0,1.2004,0.9957,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Spain,Germany,ESP,GER,1,1-0,1.0,1.0,0.0,1.1191,0.9423,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Morocco,Austria,MAR,AUT,1,0-1,1.0,0.0,1.0,1.1619,0.9883,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,United States,Spain,USA,ESP,1,3-4,1.0,3.0,4.0,1.0042,1.2281,0.0,0.0,1.0,1.0,0.0
+semi_final_1,semi_final,Switzerland,France,SUI,FRA,1,2-1,1.0,2.0,1.0,0.9797,1.2226,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Argentina,Germany,ARG,GER,1,0-1,1.0,0.0,1.0,1.1387,0.9721,0.0,0.0,1.0,1.0,0.0
+semi_final_1,semi_final,Belgium,Turkiye,BEL,TUR,1,3-3,1.0,3.0,3.0,1.2022,0.9712,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,England,United States,ENG,USA,1,0-1,1.0,0.0,1.0,1.1824,1.0526,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Jordan,Croatia,JOR,CRO,1,3-5,1.0,3.0,5.0,0.8187,1.4306,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Senegal,IR Iran,SEN,IRN,1,0-3,1.0,0.0,3.0,1.0812,1.1311,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Paraguay,Senegal,PAR,SEN,1,2-3,1.0,2.0,3.0,1.0612,1.2126,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Austria,Brazil,AUT,BRA,1,0-0,1.0,0.0,0.0,0.9039,1.2444,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,France,Germany,FRA,GER,1,2-1,1.0,2.0,1.0,1.1968,0.9742,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,England,Mexico,ENG,MEX,1,1-0,1.0,1.0,0.0,1.2235,1.044,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Argentina,Japan,ARG,JPN,1,2-3,1.0,2.0,3.0,1.1752,0.8947,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,United States,Senegal,USA,SEN,1,2-0,1.0,2.0,0.0,1.1666,1.0774,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,France,Spain,FRA,ESP,1,1-0,1.0,1.0,0.0,1.0655,1.0396,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Netherlands,Uzbekistan,NED,UZB,1,2-3,1.0,2.0,3.0,1.3477,0.8376,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Qatar,Senegal,QAT,SEN,1,2-0,1.0,2.0,0.0,0.96,1.3066,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Panama,United States,PAN,USA,1,3-3,1.0,3.0,3.0,0.9678,1.2488,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Korea Republic,Brazil,KOR,BRA,1,4-3,1.0,4.0,3.0,0.9561,1.2185,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,England,Germany,ENG,GER,1,0-2,1.0,0.0,2.0,1.116,0.987,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Germany,Sweden,GER,SWE,1,3-2,1.0,3.0,2.0,1.1543,0.9057,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Switzerland,Germany,SUI,GER,1,0-0,1.0,0.0,0.0,1.0761,1.076,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Netherlands,Croatia,NED,CRO,1,1-3,1.0,1.0,3.0,1.0766,1.0315,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,IR Iran,France,IRN,FRA,1,1-3,1.0,1.0,3.0,1.005,1.274,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Germany,Senegal,GER,SEN,1,1-2,1.0,1.0,2.0,1.117,1.0242,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Netherlands,Uruguay,NED,URU,1,2-1,1.0,2.0,1.0,1.0456,0.972,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,France,Ecuador,FRA,ECU,1,1-1,1.0,1.0,1.0,1.2662,0.9007,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,France,Argentina,FRA,ARG,1,1-1,1.0,1.0,1.0,1.0629,1.0093,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Egypt,Morocco,EGY,MAR,1,2-3,1.0,2.0,3.0,0.9589,1.2228,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,United States,England,USA,ENG,1,2-1,1.0,2.0,1.0,1.0245,1.177,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Turkiye,Canada,TUR,CAN,1,0-1,1.0,0.0,1.0,1.1596,1.1371,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Brazil,Switzerland,BRA,SUI,1,0-0,1.0,0.0,0.0,1.1205,1.0481,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Japan,IR Iran,JPN,IRN,1,0-2,1.0,0.0,2.0,1.0248,1.1194,0.0,0.0,1.0,0.0,0.0
+semi_final_1,semi_final,Japan,Turkiye,JPN,TUR,1,2-0,1.0,2.0,0.0,1.085,1.0649,1.0,0.0,0.0,0.0,0.0
+semi_final_1,semi_final,Turkiye,Korea Republic,TUR,KOR,1,3-3,1.0,3.0,3.0,1.1612,1.1439,0.0,1.0,0.0,1.0,1.0
+semi_final_1,semi_final,Senegal,England,SEN,ENG,1,0-1,1.0,0.0,1.0,0.9329,1.2404,0.0,0.0,1.0,1.0,0.0
+semi_final_1,semi_final,Belgium,Austria,BEL,AUT,1,1-0,1.0,1.0,0.0,1.1926,0.9675,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Japan,Argentina,JPN,ARG,2,0-1,1.0,0.0,1.0,0.86015,1.1467,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Ecuador,France,ECU,FRA,1,1-3,1.0,1.0,3.0,0.864,1.2356,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Algeria,Argentina,ALG,ARG,1,2-1,1.0,2.0,1.0,0.8687,1.2965,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Tunisia,Spain,TUN,ESP,1,1-0,1.0,1.0,0.0,0.7909,1.363,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Paraguay,Belgium,PAR,BEL,1,1-2,1.0,1.0,2.0,1.0005,1.2735,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Cape Verde,Portugal,CPV,POR,1,0-4,1.0,0.0,4.0,0.7197,1.3502,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Netherlands,Senegal,NED,SEN,1,2-0,1.0,2.0,0.0,1.1081,0.9405,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Netherlands,Morocco,NED,MAR,1,1-1,1.0,1.0,1.0,1.0616,0.9989,0.0,1.0,0.0,1.0,1.0
+semi_final_2,semi_final,Morocco,England,MAR,ENG,1,0-2,1.0,0.0,2.0,1.0254,1.1458,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Brazil,Curacao,BRA,CUW,1,2-0,1.0,2.0,0.0,1.5769,0.6627,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Tunisia,Canada,TUN,CAN,1,1-0,1.0,1.0,0.0,0.9887,1.1844,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Colombia,Czechia,COL,CZE,1,0-1,1.0,0.0,1.0,1.2192,0.9205,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,France,Colombia,FRA,COL,1,1-0,1.0,1.0,0.0,1.1467,0.9279,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Mexico,Argentina,MEX,ARG,1,2-0,1.0,2.0,0.0,1.001,1.1305,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Morocco,Colombia,MAR,COL,1,2-2,1.0,2.0,2.0,1.0749,1.0785,0.0,1.0,0.0,1.0,1.0
+semi_final_2,semi_final,Germany,Belgium,GER,BEL,1,2-0,1.0,2.0,0.0,0.9935,1.0855,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Ecuador,Spain,ECU,ESP,1,0-1,1.0,0.0,1.0,0.864,1.2437,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Brazil,France,BRA,FRA,1,3-0,1.0,3.0,0.0,1.0044,1.129,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Ecuador,Argentina,ECU,ARG,1,1-3,1.0,1.0,3.0,0.8682,1.1947,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Ghana,Korea Republic,GHA,KOR,1,0-1,1.0,0.0,1.0,0.9717,1.1828,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Jordan,Brazil,JOR,BRA,1,2-1,1.0,2.0,1.0,0.7773,1.407,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,France,Ghana,FRA,GHA,1,0-2,1.0,0.0,2.0,1.4253,0.837,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Panama,Argentina,PAN,ARG,1,1-2,1.0,1.0,2.0,0.8393,1.2573,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Switzerland,Ecuador,SUI,ECU,1,2-0,1.0,2.0,0.0,1.1776,1.0106,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Japan,Egypt,JPN,EGY,1,1-0,1.0,1.0,0.0,1.0923,0.9894,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Portugal,IR Iran,POR,IRN,1,1-2,1.0,1.0,2.0,1.1098,1.0008,0.0,0.0,1.0,1.0,0.0
+semi_final_2,semi_final,Brazil,Turkiye,BRA,TUR,1,0-3,1.0,0.0,3.0,1.1577,0.9208,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Portugal,Egypt,POR,EGY,1,0-1,1.0,0.0,1.0,1.1837,0.8994,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Curacao,IR Iran,CUW,IRN,1,0-3,1.0,0.0,3.0,0.8104,1.4971,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Japan,Ecuador,JPN,ECU,1,2-0,1.0,2.0,0.0,1.0396,1.0006,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,England,Spain,ENG,ESP,1,1-0,1.0,1.0,0.0,1.0147,1.0224,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Netherlands,Argentina,NED,ARG,1,1-3,1.0,1.0,3.0,0.9365,1.0585,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Senegal,France,SEN,FRA,1,2-0,1.0,2.0,0.0,0.9283,1.2165,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Panama,Belgium,PAN,BEL,1,0-2,1.0,0.0,2.0,0.937,1.2509,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Australia,England,AUS,ENG,1,0-2,1.0,0.0,2.0,0.9269,1.244,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Algeria,Brazil,ALG,BRA,1,2-1,1.0,2.0,1.0,0.9366,1.2858,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Mexico,France,MEX,FRA,1,3-1,1.0,3.0,1.0,0.9693,1.2188,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Brazil,Germany,BRA,GER,1,1-0,1.0,1.0,0.0,1.0941,0.9805,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Portugal,Uruguay,POR,URU,1,0-0,1.0,0.0,0.0,1.0468,0.9402,0.0,1.0,0.0,1.0,1.0
+semi_final_2,semi_final,Japan,Jordan,JPN,JOR,1,3-0,1.0,3.0,0.0,1.2687,0.8615,1.0,0.0,0.0,0.0,0.0
+semi_final_2,semi_final,Korea Republic,Uzbekistan,KOR,UZB,1,2-2,1.0,2.0,2.0,1.257,0.9006,0.0,1.0,0.0,1.0,1.0
+semi_final_2,semi_final,Qatar,Germany,QAT,GER,1,1-2,1.0,1.0,2.0,0.8932,1.3134,0.0,0.0,1.0,1.0,0.0
+semi_final_2,semi_final,Korea Republic,England,KOR,ENG,1,1-2,1.0,1.0,2.0,0.9511,1.2176,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Colombia,IR Iran,COL,IRN,1,1-4,1.0,1.0,4.0,1.1509,1.0408,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Germany,Senegal,GER,SEN,1,1-2,1.0,1.0,2.0,1.0858,0.9561,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,Mexico,United States,MEX,USA,1,3-1,1.0,3.0,1.0,1.1225,1.1119,1.0,0.0,0.0,1.0,0.0
+semi_final_2,semi_final,DR Congo,Portugal,COD,POR,1,0-0,1.0,0.0,0.0,0.7487,1.3363,0.0,1.0,0.0,1.0,1.0
+semi_final_2,semi_final,Portugal,Croatia,POR,CRO,1,0-1,1.0,0.0,1.0,1.0286,0.9722,0.0,0.0,1.0,0.0,0.0
+semi_final_2,semi_final,United States,Uruguay,USA,URU,1,3-0,1.0,3.0,0.0,1.0984,1.0297,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Morocco,Argentina,MAR,ARG,2,2-1,0.5,1.5,1.0,0.9498,1.0938,0.5,0.5,0.0,1.0,0.5
+third_place_1,third_place,Senegal,Brazil,SEN,BRA,2,1-3,0.5,1.0,1.5,0.9456500000000001,1.1125500000000001,0.5,0.0,0.5,0.5,0.0
+third_place_1,third_place,Colombia,Ecuador,COL,ECU,1,1-1,1.0,1.0,1.0,1.0665,0.955,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Sweden,Spain,SWE,ESP,1,1-0,1.0,1.0,0.0,0.8302,1.2451,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Netherlands,Paraguay,NED,PAR,1,4-1,1.0,4.0,1.0,1.2177,0.9443,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Croatia,Cape Verde,CRO,CPV,1,0-1,1.0,0.0,1.0,1.4181,0.7369,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Czechia,Senegal,CZE,SEN,1,1-0,1.0,1.0,0.0,0.9008,1.1607,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Croatia,Netherlands,CRO,NED,1,0-1,1.0,0.0,1.0,0.9637,1.0274,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Germany,Morocco,GER,MAR,1,2-0,1.0,2.0,0.0,1.0372,1.0558,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Turkiye,Japan,TUR,JPN,1,2-1,1.0,2.0,1.0,0.983,1.0545,1.0,0.0,0.0,1.0,0.0
+third_place_1,third_place,Switzerland,Curacao,SUI,CUW,1,1-0,1.0,1.0,0.0,1.4933,0.7108,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Spain,Canada,ESP,CAN,1,4-2,1.0,4.0,2.0,1.258,0.8632,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Brazil,Colombia,BRA,COL,1,2-0,1.0,2.0,0.0,1.0787,0.9348,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Germany,Colombia,GER,COL,1,0-2,1.0,0.0,2.0,0.9977,0.9727,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,United States,Morocco,USA,MAR,1,0-1,1.0,0.0,1.0,1.0712,1.0738,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,France,Belgium,FRA,BEL,1,2-0,1.0,2.0,0.0,1.1427,0.9603,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Argentina,Ecuador,ARG,ECU,1,1-1,1.0,1.0,1.0,1.2119,0.8357,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Turkiye,France,TUR,FRA,1,0-2,1.0,0.0,2.0,0.8579,1.223,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,England,Ecuador,ENG,ECU,1,2-0,1.0,2.0,0.0,1.1969,0.8485,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Jordan,Ghana,JOR,GHA,1,0-3,1.0,0.0,3.0,1.0223,1.1383,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Paraguay,France,PAR,FRA,1,2-1,1.0,2.0,1.0,0.9035,1.3174,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Austria,Panama,AUT,PAN,1,4-0,1.0,4.0,0.0,1.0597,0.9892,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Germany,Ecuador,GER,ECU,1,0-1,1.0,0.0,1.0,1.14,0.9122,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Mexico,Egypt,MEX,EGY,1,0-1,1.0,0.0,1.0,1.253,0.9417,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Argentina,Portugal,ARG,POR,1,1-1,1.0,1.0,1.0,1.0336,0.9353,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Spain,Portugal,ESP,POR,1,2-0,1.0,2.0,0.0,1.0516,0.9308,1.0,0.0,0.0,1.0,0.0
+third_place_1,third_place,Netherlands,Curacao,NED,CUW,1,3-0,1.0,3.0,0.0,1.4723,0.6624,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Senegal,Ecuador,SEN,ECU,1,0-1,1.0,0.0,1.0,1.0993,0.9738,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Panama,Spain,PAN,ESP,1,0-4,1.0,0.0,4.0,0.802,1.2412,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Brazil,Netherlands,BRA,NED,1,0-2,1.0,0.0,2.0,1.0166,0.9927,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,England,France,ENG,FRA,1,2-1,1.0,2.0,1.0,0.9838,1.0103,1.0,0.0,0.0,1.0,0.0
+third_place_1,third_place,Sweden,Panama,SWE,PAN,1,0-0,1.0,0.0,0.0,1.0353,1.103,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Germany,Japan,GER,JPN,1,1-2,1.0,1.0,2.0,1.0747,0.918,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Netherlands,Australia,NED,AUS,1,1-0,1.0,1.0,0.0,1.1449,0.9296,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,IR Iran,Brazil,IRN,BRA,1,0-2,1.0,0.0,2.0,1.0339,1.1148,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Germany,France,GER,FRA,1,1-1,1.0,1.0,1.0,0.9095,1.1089,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Uruguay,Germany,URU,GER,1,2-1,1.0,2.0,1.0,0.9707,1.0115,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,France,Uruguay,FRA,URU,1,0-0,1.0,0.0,0.0,1.1134,0.8911,0.0,1.0,0.0,1.0,1.0
+third_place_1,third_place,Argentina,Jordan,ARG,JOR,1,1-4,1.0,1.0,4.0,1.3934,0.7167,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Egypt,Uzbekistan,EGY,UZB,1,1-0,1.0,1.0,0.0,1.164,0.8987,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,England,Qatar,ENG,QAT,1,0-2,1.0,0.0,2.0,1.3646,0.8029,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Turkiye,Korea Republic,TUR,KOR,1,0-2,1.0,0.0,2.0,1.1283,1.0825,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Switzerland,Colombia,SUI,COL,1,2-1,1.0,2.0,1.0,1.0807,1.0289,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Japan,Germany,JPN,GER,1,2-1,1.0,2.0,1.0,0.918,1.0515,1.0,0.0,0.0,0.0,0.0
+third_place_1,third_place,Turkiye,United States,TUR,USA,1,0-2,1.0,0.0,2.0,1.0158,1.109,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Korea Republic,DR Congo,KOR,COD,1,0-1,1.0,0.0,1.0,1.2541,0.8516,0.0,0.0,1.0,0.0,0.0
+third_place_1,third_place,Senegal,Portugal,SEN,POR,1,2-1,1.0,2.0,1.0,0.9211,1.0983,1.0,0.0,0.0,1.0,0.0
+third_place_1,third_place,Austria,Uruguay,AUT,URU,1,2-2,1.0,2.0,2.0,0.9661,1.0942,0.0,1.0,0.0,1.0,1.0
+final_1,final,Germany,France,GER,FRA,1,1-0,1.0,1.0,0.0,0.9384,1.0764,1.0,0.0,0.0,0.0,0.0
+final_1,final,United States,Algeria,USA,ALG,1,2-0,1.0,2.0,0.0,1.3064,0.9638,1.0,0.0,0.0,0.0,0.0
+final_1,final,Paraguay,Tunisia,PAR,TUN,1,2-1,1.0,2.0,1.0,1.1874,1.0492,1.0,0.0,0.0,0.0,0.0
+final_1,final,Korea Republic,Belgium,KOR,BEL,1,2-1,1.0,2.0,1.0,0.9677,1.1449,1.0,0.0,0.0,1.0,0.0
+final_1,final,Morocco,Portugal,MAR,POR,1,4-1,1.0,4.0,1.0,1.024,1.0393,1.0,0.0,0.0,0.0,0.0
+final_1,final,France,Netherlands,FRA,NED,1,2-1,1.0,2.0,1.0,1.1092,0.932,1.0,0.0,0.0,0.0,0.0
+final_1,final,Belgium,Morocco,BEL,MAR,1,2-1,1.0,2.0,1.0,1.0912,1.0047,1.0,0.0,0.0,0.0,0.0
+final_1,final,Bosnia and Herzegovina,England,BIH,ENG,1,0-2,1.0,0.0,2.0,0.7499,1.5064,0.0,0.0,1.0,0.0,0.0
+final_1,final,Senegal,Argentina,SEN,ARG,1,1-0,1.0,1.0,0.0,0.9014,1.1587,1.0,0.0,0.0,0.0,0.0
+final_1,final,Spain,Brazil,ESP,BRA,1,0-1,1.0,0.0,1.0,1.0876,0.9605,0.0,0.0,1.0,0.0,0.0
+final_1,final,Colombia,Tunisia,COL,TUN,1,1-0,1.0,1.0,0.0,1.2271,0.8624,1.0,0.0,0.0,0.0,0.0
+final_1,final,Senegal,Czechia,SEN,CZE,1,1-0,1.0,1.0,0.0,1.2196,0.9138,1.0,0.0,0.0,0.0,0.0
+final_1,final,Spain,France,ESP,FRA,1,4-0,1.0,4.0,0.0,0.9879,1.0007,1.0,0.0,0.0,0.0,0.0
+final_1,final,Austria,Mexico,AUT,MEX,1,2-1,1.0,2.0,1.0,0.9841,1.1808,1.0,0.0,0.0,0.0,0.0
+final_1,final,Spain,Colombia,ESP,COL,1,1-2,1.0,1.0,2.0,1.1198,0.8803,0.0,0.0,1.0,0.0,0.0
+final_1,final,Switzerland,Germany,SUI,GER,1,1-3,1.0,1.0,3.0,1.0304,1.0057,0.0,0.0,1.0,0.0,0.0
+final_1,final,Germany,Spain,GER,ESP,1,0-2,1.0,0.0,2.0,0.9244,1.0762,0.0,0.0,1.0,0.0,0.0
+final_1,final,Belgium,Brazil,BEL,BRA,1,0-0,1.0,0.0,0.0,1.0213,1.0491,0.0,1.0,0.0,1.0,1.0
+final_1,final,United States,Argentina,USA,ARG,1,1-0,1.0,1.0,0.0,1.001,1.1334,1.0,0.0,0.0,0.0,0.0
+final_1,final,Croatia,Korea Republic,CRO,KOR,1,1-0,1.0,1.0,0.0,1.1363,0.9252,1.0,0.0,0.0,0.0,0.0
+final_1,final,IR Iran,Jordan,IRN,JOR,1,0-1,1.0,0.0,1.0,1.3679,0.8809,0.0,0.0,1.0,0.0,0.0
+final_1,final,Senegal,Ghana,SEN,GHA,1,0-1,1.0,0.0,1.0,1.2148,0.9174,0.0,0.0,1.0,0.0,0.0
+final_1,final,Brazil,Argentina,BRA,ARG,1,0-2,1.0,0.0,2.0,0.9731,1.0472,0.0,0.0,1.0,0.0,0.0
+final_1,final,France,Switzerland,FRA,SUI,1,0-2,1.0,0.0,2.0,1.1804,0.9349,0.0,0.0,1.0,0.0,0.0
+final_1,final,England,Japan,ENG,JPN,1,0-2,1.0,0.0,2.0,1.195,0.8597,0.0,0.0,1.0,0.0,0.0
+final_1,final,Japan,IR Iran,JPN,IRN,1,3-1,1.0,3.0,1.0,1.0196,1.0211,1.0,0.0,0.0,1.0,0.0
+final_1,final,United States,Turkiye,USA,TUR,1,1-2,1.0,1.0,2.0,1.145,0.962,0.0,0.0,1.0,0.0,0.0
+final_1,final,France,Egypt,FRA,EGY,1,1-1,1.0,1.0,1.0,1.3017,0.8241,0.0,1.0,0.0,1.0,1.0
+final_1,final,Uzbekistan,IR Iran,UZB,IRN,1,3-1,1.0,3.0,1.0,0.8727,1.232,1.0,0.0,0.0,0.0,0.0
+final_1,final,Qatar,Japan,QAT,JPN,1,1-0,1.0,1.0,0.0,0.9175,1.1744,1.0,0.0,0.0,0.0,0.0
+final_1,final,United States,England,USA,ENG,1,1-1,1.0,1.0,1.0,0.9695,1.1268,0.0,1.0,0.0,1.0,1.0
+final_1,final,Korea Republic,Argentina,KOR,ARG,1,0-0,1.0,0.0,0.0,0.8663,1.1979,0.0,1.0,0.0,1.0,1.0
+final_1,final,Germany,Senegal,GER,SEN,1,2-1,1.0,2.0,1.0,1.099,0.9765,1.0,0.0,0.0,0.0,0.0
+final_1,final,Germany,Belgium,GER,BEL,1,2-0,1.0,2.0,0.0,0.9773,1.0452,1.0,0.0,0.0,0.0,0.0
+final_1,final,Switzerland,Argentina,SUI,ARG,1,0-2,1.0,0.0,2.0,0.9519,1.0955,0.0,0.0,1.0,0.0,0.0
+final_1,final,Croatia,England,CRO,ENG,1,2-1,1.0,2.0,1.0,0.9576,1.0809,1.0,0.0,0.0,1.0,0.0
+final_1,final,France,Algeria,FRA,ALG,1,4-0,1.0,4.0,0.0,1.3588,0.8489,1.0,0.0,0.0,0.0,0.0
+final_1,final,Senegal,Mexico,SEN,MEX,1,1-0,1.0,1.0,0.0,1.0433,1.1028,1.0,0.0,0.0,0.0,0.0
+final_1,final,Netherlands,Brazil,NED,BRA,1,2-0,1.0,2.0,0.0,0.9939,1.0247,1.0,0.0,0.0,0.0,0.0
+final_1,final,Ecuador,Portugal,ECU,POR,1,1-0,1.0,1.0,0.0,0.9084,1.1339,1.0,0.0,0.0,1.0,0.0
+final_1,final,France,Japan,FRA,JPN,1,0-1,1.0,0.0,1.0,1.1788,0.8427,0.0,0.0,1.0,0.0,0.0
+final_1,final,Morocco,Korea Republic,MAR,KOR,1,3-0,1.0,3.0,0.0,1.1297,0.956,1.0,0.0,0.0,0.0,0.0
+final_1,final,United States,Germany,USA,GER,1,1-2,1.0,1.0,2.0,1.0552,1.0405,0.0,0.0,1.0,0.0,0.0
+final_1,final,Canada,England,CAN,ENG,1,1-3,1.0,1.0,3.0,0.9334,1.2289,0.0,0.0,1.0,0.0,0.0
+final_1,final,Brazil,IR Iran,BRA,IRN,1,2-0,1.0,2.0,0.0,1.1426,0.9699,1.0,0.0,0.0,0.0,0.0
+final_1,final,IR Iran,Senegal,IRN,SEN,1,0-1,1.0,0.0,1.0,1.091,1.0073,0.0,0.0,1.0,0.0,0.0
+final_1,final,Japan,Mexico,JPN,MEX,1,0-1,1.0,0.0,1.0,0.9701,1.087,0.0,0.0,1.0,0.0,0.0
+final_1,final,Turkiye,Portugal,TUR,POR,1,2-1,1.0,2.0,1.0,0.9164,1.1196,1.0,0.0,0.0,1.0,0.0
+final_1,final,England,Croatia,ENG,CRO,1,1-2,1.0,1.0,2.0,1.1083,0.908,0.0,0.0,1.0,0.0,0.0
+final_1,final,Belgium,United States,BEL,USA,1,2-0,1.0,2.0,0.0,1.0793,1.0226,1.0,0.0,0.0,0.0,0.0

@@ -6,7 +6,7 @@ from pathlib import Path
 import pandas as pd
 
 from src.analytics.team_dashboard import load_dashboard_data, search_team
-from src.utils.console_utils import format_decimal, format_percentage, print_separator, safe_get
+from src.utils.console_utils import format_decimal, format_percentage, normalize_text, print_separator, safe_get
 
 
 TOP_COMMANDS = {
@@ -36,6 +36,13 @@ def print_main_ranking(df: pd.DataFrame) -> None:
     print_separator()
     print("SIMULADOR MUNDIAL 2026 - PROBABILIDADES POR EQUIPO")
     print(f"Simulaciones: {simulations} | Modelo: Monte Carlo")
+    try:
+        simulation_count = int(float(simulations))
+    except (TypeError, ValueError):
+        simulation_count = 0
+    if simulation_count and simulation_count < 1000:
+        print("ADVERTENCIA: muestra chica. Estos porcentajes son una prueba tecnica, no una estimacion estable.")
+        print("Para probabilidades interpretables usa al menos: python -m src.main --simulations 1000 --seed 123")
     print_separator()
     print(f"{'N':>3}  {'Equipo':<24} {'Campeon':>8} {'Final':>8} {'Semi':>8} {'Cuartos':>8} {'R16':>8} {'R32':>8} {'Grupo':>8}")
     for _, row in df.iterrows():
@@ -56,6 +63,7 @@ def print_main_ranking(df: pd.DataFrame) -> None:
     print('- Escribi "buscar argentina" para buscar un equipo.')
     print('- Escribi "comparar 1 2" para comparar dos equipos.')
     print('- Escribi "top lesiones", "top sorpresa", "top campeon", "top grupos", "top goles", "top defensa" o "top penales".')
+    print('- Escribi "partidos" para ver marcadores mas probables o "partidos argentina" para filtrar por equipo.')
     print('- Escribi "0", "q", "quit" o "salir" para terminar.')
 
 
@@ -182,6 +190,59 @@ def print_top(df: pd.DataFrame, metric: str, n: int = 10) -> None:
         print(f"{position:>3} {str(row['team'])[:24]:<24} {value:>14}")
 
 
+def load_match_predictions(outputs_dir: Path = Path("outputs")) -> pd.DataFrame:
+    path = outputs_dir / "match_predictions.csv"
+    if not path.exists():
+        return pd.DataFrame()
+    return pd.read_csv(path)
+
+
+def print_match_predictions(matches: pd.DataFrame, query: str | None = None, limit: int = 72) -> None:
+    if matches.empty:
+        print("No hay predicciones por partido. Ejecuta primero una simulacion para generar outputs/match_predictions.csv.")
+        return
+    filtered = matches[matches["stage"].astype(str).str.lower() == "group"].copy()
+    if query:
+        normalized_query = normalize_text(query)
+        filtered = filtered[
+            filtered["team_a"].map(normalize_text).str.contains(normalized_query, na=False)
+            | filtered["team_b"].map(normalize_text).str.contains(normalized_query, na=False)
+            | filtered["team_a_id"].map(normalize_text).str.contains(normalized_query, na=False)
+            | filtered["team_b_id"].map(normalize_text).str.contains(normalized_query, na=False)
+        ]
+    if filtered.empty:
+        print(f"No encontre partidos para: {query}")
+        return
+    print_separator(120)
+    title = "RESULTADOS MAS PROBABLES POR PARTIDO - FASE DE GRUPOS"
+    if query:
+        title += f" - filtro: {query}"
+    print(title)
+    if "samples" in filtered.columns and not filtered.empty and float(filtered["samples"].min()) < 1000:
+        print("ADVERTENCIA: muestra chica. Los marcadores mas probables mejoran con mas simulaciones.")
+    print_separator(120)
+    print(
+        f"{'ID':<15} {'Fase':<14} {'Partido':<39} {'Marcador':>9} {'Prob.':>8} "
+        f"{'xG A':>7} {'xG B':>7} {'Gana A':>8} {'Empate':>8} {'Gana B':>8}"
+    )
+    for _, row in filtered.head(limit).iterrows():
+        matchup = f"{row['team_a']} vs {row['team_b']}"
+        print(
+            f"{str(row['match_id'])[:15]:<15} "
+            f"{str(row['stage'])[:14]:<14} "
+            f"{matchup[:39]:<39} "
+            f"{str(row['most_likely_score']):>9} "
+            f"{format_percentage(row.get('most_likely_score_probability')):>8} "
+            f"{format_decimal(row.get('average_xg_a')):>7} "
+            f"{format_decimal(row.get('average_xg_b')):>7} "
+            f"{format_percentage(row.get('team_a_win_probability')):>8} "
+            f"{format_percentage(row.get('draw_probability_90')):>8} "
+            f"{format_percentage(row.get('team_b_win_probability')):>8}"
+        )
+    if len(filtered) > limit:
+        print(f"... {len(filtered) - limit} partidos mas. Usa un filtro por equipo, por ejemplo: partidos argentina")
+
+
 def _handle_search(df: pd.DataFrame, query: str) -> None:
     matches = search_team(df, query)
     if not matches:
@@ -197,6 +258,7 @@ def interactive_loop(df: pd.DataFrame) -> None:
     if df.empty:
         print("No hay equipos cargados. Ejecuta primero una simulacion.")
         return
+    matches = load_match_predictions()
     print_main_ranking(df)
     while True:
         command = input("\nEntrada: ").strip()
@@ -223,6 +285,12 @@ def interactive_loop(df: pd.DataFrame) -> None:
         if normalized.startswith("top "):
             print_top(df, normalized.split(maxsplit=1)[1])
             continue
+        if normalized == "partidos":
+            print_match_predictions(matches)
+            continue
+        if normalized.startswith("partidos "):
+            print_match_predictions(matches, command.split(maxsplit=1)[1].strip())
+            continue
         print("Comando no reconocido. Usa un numero, buscar <equipo>, comparar <n> <n>, top <metrica> o salir.")
 
 
@@ -244,4 +312,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

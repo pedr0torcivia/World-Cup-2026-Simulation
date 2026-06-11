@@ -18,6 +18,7 @@ def test_monte_carlo_writes_outputs(tournament_data, tmp_path):
     assert (tmp_path / "group_probabilities.csv").exists()
     assert (tmp_path / "injuries_summary.csv").exists()
     assert (tmp_path / "match_results_sample.csv").exists()
+    assert (tmp_path / "match_predictions.csv").exists()
     assert (tmp_path / "full_report.md").exists()
 
 

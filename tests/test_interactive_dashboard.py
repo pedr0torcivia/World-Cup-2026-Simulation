@@ -1,6 +1,6 @@
 import pandas as pd
 
-from src.interactive_dashboard import compare_teams, print_main_ranking, print_team_detail, print_top
+from src.interactive_dashboard import compare_teams, print_main_ranking, print_match_predictions, print_team_detail, print_top
 from src.utils.console_utils import format_percentage
 
 
@@ -71,3 +71,24 @@ def test_print_top_orders_by_metric(capsys):
     print_top(sample_dashboard(), "campeon")
     assert "France" in capsys.readouterr().out
 
+
+def test_print_match_predictions_without_error(capsys):
+    matches = pd.DataFrame(
+        {
+            "match_id": ["G001"],
+            "stage": ["group"],
+            "team_a": ["Argentina"],
+            "team_b": ["France"],
+            "team_a_id": ["ARG"],
+            "team_b_id": ["FRA"],
+            "most_likely_score": ["1-1"],
+            "most_likely_score_probability": [0.12],
+            "average_xg_a": [1.2],
+            "average_xg_b": [1.1],
+            "team_a_win_probability": [0.36],
+            "draw_probability_90": [0.28],
+            "team_b_win_probability": [0.36],
+        }
+    )
+    print_match_predictions(matches, "arg")
+    assert "Argentina vs France" in capsys.readouterr().out
